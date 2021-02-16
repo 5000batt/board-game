@@ -1,0 +1,147 @@
+export const DETECTIVEDATA = [
+  {
+    id: 1,
+    title: '경찰과 도둑',
+    genre: 'detective',
+    image: "https://picsum.photos/id/20/300/300"
+  },
+  {
+    id: 2,
+    title: '다빈치 코드',
+    genre: 'detective',
+    image: "https://picsum.photos/id/20/300/300",  
+  },
+  {
+    id: 3,
+    title: '단간론파: 초고교급 늑대인간',
+    genre: 'detective',
+    image: "https://picsum.photos/id/200/300/300",
+  },
+  {
+    id: 4,
+    title: '듀크(보드 게임)',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 5,
+    title: '딕싯',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 6,
+    title: '루미큐브',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 7,
+    title: '레지스탕스 아발론',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 8,
+    title: '레지스탕스 쿠',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 9,
+    title: '미스터 잭',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 10,
+    title: '배틀십',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 11,
+    title: '십삼지신',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 12,
+    title: '쉐도우 헌터(보드 게임)',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 13,
+    title: '스코틀랜드 야드',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 14,
+    title: '시크릿 히틀러',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 15,
+    title: '연금술 아카데미',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 16,
+    title: '이웃집 몬스터',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 17,
+    title: '참극RoopeR',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 18,
+    title: '코드네임(보드 게임)',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 19,
+    title: '클루',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 20,
+    title: '타뷸라의 늑대',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 21,
+    title: '톱 시크릿 스파이',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 22,
+    title: '하나비(보드 게임)',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 23,
+    title: '한밤의 늑대인간',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+  {
+    id: 24,
+    title: '화이트채플에서 온 편지',
+    genre: 'detective',
+    image: "https://picsum.photos/id/1000/300/300",
+  },
+ 
+]

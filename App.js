@@ -17,6 +17,13 @@ import Details from './components/Details';
 // https://ionicons.com/
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
+import { createStore } from 'redux';
+import { Provider } from 'react-redux';
+
+import rootReducer from './redux/reducers';
+
+const store = createStore(rootReducer);
+
 const Tab = createBottomTabNavigator();
 const ListStack = createStackNavigator();
 const HomeStack = createStackNavigator();
@@ -24,8 +31,9 @@ const HomeStack = createStackNavigator();
 const ListStackScreen = () => {
   return (
     <ListStack.Navigator>
-      <ListStack.Screen name="List_genre" component={List_genre} options={{title:"List_genre", headerTitleAlign:"center"}} />
-      <ListStack.Screen name="List_boardgame" component={List_boardgame} options={{title:"List_boardgame", headerTitleAlign:"center"}} />
+      <ListStack.Screen name="List_genre" component={List_genre} options={{title:"List", headerTitleAlign:"center"}} />
+      <ListStack.Screen name="List_boardgame" component={List_boardgame} options={{title:"List", headerTitleAlign:"center"}} />
+      <ListStack.Screen name="Details" component={Details} options={{title:"Details", headerTitleAlign:"center"}}  />
     </ListStack.Navigator>
   )
 }
@@ -73,15 +81,17 @@ const screenOptions = ({ route }) => ({
 
 export default function App() {
   return (
-    <SafeAreaProvider>
-      <NavigationContainer>
-        <Tab.Navigator screenOptions={screenOptions} tabBarOptions={tabBarOptions}>
-          <Tab.Screen name="Home" component={HomeStackScreen}/>
-          <Tab.Screen name="List_genre" component={ListStackScreen}/>
-          <Tab.Screen name="Likes" component={Likes}/>
-        </Tab.Navigator>
-      </NavigationContainer>
-    </SafeAreaProvider>
+    <Provider store={store}>
+      <SafeAreaProvider>
+        <NavigationContainer>
+          <Tab.Navigator screenOptions={screenOptions} tabBarOptions={tabBarOptions}>
+            <Tab.Screen name="Home" component={HomeStackScreen}/>
+            <Tab.Screen name="List_genre" component={ListStackScreen}/>
+            <Tab.Screen name="Likes" component={Likes}/>
+          </Tab.Navigator>
+        </NavigationContainer>
+      </SafeAreaProvider>
+    </Provider>
   );
 }
 
