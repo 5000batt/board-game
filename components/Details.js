@@ -29,9 +29,11 @@ const Details = ({ route, navigation }) => {
 
   const { id } = route.params;
   const { genre } = route.params;
+  const { title } = route.params;
   
   // console.log(id);
   // console.log(genre);
+  console.log(title);
 
   let list;
 
@@ -116,7 +118,7 @@ const Details = ({ route, navigation }) => {
           isExistedAction
             ?
             <Button
-              onPress={()=>{dispatch(removeAction(genre,id))}}
+              onPress={()=>{dispatch(removeAction(title))}}
               icon={<Icon name='checkmark' type='ionicon' color='#ffffff' />}
               buttonStyle={{borderRadius: 0, marginLeft: 0, marginRight: 0, marginBottom: 0, backgroundColor:"green"}}
               title='REMOVE' 

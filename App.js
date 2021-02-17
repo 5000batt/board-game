@@ -71,7 +71,7 @@ const screenOptions = ({ route }) => ({
           ? 'home'
           : 'home-outline';
         break;
-      case 'List_genre':
+      case 'List':
         iconName = focused
           ? 'list'
           : 'list-outline'; 
@@ -95,7 +95,7 @@ export default function App() {
         <NavigationContainer>
           <Tab.Navigator screenOptions={screenOptions} tabBarOptions={tabBarOptions}>
             <Tab.Screen name="Home" component={HomeStackScreen}/>
-            <Tab.Screen name="List_genre" component={ListStackScreen}/>
+            <Tab.Screen name="List" component={ListStackScreen}/>
             <Tab.Screen name="Likes" component={LikesStackScreen}/>
           </Tab.Navigator>
         </NavigationContainer>

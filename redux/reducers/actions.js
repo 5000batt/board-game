@@ -1,4 +1,5 @@
 const actions = (state = [], action) => {
+
   switch(action.type) {
     case 'ADD_ACTION':
       return [
@@ -9,10 +10,12 @@ const actions = (state = [], action) => {
       ]
     case 'REMOVE_ACTION':
       return [
-        ...state.filter(item => item.genre != action.payload && item.id != action.payload)
+        ...state.filter(item => item.title != action.payload)
       ]
+    
     default:
       return state
   }
 }
+
 export default actions

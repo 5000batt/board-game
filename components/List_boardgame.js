@@ -92,7 +92,7 @@ const List = ({ route, navigation }) => {
               <ListItem 
                 containerStyle={{width:"80%"}} 
                 key={i}
-                onPress={()=>{navigation.navigate("Details", {id: item.id, genre: item.genre})}}  
+                onPress={()=>{navigation.navigate("Details", {id: item.id, genre: item.genre, title: item.title})}}  
               >
                 <Avatar source={{uri: item.image}} />
                 <ListItem.Content>
