@@ -116,7 +116,7 @@ const Details = ({ route, navigation }) => {
           isExistedAction
             ?
             <Button
-              onPress={()=>{dispatch(removeAction(id))}}
+              onPress={()=>{dispatch(removeAction(genre,id))}}
               icon={<Icon name='checkmark' type='ionicon' color='#ffffff' />}
               buttonStyle={{borderRadius: 0, marginLeft: 0, marginRight: 0, marginBottom: 0, backgroundColor:"green"}}
               title='REMOVE' 

@@ -22,7 +22,7 @@ const Likes = ({ navigation }) => {
               <ListItem.Title>{item.title}</ListItem.Title>
               <ListItem.Subtitle>{item.subtitle}</ListItem.Subtitle>
             </ListItem.Content>
-            <Icon name='close' type='ionicon' color='gray' onPress={()=>{dispatch(removeAction(item.id, item.genre))}} />
+            <Icon name='close' type='ionicon' color='gray' onPress={()=>{dispatch(removeAction(item.genre, item.id))}} />
           </ListItem>
         ))
       }

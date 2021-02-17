@@ -9,11 +9,10 @@ const actions = (state = [], action) => {
       ]
     case 'REMOVE_ACTION':
       return [
-        ...state.filter(item => item.id != action.payload)
+        ...state.filter(item => item.genre != action.payload && item.id != action.payload)
       ]
     default:
       return state
   }
 }
-
 export default actions
