@@ -4,12 +4,12 @@ import { Text, View, Button } from 'react-native';
 import { SearchBar } from 'react-native-elements';
 import SearchList from './SearchList';
 
-const Home = ({ navigation }) => {
+const Search = ({ navigation }) => {
 
   const [keyword, setKeyword] = useState("");
 
   const handleSearch = useCallback((search)=>{
-    // console.log(search);
+    console.log(search);
     setKeyword(search);
   }, []);
   
@@ -24,4 +24,4 @@ const Home = ({ navigation }) => {
     </View>
   )
 }
-export default Home;
+export default Search;

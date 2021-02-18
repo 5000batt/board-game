@@ -8,7 +8,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
-import Home from './components/Home';
+import Search from './components/Search';
 import List_genre from './components/List_genre';
 import List_boardgame from './components/List_boardgame';
 import Likes from './components/Likes';
@@ -26,7 +26,7 @@ const store = createStore(rootReducer);
 
 const Tab = createBottomTabNavigator();
 const ListStack = createStackNavigator();
-const HomeStack = createStackNavigator();
+const SearchStack = createStackNavigator();
 const LikesStack = createStackNavigator();
 
 const ListStackScreen = () => {
@@ -39,12 +39,12 @@ const ListStackScreen = () => {
   )
 }
 
-const HomeStackScreen = () => {
+const SearchStackScreen = () => {
   return (
-    <HomeStack.Navigator>
-      <HomeStack.Screen name="Home" component={Home} options={{title:"Home", headerTitleAlign:"center"}} />
-      <HomeStack.Screen name="Details" component={Details} options={{title:"Details", headerTitleAlign:"center"}}  />
-    </HomeStack.Navigator>
+    <SearchStack.Navigator>
+      <SearchStack.Screen name="Home" component={Search} options={{title:"Search", headerTitleAlign:"center"}} />
+      <SearchStack.Screen name="Details" component={Details} options={{title:"Details", headerTitleAlign:"center"}}  />
+    </SearchStack.Navigator>
   )
 }
 const LikesStackScreen = () => {
@@ -57,7 +57,7 @@ const LikesStackScreen = () => {
 }
 
 const tabBarOptions = {
-  activeTintColor: 'green',
+  activeTintColor: '#CCCCFF',
   inactiveTintColor: 'gray',
 }
 
@@ -66,10 +66,10 @@ const screenOptions = ({ route }) => ({
     let iconName;
 
     switch(route.name){
-      case 'Home':
+      case 'Search':
         iconName = focused
-          ? 'home'
-          : 'home-outline';
+          ? 'search'
+          : 'search-outline';
         break;
       case 'List':
         iconName = focused
@@ -94,7 +94,7 @@ export default function App() {
       <SafeAreaProvider>
         <NavigationContainer>
           <Tab.Navigator screenOptions={screenOptions} tabBarOptions={tabBarOptions}>
-            <Tab.Screen name="Home" component={HomeStackScreen}/>
+            <Tab.Screen name="Search" component={SearchStackScreen}/>
             <Tab.Screen name="List" component={ListStackScreen}/>
             <Tab.Screen name="Likes" component={LikesStackScreen}/>
           </Tab.Navigator>
