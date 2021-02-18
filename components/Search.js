@@ -1,5 +1,6 @@
 import React, {useState, useCallback } from 'react';
-import { Text, View, Button } from 'react-native';
+import { View } from 'react-native';
+import { ScrollView } from 'react-native-gesture-handler';
 
 import { SearchBar } from 'react-native-elements';
 import SearchList from './SearchList';
@@ -14,14 +15,21 @@ const Search = ({ navigation }) => {
   }, []);
   
   return (
-    <View style={{flex: 1, justifyContent: "center", alignItems: "center"}}>
-        <SearchBar platform={"android"} containerStyle={{width:'80%'}}
-        placeholder="Type Here..."
-        onChangeText={handleSearch}
-        value={keyword}
-      />
-      <SearchList navigation={navigation} keyword={keyword}></SearchList>
-    </View>
+    <ScrollView contentContainerStyle={{ flexGrow: 1, alignItems: "center", justifyContent: 'center' }}>
+      <View style={{flex: 1, justifyContent: "center", alignItems: "center"}}>
+        
+        <SearchBar 
+          platform={"android"} 
+          containerStyle={{width:'80%'}}
+          placeholder="Type Here..."
+          onChangeText={handleSearch}
+          value={keyword}
+        />
+        
+        <SearchList navigation={navigation} keyword={keyword}></SearchList>
+        
+      </View>
+    </ScrollView>
   )
 }
 export default Search;
