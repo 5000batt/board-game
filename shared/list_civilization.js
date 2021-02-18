@@ -58,6 +58,17 @@ export const CIVILIZATIONDATA = [
     title: '스플렌더',
     genre: 'civilization',
     image: "https://w.namu.la/s/e41acf81268cdb94a1834e36af18893861eb5f2545086f4db744b4a78fe4dc6b0dcee576a73da9f3d6150ae0b793687d3d873575dff5fcb8745efaf2799e780d9286a65808611be89243739a0f5425a4c778edfe86108ae1fb631904e42a6e76dd9806fea8eb4820ac6913e584f8d626",
+    tableData: [
+      ['디자이너', 'Marc André'],
+      ['개발사', 'Space Cowboys'],
+      ['발매년', '2014'],
+      ['인원', '2 ~ 4명'],
+      ['플레이 시간', '30 분'],
+      ['연령', '10세 이상'],
+      ['장르', '가족게임'],
+      ['테마', '카드게임, 경제, 르네상스 시대'],
+      ['시스템', '카드드래프트 / 셋콜렉션'],
+    ]
   },
   {
     id: 11,

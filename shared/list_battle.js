@@ -3,7 +3,18 @@ export const BATTLEDATA = [
     id: 1,
     title: '강철의 늑대들',
     genre: 'battle',
-    image: "https://w.namu.la/s/e25ec805e83b5c0db98458c58181ee0b430c3490147ddb577afd7fcc9895d121b49e0d03866ef352edea1bf4e85278e8246b36a693318dc36731a33232dcc55d59507f25cda1774c4e0d74d36fafeb77e8d6ca66eb18f7a60e29d49c1debbdec70a4e405693a135e73347b85632d4aac"
+    image: "https://w.namu.la/s/e25ec805e83b5c0db98458c58181ee0b430c3490147ddb577afd7fcc9895d121b49e0d03866ef352edea1bf4e85278e8246b36a693318dc36731a33232dcc55d59507f25cda1774c4e0d74d36fafeb77e8d6ca66eb18f7a60e29d49c1debbdec70a4e405693a135e73347b85632d4aac",
+    tableData: [
+      ['디자이너', 'Stephen C. Jackson, Brien J. Miller'],
+      ['개발사', 'Compass Games'],
+      ['발매년', '2010'],
+      ['인원', '1 명'],
+      ['플레이 시간', '3000 분'],
+      ['연령', '12세 이상'],
+      ['장르', '워게임'],
+      ['테마', '항해, 워게임, 2차 대전'],
+      ['시스템', '지역 분쟁, 치트 뽑기, 주사위 굴림, 포인트간 이동, 유닛 정보 숨김, 시뮬레이션'],
+    ]
   },
   {
     id: 2,
