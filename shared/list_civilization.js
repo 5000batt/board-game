@@ -58,6 +58,7 @@ export const CIVILIZATIONDATA = [
     title: '스플렌더',
     genre: 'civilization',
     image: "https://w.namu.la/s/e41acf81268cdb94a1834e36af18893861eb5f2545086f4db744b4a78fe4dc6b0dcee576a73da9f3d6150ae0b793687d3d873575dff5fcb8745efaf2799e780d9286a65808611be89243739a0f5425a4c778edfe86108ae1fb631904e42a6e76dd9806fea8eb4820ac6913e584f8d626",
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',
   },
   {
     id: 11,
