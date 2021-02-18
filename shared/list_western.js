@@ -7,7 +7,7 @@ export const WESTERNDATA = [
   },
   {
     id: 2,
-    title: '뱅(보드 게임)',
+    title: '뱅',
     genre: 'western',
     image: "https://w.namu.la/s/fc319a8ed76e94356e65af3389d389db90f2c39e98f36f7971810b20d268f0d25b8f91ecb5330e7a68d25476fdab40a0b718ce47c3ae38fb46d070f338a790eadc08bf8ee90e1b666c41976717d166ddb3700f1df8cd8a9517953eba9a4223435548b6d8d5f9121bca9058f4bb6988ea",  
   },

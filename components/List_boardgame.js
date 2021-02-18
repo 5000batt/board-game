@@ -1,7 +1,7 @@
 import React from 'react';
-import { View } from 'react-native';
-
-import { ScrollView } from 'react-native-gesture-handler';
+import { Text, View, StyleSheet } from 'react-native';
+import { FlatGrid } from 'react-native-super-grid';
+import { Card } from 'react-native-elements';
 
 import { BATTLEDATA } from '../shared/list_battle';
 import { FANTASYHORRORDATA } from '../shared/list_fantasyhorror';
@@ -19,7 +19,25 @@ import { ARTDATA } from '../shared/list_art';
 import { ABSTRACTSTRATEGYDATA } from '../shared/list_abstractstrategy';
 import { ETCDATA } from '../shared/list_etc';
 
-import { ListItem, Avatar } from 'react-native-elements';
+const styles = StyleSheet.create({
+  gridView: {
+    marginTop: 10,
+    flex: 1,
+  },
+  itemContainer: {
+    // justifyContent: 'flex-end',
+    borderRadius: 5,
+    padding: 10,
+    height: 200,
+  },
+  itemName: {
+    fontSize: 15,
+    color: '#000000',
+    fontWeight: '600',
+    textAlign: 'center',
+    marginTop: 5,
+  },
+});
 
 const List = ({ route, navigation }) => {
 
@@ -81,28 +99,21 @@ const List = ({ route, navigation }) => {
   // console.log(list);
 
   return (
-    <View
-      style={{flex: 1}}>
-        <ScrollView
-          contentContainerStyle={
-            { flexGrow:1, alignItems:"center", justifyContent:"center" }}
-        >
-          {
-            list.map((item, i) => (
-              <ListItem 
-                containerStyle={{width:"80%"}} 
-                key={i}
-                onPress={()=>{navigation.navigate("Details", {id: item.id, genre: item.genre, title: item.title})}}  
-              >
-                <Avatar source={{uri: item.image}} />
-                <ListItem.Content>
-                  <ListItem.Title>{item.title}</ListItem.Title>
-                </ListItem.Content>
-              </ListItem>
-            ))
-          }
-      </ScrollView>
-    </View>
+    <FlatGrid
+      itemDimension={150}
+      data={list}
+      style={styles.gridView}
+      spacing={10}
+      renderItem={({ item }) => (
+        <View style={styles.itemContainer}>
+          <Card.Image
+            source={{uri: item.image}}
+            onPress={()=>{navigation.navigate("Details", {id: item.id, genre: item.genre})}}
+          />  
+          <Text style={styles.itemName}>{item.title}</Text>
+        </View>
+      )}
+    />
   )
 }
 export default List;

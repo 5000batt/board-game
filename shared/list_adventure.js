@@ -1,7 +1,7 @@
 export const ADVENTUREDATA = [
   {
     id: 1,
-    title: '나이아가라(보드 게임)',
+    title: '나이아가라',
     genre: 'adventure',
     image: "https://ww.namu.la/s/243a88277f4c9e188eba135565b13c8418041c6700b5024ada88ceee0f84853e561163e4cad6df2febf53e0569cd31fede1efec2ab32d3aee6a504cfccf3659d7216d5578d9cbaadab7d61d95bd20f28fcd3396873efa0fd3a68d540c9af33a2b026071ec46af5ebf0a40dabb2b9a2ce"
   },
@@ -31,13 +31,13 @@ export const ADVENTUREDATA = [
   },
   {
     id: 6,
-    title: '셀레스티아(보드 게임)',
+    title: '셀레스티아',
     genre: 'adventure',
     image: "https://ww.namu.la/s/724cbdd1d6a80a87e4e8cfbdeb70dfe3ebe9e6d0be7835f691b39fcf59a9ae5019b4fd254ba079b7434ec9008f164cbda9f1adf3d71f115d9ce7c62498bfcbaf05856426faed81dd03df29afcfa827d069972c6b9c080261a7feed0fc5f485ed3508ffd38c6e16dfb7b79e6d2c0efed9",
   },
   {
     id: 7,
-    title: '아티팩트(보드 게임)',
+    title: '아티팩트',
     genre: 'adventure',
     image: "https://ww.namu.la/s/32c2e524c9be76e30799c7e373f8689ccbc293adc011582fec4bccfef6592b2a6c7144dc225b5ccd6041b86a25abb29f85fa3735a8d3522c7793eed1a7e6f6e35f0ecd4ce38a9d01f74f365d9a36d07139a380a59e621a48e9db4bbf11111b15",
   },
@@ -61,7 +61,7 @@ export const ADVENTUREDATA = [
   },
   {
     id: 11,
-    title: '티칼(보드 게임), 티칼 2',
+    title: '티칼, 티칼 2',
     genre: 'adventure',
     image: "https://ww.namu.la/s/86818b72e4e127629390cf0889150d3b0b542cdd09763c331ccec4d4b7bb5061de0d2faebd8b41c7a600c6c5f0a7141c80e48fcb0d51e5daaf6a37386aa5c1f22f74dd544de90313c3662849e604fd8e0148288f5b6e86a50160753e78d6284800f6b12863553e9b938d464683612fc9",
   },

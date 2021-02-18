@@ -1,7 +1,7 @@
 export const ETCDATA = [
   {
     id: 1,
-    title: '가이스터(보드 게임)',
+    title: '가이스터',
     genre: 'etc',
     image: "https://ww.namu.la/s/2f38920929705678bcc7242780da08ab75571bcd1de8c743add333ae65bf95b57e557f6941dd8385547ccc6f49ad6ef4eda26364c36e32f182a2414594fe714467247b3ef7fbc8e4a584797a603fa6e691195bbad4f1241794284b843a03a4566d6fd84eaec51aab7d3ad0f4a90d5993"
   },
@@ -31,7 +31,7 @@ export const ETCDATA = [
   },
   {
     id: 6,
-    title: '다이아몬드(보드 게임)',
+    title: '다이아몬드',
     genre: 'etc',
     image: "https://ww.namu.la/s/4594c20814c3a8185d284c3d40e4ac0e03d723b92fb85cb4fe2806a3a5aad745ee3ac5d71ff9cdce860c0637aff68982879c0408d50fc34b4180ac16b99fcc9ca6b287f88099acd6cad2c4c5455f74476851c34a7e71479ebe22a3dc364732920516e198efc5c9088f9edf6e3f60f0db",
   },
@@ -163,7 +163,7 @@ export const ETCDATA = [
   },
   {
     id: 28,
-    title: '코코너츠(보드 게임)',
+    title: '코코너츠',
     genre: 'etc',
     image: "https://w.namu.la/s/b227d089edb691fd5ac6fa74f2482cfa948dad7cd9289e825b8e0cae8e5cbc77f0fc95e8bedc562cc030b143294baac727af481363a0f4e185d02888f3c13393d64b407a135fb877104631de68ca5d29627e109e68c9d28fc29e4a31e8452ed4ed6bdeca3ac9ae6447550cdd7c9574ef",
   },
@@ -229,13 +229,13 @@ export const ETCDATA = [
   },
   {
     id: 40,
-    title: '504(보드 게임)',
+    title: '504',
     genre: 'etc',
     image: "https://ww.namu.la/s/a6624e18f1b81b023b653d17c8b77af30eb453a389aa599fec052aef5db43473531043ddf9cc9b39db3276d76cac4ee70b4779ac6cdd4c4ab48597d91ea34a0b0e7cf1fb620e10be8180dba58b2fde6df86c321a51cd24a9c0d83bb4a457f0268163a2a699f22e00765e042051f886ff",
   },
   {
     id: 41,
-    title: '파이럿 큐브(보드 게임)',
+    title: '파이럿 큐브',
     genre: 'etc',
     image: "",
   },

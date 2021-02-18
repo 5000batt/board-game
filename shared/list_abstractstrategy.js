@@ -55,7 +55,7 @@ export const ABSTRACTSTRATEGYDATA = [
   },
   {
     id: 10,
-    title: '픽셀(보드 게임)',
+    title: '픽셀',
     genre: 'abstractstrategy',
     image: "http://image.auction.co.kr/itemimage/1e/4f/55/1e4f5544a1.jpg",
   },

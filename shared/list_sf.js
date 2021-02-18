@@ -19,19 +19,19 @@ export const SFDATA = [
   },
   {
     id: 4,
-    title: '렐릭(보드 게임)',
+    title: '렐릭',
     genre: 'sf',
     image: "https://w.namu.la/s/a2644fdeb13d77d4dfbfccce144c9816bee0b5afb2620f5db3e53eadac84912faefabaa298d8fdc592e2632dfc1c29b8e439f2520ae6a9407b8a8d3373d528659cd3bbd80563df95f7f8a733957529b69065d18809458b2c92e7295240516ef4921b3b23b5ac2dd9f28db991f340a98c",
   },
   {
     id: 5,
-    title: '배틀스타 갤럭티카(보드 게임)',
+    title: '배틀스타 갤럭티카',
     genre: 'sf',
     image: "https://w.namu.la/s/b16d83e316040833eee4b3fe370fa64ed615c5e84141346ceeedff57941fdfbad9ae871eac734ccae4574dd9a5ffee84c89e529ecf813cf58509c157ad88778717b12500e6fb90d74b54609fecae53ea6fc4aa030c2b1df590c88fcd9d617695829f3dd2de931e242f8f692bcd446c4f",
   },
   {
     id: 6,
-    title: '스타워즈: 리벨리온(보드 게임)',
+    title: '스타워즈: 리벨리온',
     genre: 'sf',
     image: "https://images-cdn.fantasyflightgames.com/filer_public/1f/cc/1fccb22e-99c0-4552-9e0a-1e6feeae6f56/sw03_feature.jpg",
   },
@@ -73,7 +73,7 @@ export const SFDATA = [
   },
   {
     id: 13,
-    title: '이클립스(보드 게임)',
+    title: '이클립스',
     genre: 'sf',
     image: "https://w.namu.la/s/d2936b7671a5804f95aeaf66c51c104d67cabd3bd475b6a466e0a0990644d3ee979747eff8d6714f88b755895496c55c0fe93f27f68f1163746f56d29e4a2fd8c1d6602da27aed98c96d97c8cf9c1f42ca7f1aa03b309baa5dc8fadcc1a344750d10dda0fa96b66d1acfdc839d2deff8",
   },

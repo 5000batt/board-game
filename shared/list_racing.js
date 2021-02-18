@@ -7,7 +7,7 @@ export const RACINGDATA = [
   },
   {
     id: 2,
-    title: '캔트 스탑(보드 게임)',
+    title: '캔트 스탑',
     genre: 'racing',
     image: "https://w.namu.la/s/14e67afc810e9a2319947735cbe519c6b3a6da4cc76fa8e0c88683a48e8e899a3c4946a513cd4c0aea19b0c4cbf82ec899064323da6d3dcf596bbf8251207f9734130953aceaca269067d70d0c446a505142ac7ee12b2272a21f5679903adf57ae3846c265cb4e911681200ea0353fe6",  
   },

@@ -36,7 +36,7 @@ export const BATTLEDATA = [
   },
   {
     id: 5,
-    title: '리스크(보드 게임)',
+    title: '리스크',
     genre: 'battle',
     image: "https://ww.namu.la/s/839436bbc900b83e56a802394a0b14f7086ddad012bb7f82010cddff225fc2ce2b33c4bb78db0ff3fd2d1926794ce660995be77186a0370dca87b8aa0ae68a17171b39d7f8e6ea4c76d8f65223bf074e4422152629db0cc1335955348ee90c49",
   },
@@ -108,7 +108,7 @@ export const BATTLEDATA = [
   },
   {
     id: 17,
-    title: '월드 앳 워(보드 게임)',
+    title: '월드 앳 워',
     genre: 'battle',
     image: "https://ww.namu.la/s/fbec2ba35278ca9853947b9fb9ce5651055bbcf8b5dd7de43b250126242ccd6ce821467f5e70fcc53517d9147a404719f61183c6b4ed012ac9517741977447f75061396551128691e6397d1ca10387df472deb62271d7b523cde35d7c05779b6",
   },
@@ -120,7 +120,7 @@ export const BATTLEDATA = [
   },
   {
     id: 19,
-    title: '처녀 여왕(보드 게임)',
+    title: '처녀 여왕',
     genre: 'battle',
     image: "https://ww.namu.la/s/e43ed4be8b51f714c3a7843eb711c06c7df1b2e3625d9d7420bec806da931405c7d54bd8b12263f2106c91feba9a1b6ac3c7798bcb034c4b519cbe59dc8340963ff273f128a9e2bf299f6dd7bd663feabf43d463de1c322a0c701d0eae962b9ad1ebe5cdfe406a65a895d18971325045",
   },
@@ -132,7 +132,7 @@ export const BATTLEDATA = [
   },
   {
     id: 21,
-    title: '코바야카와(보드 게임)',
+    title: '코바야카와',
     genre: 'battle',
     image: "https://ww.namu.la/s/0bb7763d8704d8b52fe30762b1560c1d8b28fb39f59f139d63448fe8c6becbdf1111585c97be626714a7365829144b1d73e41f20a867e503182e92853d97d96556771caf613edfb311223b8d0c30bf9ae25e4d3bdc003e687473798f50c2f562",
   },
@@ -144,7 +144,7 @@ export const BATTLEDATA = [
   },
   {
     id: 23,
-    title: '하이브(보드 게임)',
+    title: '하이브',
     genre: 'battle',
     image: "https://w.namu.la/s/b42967aee6228a31b0c17ef1ba896fc54d4053cf47197a60b9642cc5319b300236f9d317963e7de4ec9540d95d2d49510d2641000986188f24aa1570cebae8517d0fd035638adffc89d5ae667449200475745ce82393ff06ed050a5e86512ce81d9a510c01a970183b6dffd913e26327",
   },
@@ -162,13 +162,13 @@ export const BATTLEDATA = [
   },
   {
     id: 26,
-    title: 'Commands and Colors Ancients (커맨드앤컬러스 에인션트)',
+    title: '커맨드앤컬러스 에인션트',
     genre: 'battle',
     image: "https://ww.namu.la/s/07f4ecadb7690e02b5761243f6ed4b1abd15c3c68bc504c20270b66760a526e56beb400b46291349ce867840e091d6588e619ce9028d2d7e1f0258ce8d215abb6b0c541ed999a7e51122d4cc6b3e3efd8994472183e1f77817faa0ef7a1cba78fa62a70919930a0d0f8f6ba65ecb94de",
   },
   {
     id: 27,
-    title: 'Commands and Colors Napoleonics (커맨드앤컬러스 나폴레오닉)',
+    title: '커맨드앤컬러스 나폴레오닉',
     genre: 'battle',
     image: "https://w.namu.la/s/ebbe74c794df937c66f58b44c5e6a55cff5c414b36ada6b8dc6587a92c77f7a88f1b84c82f52c50cb8af476d85bf4f37cbb70d0ca8f00f76070a8ec2311c5e2d73baeedb21fefcc44718b49c32c44ad6df907b6755f3dfd87c86cd11f4532a1debf3836a4bdf948cba9748f879200871",
   },

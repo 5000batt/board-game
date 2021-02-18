@@ -25,7 +25,7 @@ export const ECONOMICDATA = [
   },
   {
     id: 5,
-    title: '르아브르(보드 게임)',
+    title: '르아브르',
     genre: 'economic',
     image: "https://ww.namu.la/s/0211266174a900bf94747f74dc1b8db569d000ab3070c94397d6a5198a838b42be9b813f57996fa877fc06f64486aece52fff844d3dd745aa28439a788fbb0e3dabd86ce0a3c44c80e1d31e6bfa3d0717fafed2471847532b11d2733bb72b7e1",
   },
@@ -55,7 +55,7 @@ export const ECONOMICDATA = [
   },
   {
     id: 10,
-    title: '몸바사(보드 게임)',
+    title: '몸바사',
     genre: 'economic',
     image: "https://w.namu.la/s/edca5d8314985df24dfacb48e6afd783852db8ccf34f20d78cb2b589da7729b69435aa2396c0dba8b998d6014d15d1695ad81de5cbfcc3492dda1494356a7ca2b8630b2907851125ba698c34141a7e2e9e9838d06e8e8ce5d5e250613af06a3d",
   },
@@ -91,13 +91,13 @@ export const ECONOMICDATA = [
   },
   {
     id: 16,
-    title: '상트페테르부르크(보드 게임)',
+    title: '상트페테르부르크',
     genre: 'economic',
     image: "https://ww.namu.la/s/f5d4d2937e9fbb1e9587a7f2fbce7a6483bb20311e7afe1d3face0fdcf9e16319b064a07dc5a449eca1b0d1beaf13657d924afc9de1d359bdba85530f3ba76cf0f753ff5951a480e52c4f2061d3694e58828e4e3ecbe8800d479a9f245962fbf",
   },
   {
     id: 17,
-    title: '산후안(보드 게임)',
+    title: '산후안',
     genre: 'economic',
     image: "https://ww.namu.la/s/31c3cb45a37cab5079416dcde8353557ffeeee1431bfcb00533aef9da8bc9f6a89262e8f2b2e406656d09a6bbf86feccf51a3c8cbee1be58dcf5d26ee1b376e6bb1dedfd46debc11100ac1fee3de9cb6b06ae1c0da0f01c587f4ce54f14d605ff8baeef03d7c9b996de71d94a9d02b6b",
   },
@@ -163,7 +163,7 @@ export const ECONOMICDATA = [
   },
   {
     id: 28,
-    title: '티켓 투 라이드(보드 게임)',
+    title: '티켓 투 라이드',
     genre: 'economic',
     image: "https://w.namu.la/s/58fe952d24b374ef25320375eefc1b4a23ce827a12e832449c66a44903fb4e43a06f5a5a31eedb699e7047ec2c2883b4363c5c2085bbf3241f4b2679ae37d6dc2bfb4ca1567bc453a57d3b83d955a1837e1e219e7be1f0a387e419390f6e9f6727191a5084eaac1ce7cc083a5d1839d6",
   },

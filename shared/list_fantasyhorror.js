@@ -43,7 +43,7 @@ export const FANTASYHORRORDATA = [
   },
   {
     id: 8,
-    title: '드래곤파이어(보드 게임)',
+    title: '드래곤파이어',
     genre: 'fantasyhorror',
     image: "https://cf.geekdo-images.com/ETvzoSRh-UuJJbdSt3ZiCA__itemrep/img/8B8xgHwPVio-eN-m344436xco74=/fit-in/246x300/filters:strip_icc()/pic4022104.jpg",
   },
@@ -73,7 +73,7 @@ export const FANTASYHORRORDATA = [
   },
   {
     id: 13,
-    title: '먼치킨(보드 게임)',
+    title: '먼치킨',
     genre: 'fantasyhorror',
     image: "https://w.namu.la/s/7157c89c37f64484892a1aacc41e81870518299c18d26f23feb45aa4e85443edb3eb5655e0b23345a34efcce059de3e51e4cc3949f67d422426d3ee04d70ed93eecd8fced9555ce06e7a1bf1a97f3ceea59a73615a8678bfbf4bee7670356090",
   },
@@ -223,7 +223,7 @@ export const FANTASYHORRORDATA = [
   },
   {
     id: 39,
-    title: '탈리스만(보드 게임)',
+    title: '탈리스만',
     genre: 'fantasyhorror',
     image: "https://w.namu.la/s/6f7defb547951e1cfba83d7d0f7f4c8771daecba76609b16f057204fab65ee53233453607f433181b7abe65cc3f94f1036c21984899b0a91ebb7f6e4a029de73a3fac9526169d6f24366ba2bbae6de548730b008beef4a737f07fbb339ecefb86a100216658ce7dd0c4a2689796f55d1",
   },

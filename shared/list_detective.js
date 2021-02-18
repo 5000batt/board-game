@@ -19,7 +19,7 @@ export const DETECTIVEDATA = [
   },
   {
     id: 4,
-    title: '듀크(보드 게임)',
+    title: '듀크',
     genre: 'detective',
     image: "https://w.namu.la/s/275a78f7d9c903be7f8c9b8b2b80ed1d3ac3611305583e46dffec8f23c27b6fee67d832bec8f18716fdf9050c35880f90f059bb98ae1f478ebfa42e3e8c2233f99cc04b95278acdd9ec5600ae0fb1f35a6b95adb459277cb20b929a27793e2f83fd071029529f8ff229ca85bc7a3c7f9",
   },
@@ -67,7 +67,7 @@ export const DETECTIVEDATA = [
   },
   {
     id: 12,
-    title: '쉐도우 헌터(보드 게임)',
+    title: '쉐도우 헌터',
     genre: 'detective',
     image: "https://ww.namu.la/s/2213582b7090d800556395652b48217d1378fec600f07c677b28e0c4134a7a5969927e4c146129edbfbdf60b3e63aa6ee3ffaf34749285e606fc1cdd18f31045e5cd3ab5c22924963bfa741ff7d31e300b5f976eac8b9ebf1007fa58526ec83348bc0c5046e9d7d5bbc5789e487e1c76",
   },
@@ -103,7 +103,7 @@ export const DETECTIVEDATA = [
   },
   {
     id: 18,
-    title: '코드네임(보드 게임)',
+    title: '코드네임',
     genre: 'detective',
     image: "https://ww.namu.la/s/d462bd473e58322796729a1153da31b40a8209b1af7e5df554ede1422c858bca7fe0320378bc7c6c871e661b55e69f38c5b4bd3cf284e141b946d45794aeb2b62b0b512560b513793cbbd49269dc7cf2bd9048db351bed014cbdab6a7c9f4927979ce6acd9cc8a28ba12959f369341d3",
   },
@@ -127,7 +127,7 @@ export const DETECTIVEDATA = [
   },
   {
     id: 22,
-    title: '하나비(보드 게임)',
+    title: '하나비',
     genre: 'detective',
     image: "https://ww.namu.la/s/37b6e2462b0cc560fb65ca1a27c2068b40ac0c50a3398afd026890595b1430f01bd6863c7d57387874d24e854121585aaada3fef666ea3eea1004e266e0323f9793d7beaa62cce6fb9b25aa936570d4d66b9d1efc239a506abba83c3b77ac445974b00b6bfc454c0aea146a923d0d7f1",
   },

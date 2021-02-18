@@ -7,7 +7,7 @@ export const POLITICSDATA = [
   },
   {
     id: 2,
-    title: '라비린스(보드 게임)',
+    title: '라비린스',
     genre: 'politics',
     image: "https://w.namu.la/s/1b6b9a2eaa5e43afc65022485643d820e17db6c719a7c6046c2bb8a54fa00f74a6db9711a4ef2ca78ad95e076e6d0a23038dd6917eebeab2564b85a6676c9551dfee989dd3805577ce9e72bed5d78e1291ca5e7ba53823d4e75275395296462bb796f18a3ff59a04cad930874d4df408",  
   },
