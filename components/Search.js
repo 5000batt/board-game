@@ -9,7 +9,7 @@ const Search = ({ navigation }) => {
   const [keyword, setKeyword] = useState("");
 
   const handleSearch = useCallback((search)=>{
-    // console.log(search);
+    console.log(search);
     setKeyword(search);
   }, []);
   

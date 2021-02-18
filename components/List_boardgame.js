@@ -108,7 +108,7 @@ const List = ({ route, navigation }) => {
         <View style={styles.itemContainer}>
           <Card.Image
             source={{uri: item.image}}
-            onPress={()=>{navigation.navigate("Details", {id: item.id, genre: item.genre})}}
+            onPress={()=>{navigation.navigate("Details", {id: item.id, genre: item.genre, title: item.title})}}
           />  
           <Text style={styles.itemName}>{item.title}</Text>
         </View>

@@ -121,7 +121,7 @@ const Details = ({ route, navigation }) => {
           <Card.Divider/>
           <Card.Image 
             source={{uri: items.image}} 
-            style={{height:500}}
+            style={{height:500, width: '100%'}}
           />
           <Card.Divider/>
           {/* <Text style={{marginBottom: 10}}>
