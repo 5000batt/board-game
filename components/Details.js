@@ -16,7 +16,6 @@ const Details = ({ route }) => {
   // console.log(route);
 
   const { id } = route.params;
-  const { genre } = route.params;
   const { title } = route.params;
   
   // console.log(id);
@@ -55,8 +54,8 @@ const Details = ({ route }) => {
         <Card
           containerStyle={{width:'100%'}}
         >
-          <Card.Title>{items.title}</Card.Title>
-          <Card.Divider/>
+          {/* <Card.Title>{items.title}</Card.Title>
+          <Card.Divider/> */}
           <Card.Image 
             source={{uri: items.image}} 
             style={{height:500, width: '100%'}}

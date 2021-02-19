@@ -13,7 +13,6 @@ import List_genre from './components/List_genre';
 import List_boardgame from './components/List_boardgame';
 import Likes from './components/Likes';
 import Details from './components/Details';
-import { GENREDATA } from './shared/list_genere';
 
 // https://ionicons.com/
 import Ionicons from 'react-native-vector-icons/Ionicons';
@@ -30,12 +29,26 @@ const ListStack = createStackNavigator();
 const SearchStack = createStackNavigator();
 const LikesStack = createStackNavigator();
 
+
+
 const ListStackScreen = () => {
   return (
     <ListStack.Navigator>
-      <ListStack.Screen name="List_genre" component={List_genre} options={{title:"List", headerTitleAlign:"center"}} />
-      <ListStack.Screen name="List_boardgame" component={List_boardgame} options={{title:"List", headerTitleAlign:"center"}} />
-      <ListStack.Screen name="Details" component={Details} options={{title:"Details", headerTitleAlign:"center"}}  />
+      <ListStack.Screen 
+        name="List_genre" 
+        component={List_genre} 
+        options={{title:"Genre", headerTitleAlign:"center"}} 
+      />
+      <ListStack.Screen 
+        name="List_boardgame" 
+        component={List_boardgame} 
+        options={({ route }) => ({ title: route.params.title, headerTitleAlign:"center" })}
+      />
+      <ListStack.Screen 
+        name="Details" 
+        component={Details} 
+        options={({ route }) => ({ title: route.params.title, headerTitleAlign:"center" })}  
+      />
     </ListStack.Navigator>
   )
 }
@@ -43,16 +56,32 @@ const ListStackScreen = () => {
 const SearchStackScreen = () => {
   return (
     <SearchStack.Navigator>
-      <SearchStack.Screen name="Home" component={Search} options={{title:"Search", headerTitleAlign:"center"}} />
-      <SearchStack.Screen name="Details" component={Details} options={{title:"Details", headerTitleAlign:"center"}}  />
+      <SearchStack.Screen 
+        name="Home" 
+        component={Search} 
+        options={{title:"Search", headerTitleAlign:"center"}} 
+      />
+      <SearchStack.Screen 
+        name="Details" 
+        component={Details} 
+        options={({ route }) => ({ title: route.params.title, headerTitleAlign:"center" })}  
+      />
     </SearchStack.Navigator>
   )
 }
 const LikesStackScreen = () => {
   return (
     <LikesStack.Navigator>
-      <LikesStack.Screen name="Likes" component={Likes} options={{title:"Likes", headerTitleAlign:"center"}} />
-      <LikesStack.Screen name="Details" component={Details} options={{title:"Details", headerTitleAlign:"center"}} />
+      <LikesStack.Screen 
+        name="Likes" 
+        component={Likes} 
+        options={{title:"likes", headerTitleAlign:"center"}} 
+      />
+      <LikesStack.Screen 
+        name="Details" 
+        component={Details} 
+        options={({ route }) => ({ title: route.params.title, headerTitleAlign:"center" })} 
+      />
     </LikesStack.Navigator>
   )
 }

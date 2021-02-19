@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
 import { FlatGrid } from 'react-native-super-grid';
 
-import { GENREDATA } from '../shared/list_genere';
+import { GENREDATA } from '../shared/list_genre';
 
 import { Card } from 'react-native-elements';
 
@@ -37,7 +37,7 @@ const List = ({ navigation }) => {
         <View style={styles.itemContainer}>
           <Card.Image
             source={{uri: item.image}}
-            onPress={()=>{navigation.navigate("List_boardgame", {id: item.id, genre: item.genre})}}
+            onPress={()=>{navigation.navigate("List_boardgame", {id: item.id, genre: item.genre, title: item.title})}}
           />  
           <Text style={styles.itemName}>{item.title}</Text>
         </View>
