@@ -37,7 +37,7 @@ const ListStackScreen = () => {
       <ListStack.Screen 
         name="List_genre" 
         component={List_genre} 
-        options={{title:"Genre", headerTitleAlign:"center"}} 
+        options={{title:"장르", headerTitleAlign:"center"}} 
       />
       <ListStack.Screen 
         name="List_boardgame" 
@@ -59,7 +59,7 @@ const SearchStackScreen = () => {
       <SearchStack.Screen 
         name="Home" 
         component={Search} 
-        options={{title:"Search", headerTitleAlign:"center"}} 
+        options={{title:"검색", headerTitleAlign:"center"}} 
       />
       <SearchStack.Screen 
         name="Details" 
@@ -75,7 +75,7 @@ const LikesStackScreen = () => {
       <LikesStack.Screen 
         name="Likes" 
         component={Likes} 
-        options={{title:"likes", headerTitleAlign:"center"}} 
+        options={{title:"구독", headerTitleAlign:"center"}} 
       />
       <LikesStack.Screen 
         name="Details" 

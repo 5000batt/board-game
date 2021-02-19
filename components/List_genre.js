@@ -29,7 +29,7 @@ const List = ({ navigation }) => {
   
   return (
     <FlatGrid
-      itemDimension={120}
+      itemDimension={130}
       data={GENREDATA}
       style={styles.gridView}
       spacing={10}
