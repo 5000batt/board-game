@@ -13,6 +13,7 @@ import List_genre from './components/List_genre';
 import List_boardgame from './components/List_boardgame';
 import Likes from './components/Likes';
 import Details from './components/Details';
+import { GENREDATA } from './shared/list_genere';
 
 // https://ionicons.com/
 import Ionicons from 'react-native-vector-icons/Ionicons';

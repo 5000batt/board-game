@@ -1,7 +1,7 @@
 import React from 'react';
-import { Text, View } from 'react-native';
+import { View } from 'react-native';
 import { useSelector, useDispatch } from 'react-redux';
-import { ListItem, Avatar, Icon } from 'react-native-elements'
+import { ListItem, Avatar, Icon } from 'react-native-elements';
 import { ScrollView } from 'react-native-gesture-handler';
 import { removeAction } from '../redux/actions';
 
@@ -20,7 +20,6 @@ const Likes = ({ navigation }) => {
             <Avatar source={{uri: item.image}} />
             <ListItem.Content>
               <ListItem.Title>{item.title}</ListItem.Title>
-              <ListItem.Subtitle>{item.subtitle}</ListItem.Subtitle>
             </ListItem.Content>
             <Icon name='close' type='ionicon' color='gray' onPress={()=>{dispatch(removeAction(item.title))}} />
           </ListItem>
