@@ -5,7 +5,6 @@ import { FlatGrid } from 'react-native-super-grid';
 import { GENREDATA } from '../shared/list_genere';
 
 import { Card } from 'react-native-elements';
-import { HeaderTitle } from '@react-navigation/stack';
 
 const styles = StyleSheet.create({
   gridView: {
@@ -38,7 +37,7 @@ const List = ({ navigation }) => {
         <View style={styles.itemContainer}>
           <Card.Image
             source={{uri: item.image}}
-            onPress={()=>{navigation.navigate("List_boardgame", {id: item.id, genre: item.genre}), Option={title: item.title}}}
+            onPress={()=>{navigation.navigate("List_boardgame", {id: item.id, genre: item.genre})}}
           />  
           <Text style={styles.itemName}>{item.title}</Text>
         </View>

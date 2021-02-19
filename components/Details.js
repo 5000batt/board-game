@@ -1,29 +1,15 @@
-import React, { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-import { Table, Row, Rows } from 'react-native-table-component';
+import React from 'react';
+import { StyleSheet, View } from 'react-native';
+import { Table, Rows } from 'react-native-table-component';
 import { Card, Button, Icon } from 'react-native-elements';
 import { useDispatch, useSelector } from 'react-redux';
 import { addAction } from '../redux/actions';
 import { removeAction } from '../redux/actions';
 import { ScrollView } from 'react-native-gesture-handler';
 
-import { BATTLEDATA } from '../shared/list_battle';
-import { FANTASYHORRORDATA } from '../shared/list_fantasyhorror';
-import { SFDATA } from '../shared/list_sf';
-import { CARTOONDATA } from '../shared/list_cartoon';
-import { ADVENTUREDATA } from '../shared/list_adventure';
-import { POLITICSDATA } from '../shared/list_politics';
-import { ECONOMICDATA } from '../shared/list_economic';
-import { PUZZLEDATA } from '../shared/list_puzzle';
-import { DETECTIVEDATA } from '../shared/list_detective';
-import { CIVILIZATIONDATA } from '../shared/list_civilization';
-import { WESTERNDATA } from '../shared/list_western';
-import { RACINGDATA } from '../shared/list_racing';
-import { ARTDATA } from '../shared/list_art';
-import { ABSTRACTSTRATEGYDATA } from '../shared/list_abstractstrategy';
-import { ETCDATA } from '../shared/list_etc';
+import { BOADRGAMEDATA } from '../shared/list_boardgame';
 
-const Details = ({ route, navigation }) => {
+const Details = ({ route }) => {
 
   // console.log("--detail");
   console.log(route.params);
@@ -37,55 +23,7 @@ const Details = ({ route, navigation }) => {
   // console.log(genre);
   // console.log(title);
 
-  let list;
-
-  switch(genre) {
-    case 'battle':
-      list = BATTLEDATA;
-      break;
-    case 'fantasyhorror':
-      list = FANTASYHORRORDATA;
-      break;
-    case 'sf':
-      list = SFDATA;
-      break;
-    case 'cartoon':
-      list = CARTOONDATA;
-      break;
-    case 'adventure':
-      list = ADVENTUREDATA;
-      break;
-    case 'politics':
-      list = POLITICSDATA;
-      break;
-    case 'economic':
-      list = ECONOMICDATA;
-      break;
-    case 'puzzle':
-      list = PUZZLEDATA;
-      break;
-    case 'detective':
-      list = DETECTIVEDATA;
-      break;
-    case 'civilization':
-      list = CIVILIZATIONDATA;
-      break;
-    case 'western':
-      list = WESTERNDATA;
-      break;
-    case 'racing':
-      list = RACINGDATA;
-      break;
-    case 'art':
-      list = ARTDATA;
-      break;
-    case 'abstractstrategy':
-      list = ABSTRACTSTRATEGYDATA;
-      break;
-    case 'etc':
-      list = ETCDATA;
-      break;
-  }
+  let list = BOADRGAMEDATA;
 
   const items = list.filter(item => item.id == id)[0];
   // console.log(items.id);
