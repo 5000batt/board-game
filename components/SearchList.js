@@ -9,7 +9,18 @@ import { FANTASYHORRORDATA } from '../shared/list_fantasyhorror';
 
 const SearchList = ({ navigation, keyword }) => {
 
-  let list = BATTLEDATA
+  let list = BATTLEDATA;
+
+  // const { genre } = route.params;
+
+  // switch(genre) {
+  //   case 'battle':
+  //     list = BATTLEDATA;
+  //     break;
+  //   case 'fantasyhorror':
+  //     list = FANTASYHORRORDATA;
+  //     break;
+  // }
   // console.log("--search list--")
   // console.log(list)
 
