@@ -29,9 +29,8 @@ const ListStack = createStackNavigator();
 const SearchStack = createStackNavigator();
 const LikesStack = createStackNavigator();
 
-
-
 const ListStackScreen = () => {
+
   return (
     <ListStack.Navigator>
       <ListStack.Screen 

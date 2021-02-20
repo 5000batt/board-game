@@ -31,13 +31,13 @@ const List = ({ route, navigation }) => {
   // console.log(route.params);
 
   const { genre } = route.params;
-  console.log(genre);
+  // console.log(genre);
 
   let list = BOADRGAMEDATA;
   // console.log(list);
 
   const items = list.filter(item => item.genre == genre);
-  console.log(items)
+  // console.log(items)
 
   return (
     <FlatGrid

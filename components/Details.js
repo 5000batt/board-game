@@ -12,7 +12,7 @@ import { BOADRGAMEDATA } from '../shared/list_boardgame';
 const Details = ({ route }) => {
 
   // console.log("--detail");
-  console.log(route.params);
+  // console.log(route.params);
   // console.log(route);
 
   const { id } = route.params;
@@ -38,8 +38,8 @@ const Details = ({ route }) => {
   // console.log(isExistedAction);
 
   const styles = StyleSheet.create({
-    container: { flex: 1, padding: 16, paddingTop: 30, backgroundColor: '#fff'},
-    head: { height: 40, backgroundColor: '#f1f8ff'},
+    // container: { flex: 1, padding: 16, paddingTop: 30, backgroundColor: '#fff'},
+    // head: { height: 40, backgroundColor: '#f1f8ff'},
     text: { margin: 6 }
   })
 
@@ -54,39 +54,34 @@ const Details = ({ route }) => {
         <Card
           containerStyle={{width:'100%'}}
         >
-          {/* <Card.Title>{items.title}</Card.Title>
-          <Card.Divider/> */}
+          {
+            isExistedAction
+              ?
+              <Button
+                onPress={()=>{dispatch(removeAction(title))}}
+                icon={<Icon name='heart' type='ionicon' color='#ffffff' />}
+                buttonStyle={{backgroundColor:"#CCCCFF"}}
+              />
+              :
+              <Button
+                onPress={()=>{dispatch(addAction(items))}}
+                icon={<Icon name='heart-outline' type='ionicon' color='#ffffff' />}
+                buttonStyle={{borderRadius: 0, marginLeft: 0, marginRight: 0, marginBottom: 0, backgroundColor:"#CCCCFF"}}
+              />
+          }
+          <Card.Divider/>
           <Card.Image 
             source={{uri: items.image}} 
             style={{height:500, width: '100%'}}
           />
           <Card.Divider/>
-          {/* <Text style={{marginBottom: 10}}>
-              {items.description}
-          </Text> */}
           <View style={StyleSheet.container}>
             <Table borderStyle={{borderWidth: 2, borderColor: '#CCCCFF'}}>
               <Rows data={items.tableData} textStyle={styles.text} />
             </Table>
           </View>
           <Card.Divider/>
-          {
-            isExistedAction
-              ?
-              <Button
-                onPress={()=>{dispatch(removeAction(title))}}
-                icon={<Icon name='checkmark' type='ionicon' color='#ffffff' />}
-                buttonStyle={{borderRadius: 0, marginLeft: 0, marginRight: 0, marginBottom: 0, backgroundColor:"#CCCCFF"}}
-                title='REMOVE' 
-              />
-              :
-              <Button
-                onPress={()=>{dispatch(addAction(items))}}
-                icon={<Icon name='checkmark' type='ionicon' color='#ffffff' />}
-                buttonStyle={{borderRadius: 0, marginLeft: 0, marginRight: 0, marginBottom: 0, backgroundColor:"#CCCCFF"}}
-                title='Like' 
-              />
-          }
+          
         </Card>
       </View>
     </ScrollView>
