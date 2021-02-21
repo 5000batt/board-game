@@ -3,7 +3,7 @@ export const BOADRGAMEDATA = [
     id: 1,
     title: '강철의 늑대들',
     genre: 'battle',
-    image: "https://w.namu.la/s/e25ec805e83b5c0db98458c58181ee0b430c3490147ddb577afd7fcc9895d121b49e0d03866ef352edea1bf4e85278e8246b36a693318dc36731a33232dcc55d59507f25cda1774c4e0d74d36fafeb77e8d6ca66eb18f7a60e29d49c1debbdec70a4e405693a135e73347b85632d4aac",
+    image: "https://lh3.googleusercontent.com/-mYMnn4Sp0yo/XBzRxjLz2eI/AAAAAAAHKOA/XFyNJGzw-SsQ9d8IqUcs0EBhNOmRb2QBgCHMYCw/s0/5f5faac52cd6589460bf912e2bca38a225dde2c1.jpg",
     tableData: [
       ['디자이너', 'Stephen C. Jackson, Brien J. Miller'],
       ['개발사', 'Compass Games'],
@@ -20,7 +20,7 @@ export const BOADRGAMEDATA = [
     id: 2,
     title: '군인장기',
     genre: 'battle',
-    image: "https://w.namu.la/s/932aeac7bbcf459131e66db29c2118178e1c880edc477716a3ab2b5e37b2621e993d548c19b1b7d2b07e0d76bb2ca4e1ea48c30d6a4e86271371cbdc0656ae597d743584e5173a2a13188cccfdf4ba3964a743bd9563f75d8981ba11a4829375",  
+    image: "https://cf.geekdo-images.com/c1IradhSWO0-mLYET_L0QA__itemrep/img/E0fT1aYLtQPoGt_mWEtIPtyZHSs=/fit-in/246x300/filters:strip_icc()/pic864077.jpg",  
     tableData: [
       ['디자이너', '니시구치 에이스케'],
       ['개발사', '퍼블릭 도메인'],
@@ -37,7 +37,7 @@ export const BOADRGAMEDATA = [
     id: 3,
     title: '눈 덮힌 좁은 땅(A Few Acres of Snow)',
     genre: 'battle',
-    image: "https://ww.namu.la/s/f22ab1a90370de33639e1bb17db6b48be0aabbe21f7ea245e36b86837b55881d094b9b0fdfe6971c4dd454f8ddf7e44f84509325f0710d1c1bfa918838716549e853dba2f42c4a80748b56041c94b76fb8520d7f09c92152206a351beb4663fc",
+    image: "https://cf.geekdo-images.com/JcrBT921aDP9XTdDyKM_8g__itemrep/img/rJ7FOxHlADZHFjnRob7P1gTmH1E=/fit-in/246x300/filters:strip_icc()/pic905905.jpg",
     tableData: [
       ['디자이너', 'Martin Wallace'],
       ['개발사', 'Treefrog Games'],
@@ -54,7 +54,7 @@ export const BOADRGAMEDATA = [
     id: 4,
     title: '디플로메시',
     genre: 'battle',
-    image: "https://w.namu.la/s/70606bf00f64ca77394391a4e85d2044e933303c477351ac451a76ff1dec13f12d779c76cf478e223038d3ba2c31fdac9907f6a6bea214aa3163992aba704c7056a5d7cefe074410c39ed7c3b536bd33bedc595a9b868522617734a0fa05a777d92294580186cd3d5d14d5325c50afd5",
+    image: "https://lh3.googleusercontent.com/-tLslMJeIT9I/XAOPgIBSGiI/AAAAAAAGnzc/OuO0bxjp0bMbHKEhoi83vCVig_eSJOkFwCHMYCw/s0/0688557795ea971d680a8074a357f78b0abfad02.jpg",
     tableData: [
       ['디자이너', 'Allan B. Calhamer'],
       ['개발사', '아발론 힐'],
@@ -71,7 +71,7 @@ export const BOADRGAMEDATA = [
     id: 5,
     title: '리스크',
     genre: 'battle',
-    image: "https://ww.namu.la/s/839436bbc900b83e56a802394a0b14f7086ddad012bb7f82010cddff225fc2ce2b33c4bb78db0ff3fd2d1926794ce660995be77186a0370dca87b8aa0ae68a17171b39d7f8e6ea4c76d8f65223bf074e4422152629db0cc1335955348ee90c49",
+    image: "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__itemrep/img/9F-zB7QO9QubnP8-64HnA60AbB8=/fit-in/246x300/filters:strip_icc()/pic4916782.jpg",
     tableData: [
       ['디자이너', 'Albert Lamorisse Michael I. Levin'],
       ['개발사', 'Parker Brothers'],
@@ -88,7 +88,7 @@ export const BOADRGAMEDATA = [
     id: 6,
     title: '루트',
     genre: 'battle',
-    image: "https://w.namu.la/s/0cf897d97894f552ece92ac42d2728dd8a72b4c6ca4e187180dcb27a1cadd87339d3708700100283dc08ab2de7a3c73d57b5dd1443b9be9c4bea1898469e201f9ecee206ca03ed8aff56a2aac5fa5ab0d4320a7295aa6851d65deebcf3aea063",
+    image: "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep/img/sQgkl-_hydBVvQHAMLt2Zk_3dwI=/fit-in/246x300/filters:strip_icc()/pic4254509.jpg",
     tableData: [
       ['디자이너', 'Cole Wehrle'],
       ['개발사', 'Leder games'],
@@ -105,7 +105,7 @@ export const BOADRGAMEDATA = [
     id: 7,
     title: '매누버',
     genre: 'battle',
-    image: "https://w.namu.la/s/31f3d9e451ba6730733dcfd0b4395ac17571d2972fc04ee2a08704606ebc7f31323f113473efeca39978b3d654d449a382f63b5fe2d5d79f03e3fe8b3e90945fd86a6f995ae02b963162a899a964f392e72bb4546b47a47620d2d18dd0168f6f",
+    image: "https://cf.geekdo-images.com/pqjIbe4kdIy4jbAzcbTX8A__itemrep/img/9MPs3SUUkb1QDdY87jO9Y9eVWRs=/fit-in/246x300/filters:strip_icc()/pic309433.jpg",
     tableData: [
       ['디자이너', 'Jeff Horger'],
       ['개발사', 'GMT Games'],
@@ -122,7 +122,7 @@ export const BOADRGAMEDATA = [
     id: 8,
     title: '메모아 44',
     genre: 'battle',
-    image: "https://w.namu.la/s/0bc5604e9f61e9ed4a51848752ea13da07146fa796e147597b08fd8d43db84b0e70b3d0e0c92f0f348f90f34c77ffc61f0fc3e1bbab875158996ac0b0bce590318d078552092fb85f2973af04c75da9f9f71cbd3f3db635883a98f9d20a21c27",
+    image: "https://cf.geekdo-images.com/chfLNSL0l7afCA5go9pAtA__itemrep/img/--2Q8-fe8yqY54fGnubDdGgkW-g=/fit-in/246x300/filters:strip_icc()/pic43663.jpg",
     tableData: [
       ['디자이너', '리처드 보그'],
       ['개발사', 'Days of Wonder'],
@@ -139,7 +139,7 @@ export const BOADRGAMEDATA = [
     id: 9,
     title: '메크 대 미니언',
     genre: 'battle',
-    image: "https://ww.namu.la/s/86c73e95885299319bef0c7deadef7ff9ab6736ddf5de3545b165c5d7f2caaf9da7e880b6eaee4f00bbe73ed5085385a12201b5fd8940b136170920a838f84b828747b826b343d7ccda438d8976aa51650efd64e7936d7383a74e66146410550",
+    image: "https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__itemrep/img/httjWYSnwrB_d1pPomIftQATHMc=/fit-in/246x300/filters:strip_icc()/pic3184103.jpg",
     tableData: [
       ['디자이너', 'Chris Cantrell, Rick Ernst, Stone Librande, Prashant Saraswat, Nathan Tiras'],
       ['개발사', 'Riot Games'],
@@ -156,7 +156,7 @@ export const BOADRGAMEDATA = [
     id: 10,
     title: '바르바로사: 키예프 에서 로스토프로, 1941',
     genre: 'battle',
-    image: "https://w.namu.la/s/f405cb16d3ba1300a123ab45909fe90581bf2cf82d3c495b4e4783b321188b499e7429592f3d978c37e91d42db64fc8bbb94538dadfb9a17825fdd9cf16d63d5d42f1474d6f36f6627356f0b666da91545cffd9ba158ada379059b344dcf12c42a945f8512debdec40f6c437259406e1",
+    image: "https://cf.geekdo-images.com/pE6OL_PasiltqUisDnub-w__itemrep/img/HX2xMn9EOS_5nTTFG_QJaoThq1A=/fit-in/246x300/filters:strip_icc()/pic1156752.jpg",
     tableData: [
       ['디자이너', 'Tony Curtis Vance von Borries'],
       ['개발사', 'GMT Games'],
@@ -173,7 +173,7 @@ export const BOADRGAMEDATA = [
     id: 11,
     title: '반지의 제왕: 대결',
     genre: 'battle',
-    image: "https://ww.namu.la/s/78ca2dcc465f4336506b36c90751907b777df600ab03c7bb97f6958b2874ac5fa3946c604f71f0c0dc2a7e19a2e83232f859f71ce41d0499c81e7e0f0ccb2d94a2f243c5c49df5feed2d0f6ebc0b803855b3cf0279277659c1252faaaefe4ac474d03a080c51a6c87caf25bcf4f73329",
+    image: "https://cf.geekdo-images.com/y9fm5_x9oJ4nM-W-9WdKig__itemrep/img/lKxrY6A159dg757UyhQHgXIzAGM=/fit-in/246x300/filters:strip_icc()/pic5510866.png",
     tableData: [
       ['디자이너', 'Reiner Knizia'],
       ['개발사', 'Fantasy Flight Games'],
@@ -190,7 +190,7 @@ export const BOADRGAMEDATA = [
     id: 12,
     title: '배틀 크라이',
     genre: 'battle',
-    image: "https://ww.namu.la/s/bb3f79a1bc3cc6a618d5bb93e01faec7eb1341454f0fb4889d6416b86dc3e79a77f42e4091234c8660002b7cdddc4bfbae5fe3b7cd3ab48d2e1212fc9a95033090f22169131d55d550cb9d151e6f14ad3217d33242a2f078f0d91a32a45d61b8",
+    image: "https://cf.geekdo-images.com/TCgIFgzl_kVUJuhfZuMxgg__itemrep/img/RgE70mwLZLEzTgoFZNBHd4LmMJA=/fit-in/246x300/filters:strip_icc()/pic21060.jpg",
     tableData: [
       ['디자이너', 'Richard Borg'],
       ['개발사', '아발론 힐'],
@@ -207,7 +207,7 @@ export const BOADRGAMEDATA = [
     id: 13,
     title: '스코틀랜드의 망치 (해머오브스콧)',
     genre: 'battle',
-    image: "https://ww.namu.la/s/f061544e569315e4eb3d8407cfc6e47364d4ee3998e5fcd0094549d10ff0aff5f843900d8b70602a6fd7dd0fa2fa0145bc394fa1937c17f11f1e355972450c3b19883b7383183e94a31c5e63943f9400f480e12f725f869dd041eceda2d3398e75eb1d788581261020534a3db3e7a9c0",
+    image: "https://cf.geekdo-images.com/o_A6wRI02aiADxlP0WDEZQ__itemrep/img/plMbOZ8O6bTqZlFRJC-Xcp449PM=/fit-in/246x300/filters:strip_icc()/pic623710.jpg",
     tableData: [
       ['디자이너', 'Tom Dalgliesh Jerry Taylor'],
       ['개발사', 'Columbia Games'],
@@ -224,7 +224,7 @@ export const BOADRGAMEDATA = [
     id: 14,
     title: '승리와 비극',
     genre: 'battle',
-    image: "https://ww.namu.la/s/535b50161204bfb078d095e71037a02e27886e80c4af0f7639ff5aac90851a89533da0aa7d40bc7d23ad6545cf51b4cecc8b929ff4541cc2d976ddb17d0f34d372bc54c68ae4f68352efc72566ba8d7385393af0724cefcc6d1e22d5d6393ef4",
+    image: "https://cf.geekdo-images.com/P-ziFYUMpJfGqCArOX39kQ__itemrep/img/niGOpGGsJA4uEHRYVlQBgP3Cl6Y=/fit-in/246x300/filters:strip_icc()/pic1049643.jpg",
     tableData: [
       ['디자이너', 'Craig Besinque'],
       ['개발사', 'GMT Games'],
@@ -241,7 +241,7 @@ export const BOADRGAMEDATA = [
     id: 15,
     title: '썬더볼트 아파치 리더',
     genre: 'battle',
-    image: "https://ww.namu.la/s/45fc7d2b82bc15f029501d3d46ee5f6a1bb3abd48eb6e167f1ad2c63a4b7c21e4673a60fa74862ee1035d601d952b4122c5e09281bba1edc67cbec67a9c93dd0bc39d382b5bb7fb2db52cb2118016e4a1f2cd270c252b980861f783c98719edc49239ea36424b213272e0959fd1b3a7a",
+    image: "https://cf.geekdo-images.com/0vil2dh2Kvs64hneMDWfyA__itemrep/img/pPcOlihb04jSraKxSGuvQdsoXaQ=/fit-in/246x300/filters:strip_icc()/pic1296959.jpg",
     tableData: [
       ['디자이너', 'Dan Verssen'],
       ['개발사', 'DVG'],
@@ -258,7 +258,7 @@ export const BOADRGAMEDATA = [
     id: 16,
     title: '영광의 길 (패스오브글로리)',
     genre: 'battle',
-    image: "https://ww.namu.la/s/2f1bbe8cdbce1465b8b3eea4af4ccc5e60b84cb9e2095a0bc6f348483404ce4d814fe483b4069fd240c0d248e37127ed769aab275381b92b95207fcc70a55283fed220d97b3799a3bd6bcb56c30e02df8b30b623103f3a9c76df8eb8e6caf1de0260b236ab9acf754beb8d1c02f31417",
+    image: "https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc()/pic4490515.jpg",
     tableData: [
       ['디자이너', 'Ted Raicer'],
       ['개발사', 'GMT Games'],
@@ -275,7 +275,7 @@ export const BOADRGAMEDATA = [
     id: 17,
     title: '월드 앳 워',
     genre: 'battle',
-    image: "https://ww.namu.la/s/fbec2ba35278ca9853947b9fb9ce5651055bbcf8b5dd7de43b250126242ccd6ce821467f5e70fcc53517d9147a404719f61183c6b4ed012ac9517741977447f75061396551128691e6397d1ca10387df472deb62271d7b523cde35d7c05779b6",
+    image: "https://cf.geekdo-images.com/o9gjjgu37WqNSUd3sZsb-g__itemrep/img/1ddhIY4G-4xl0MUC_1cFpw4Xaac=/fit-in/246x300/filters:strip_icc()/pic34304.jpg",
     tableData: [
       ['디자이너', 'Bruce Harper'],
       ['개발사', 'GMT Games'],
@@ -292,7 +292,7 @@ export const BOADRGAMEDATA = [
     id: 18,
     title: '일러전쟁',
     genre: 'battle',
-    image: "https://w.namu.la/s/15ac8c78387adcd20aad72ab0cafb469947b9e09e994818e348dd0e51d06313180f8fd677e94a142ea51e47844f04fab88396169b0593fd2c83aae4c5f81150a89e966e45cf482efa0bd2ba7df080fb314f569a1ceebf53998845c3c0a5966baafd1f35c116a1ba22f63e2cc1fef31f5",
+    image: "https://cf.geekdo-images.com/NGfTesrWmzJpLU2LQY8Xcw__itemrep/img/d457QgPriUrPyXuMoZPObFMp3OU=/fit-in/246x300/filters:strip_icc()/pic622076.jpg",
     tableData: [
       ['디자이너', '黒田 幸弘(Yukihiro Kuroda)'],
       ['개발사', 'Epoch'],
@@ -309,7 +309,7 @@ export const BOADRGAMEDATA = [
     id: 19,
     title: '처녀 여왕',
     genre: 'battle',
-    image: "https://ww.namu.la/s/e43ed4be8b51f714c3a7843eb711c06c7df1b2e3625d9d7420bec806da931405c7d54bd8b12263f2106c91feba9a1b6ac3c7798bcb034c4b519cbe59dc8340963ff273f128a9e2bf299f6dd7bd663feabf43d463de1c322a0c701d0eae962b9ad1ebe5cdfe406a65a895d18971325045",
+    image: "https://cf.geekdo-images.com/-YgoNoqHXqA4N_4qaxUUeQ__itemrep/img/FhqqROjDXtvZrLehbQhSi4KIwKU=/fit-in/246x300/filters:strip_icc()/pic1276971.jpg",
     tableData: [
       ['디자이너', 'Ed Beach'],
       ['개발사', 'GMT Games, Spielworxx'],
@@ -326,7 +326,7 @@ export const BOADRGAMEDATA = [
     id: 20,
     title: '컴뱃 커멘더 시리즈',
     genre: 'battle',
-    image: "https://ww.namu.la/s/157589436f9272952c16431c6303656e35e8e52fcf25e9fecb3e5294cacf2f8a4d51ba8c11946f8ab537615c96e43e1de9c74c10e1a552ca748918f41c854c16857f28b72ec44c05cdb4eba510e94565f2cc80b6bb3570dab09366e5b83d7878",
+    image: "https://cf.geekdo-images.com/uKaL10FK-u9wfYyK6MQaNg__itemrep/img/okcmGsWimV6HE4MY68NLsY7e4ZU=/fit-in/246x300/filters:strip_icc()/pic992459.jpg",
     tableData: [
       ['디자이너', 'Chad Jensen'],
       ['개발사', 'GMT Games'],
@@ -343,7 +343,7 @@ export const BOADRGAMEDATA = [
     id: 21,
     title: '코바야카와',
     genre: 'battle',
-    image: "https://ww.namu.la/s/0bb7763d8704d8b52fe30762b1560c1d8b28fb39f59f139d63448fe8c6becbdf1111585c97be626714a7365829144b1d73e41f20a867e503182e92853d97d96556771caf613edfb311223b8d0c30bf9ae25e4d3bdc003e687473798f50c2f562",
+    image: "https://cf.geekdo-images.com/bmkZSLcuR4G0tPYI9pob-g__itemrep/img/gGQRxJQYD3e9fM2VxPwlF4z1P7s=/fit-in/246x300/filters:strip_icc()/pic2299549.jpg",
     tableData: [
       ['디자이너', '佐々木隼(Jun Sasaki)'],
       ['개발사', 'Superlude Éditions'],
@@ -360,7 +360,7 @@ export const BOADRGAMEDATA = [
     id: 22,
     title: '필드 커맨더 : 나폴레옹',
     genre: 'battle',
-    image: "https://w.namu.la/s/a815af651d71bcda905f6a75c495d80e367a01bca7ae28b70edd7f6d4208fc9645896119bf05d218cdfb8dfc8d486884686119cae7502a7fd3580526e727005be771347c04e72ec47871d6a69930b0bc3a315be77632b9876f84a737f0c602fcf60526f28b5fde29365ad27caf4cbaf7",
+    image: "https://cf.geekdo-images.com/5YkSEEutoR_z6DztagbF8w__itemrep/img/Dp8oQsGUIKpqaMp5TCjSrA4-CEw=/fit-in/246x300/filters:strip_icc()/pic1063957.jpg",
     tableData: [
       ['디자이너', 'Dan Verssen'],
       ['개발사', 'DVG'],
@@ -377,7 +377,7 @@ export const BOADRGAMEDATA = [
     id: 23,
     title: '하이브',
     genre: 'battle',
-    image: "https://w.namu.la/s/b42967aee6228a31b0c17ef1ba896fc54d4053cf47197a60b9642cc5319b300236f9d317963e7de4ec9540d95d2d49510d2641000986188f24aa1570cebae8517d0fd035638adffc89d5ae667449200475745ce82393ff06ed050a5e86512ce81d9a510c01a970183b6dffd913e26327",
+    image: "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__itemrep/img/SdQ5at_SaQCPbs1QES2KfeUKqaQ=/fit-in/246x300/filters:strip_icc()/pic791151.jpg",
     tableData: [
       ['디자이너', 'John Yianni'],
       ['개발사', 'Gen42 Games'],
@@ -394,7 +394,7 @@ export const BOADRGAMEDATA = [
     id: 24,
     title: '호넷 리더',
     genre: 'battle',
-    image: "https://w.namu.la/s/ef4e54bd02e496a309c6c4c312a32d433ccd90ff1657dcbafd9b2e1912e8ed30b9d781825f050affb1bc7fdb97839aab8d20093c7cc9a2f32d28b782602afc6d6913f9af93998ccb1111320c60bb495ac72df3dda9f92e33a4de0d7e16d93be22570439def93a26da9ff1e1e79e699d5",
+    image: "https://cf.geekdo-images.com/E-0NXJvzN_Q94gctxkCXZg__itemrep/img/_9IyV_65vIADd3sXrxHO-kqEp98=/fit-in/246x300/filters:strip_icc()/pic650893.jpg",
     tableData: [
       ['디자이너', 'Dan Verssen'],
       ['개발사', 'DVG'],
@@ -411,7 +411,7 @@ export const BOADRGAMEDATA = [
     id: 25,
     title: 'Axis and Allies 시리즈',
     genre: 'battle',
-    image: "https://ww.namu.la/s/4433cc2b5f7be19b67b102017c1c55e16013aa5c1bab32a554acfd5126353a892c3d94d7bfeae106ec3935f516babd005d68e5e33067bf734d2b1062cabc9f89f92396be162f0910c19deaad2a3f043720b815cb2b0c82296af05cb0ade23eb2",
+    image: "https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__itemrep/img/NfcWlfpNPWd9-AKDLRFHK8GZ-xI=/fit-in/246x300/filters:strip_icc()/pic24006.jpg",
     tableData: [
       ['디자이너', 'Larry Harris, Jr.'],
       ['개발사', 'Milton Bradley'],
@@ -428,7 +428,7 @@ export const BOADRGAMEDATA = [
     id: 26,
     title: '커맨드앤컬러스 에인션트',
     genre: 'battle',
-    image: "https://ww.namu.la/s/07f4ecadb7690e02b5761243f6ed4b1abd15c3c68bc504c20270b66760a526e56beb400b46291349ce867840e091d6588e619ce9028d2d7e1f0258ce8d215abb6b0c541ed999a7e51122d4cc6b3e3efd8994472183e1f77817faa0ef7a1cba78fa62a70919930a0d0f8f6ba65ecb94de",
+    image: "https://cf.geekdo-images.com/qcASDsV-0eNBVipfPhxs7A__itemrep/img/MjWft3eEMzkIkw22BbalbhnFYls=/fit-in/246x300/filters:strip_icc()/pic132447.jpg",
     tableData: [
       ['디자이너', 'Richard Borg'],
       ['개발사', 'GMT Games'],
@@ -445,7 +445,7 @@ export const BOADRGAMEDATA = [
     id: 27,
     title: '커맨드앤컬러스 나폴레오닉',
     genre: 'battle',
-    image: "https://w.namu.la/s/ebbe74c794df937c66f58b44c5e6a55cff5c414b36ada6b8dc6587a92c77f7a88f1b84c82f52c50cb8af476d85bf4f37cbb70d0ca8f00f76070a8ec2311c5e2d73baeedb21fefcc44718b49c32c44ad6df907b6755f3dfd87c86cd11f4532a1debf3836a4bdf948cba9748f879200871",
+    image: "https://cf.geekdo-images.com/eVEF5fs8D22b0Bwj17mNgQ__itemrep/img/lta1kpJrgc80zkCbo_b9GmJfb0U=/fit-in/246x300/filters:strip_icc()/pic837162.jpg",
     tableData: [
       ['디자이너', 'Richard Borg'],
       ['개발사', 'GMT Games'],
@@ -462,7 +462,7 @@ export const BOADRGAMEDATA = [
     id: 28,
     title: 'WW2: 바르바로사 투 베를린',
     genre: 'battle',
-    image: "https://w.namu.la/s/ebfdd652471fc4577f385849f459bce710d399ee51bd3a5be8ed3b6dfef9db137d47838daa2e32d13f38d30f5061f5da4d79451ede2f84f95f68c84b90178679912f125ca243a2960b87c4fb5e00a3269156d25ccceadbcf366b439f1ca1fbdd47579ed0f93bc3f96372a5dececd8f6b",
+    image: "https://cf.geekdo-images.com/Amzxm9Xw-Q1vVJjOa7LEmw__itemrep/img/Ej9FRLZmVxLy0L3NIJMyIoaFi5Y=/fit-in/246x300/filters:strip_icc()/pic152334.jpg",
     tableData: [
       ['디자이너', 'Ted Raicer'],
       ['개발사', 'GMT Games'],
@@ -479,7 +479,7 @@ export const BOADRGAMEDATA = [
     id: 29,
     title: '광기의 저택',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/9ba0f265fb404054829bd00f555f78774d86dc56d9a5be04189374cdb2d6da4995d8eafe37d6d0ee278e8a11945b30bc69fa6f2d2ad653380fd588ccbd19b22d0046539532d47e17a56729b97d82a79fa21c98169eda4411af4d80a94d30d60b1536428424a3451323e0905f2e798fe7",
+    image: "https://cf.geekdo-images.com/JtjGOgkaIxnLUeoV56cWFQ__itemrep/img/qzTngxEVy61D4H90k6DiLWM9cV4=/fit-in/246x300/filters:strip_icc()/pic814011.jpg",
     tableData: [
       ['디자이너', 'Corey Konieczka'],
       ['개발사', 'Fantasy Flight Games'],
@@ -496,7 +496,7 @@ export const BOADRGAMEDATA = [
     id: 30,
     title: '광기의 저택 2판',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/ccf886d62ed5aeb45ce29bd62ee9671bdff3351fa9d836338b5363d5d60bcbd750c7ffba5d9d35309f88081d7bf51cb3315b5f8808023c4a127404c53aebacc338e6dfac8c042581d95c2e12f2d87e84c629d9bb5b0fb751eddd6edbe8abc057",  
+    image: "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__itemrep/img/G_-z236LOfeZMfomDg5oPNJvyrg=/fit-in/246x300/filters:strip_icc()/pic3118622.jpg",  
     tableData: [
       ['디자이너', 'Nikki Valens'],
       ['개발사', 'Fantasy Flight Games'],
@@ -513,7 +513,7 @@ export const BOADRGAMEDATA = [
     id: 31,
     title: '글룸헤이븐',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/4405d7ac2c4970a0b7c4fc0883b089df80cc2c26c8a3d782e75a162b82026161dc1e33ad9761c9e48256a8af826170c8848873395c6574d406013a35bcd089aadc312ff1e3ed88cc82b3356e737b5071019bb74791e0868a25ebef1b3eedd7a99db635c14555d6353a275fa18e21d7cd",
+    image: "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__itemrep/img/0IdBRA_G-ZdrNaxI4Z1LPQMZD0I=/fit-in/246x300/filters:strip_icc()/pic2437871.jpg",
     tableData: [
       ['디자이너', 'Isaac Childres'],
       ['개발사', 'Cephalofair Games, Hobby World'],
@@ -530,14 +530,14 @@ export const BOADRGAMEDATA = [
     id: 32,
     title: '다크 소울: 더 보드 게임',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/1efad3d79d4ea50a7ce58fd54b654996be5e62aed52c2d54c07f7261899ceda6e8e2da7abdec2f8ffea49148b3d887f9ec96eb19f3003a3fba5ada34fda86d760da269fde74d4235338853bc6ad717a84b426cec6463a664082e6c0a5a4663a6584944515536568189e32162f7b1b26e",
+    image: "https://cf.geekdo-images.com/mHQMnDL317AKXCt9LojYxw__itemrep/img/HY7iPIpoZEAD-nK8lHEpkqYp0-w=/fit-in/246x300/filters:strip_icc()/pic3784353.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'David Carl, Alex Hall, Mat Hart, Richard Loxam, Thomas Lishman'],
+      ['개발사', 'Steamforged Games Ltd'],
+      ['발매년', '2017'],
+      ['인원', '1~4 명'],
+      ['플레이 시간', '90~120 분'],
+      ['연령', '14세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -564,7 +564,7 @@ export const BOADRGAMEDATA = [
     id: 34,
     title: '데드 오브 윈터',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/87abae35a343b68adada2eb6660857f6147ee831cd812b8c450c8e576b4aaa267518951992b1aa49790268560d8b777bb672184eb652adb573399bd4be490a99523344cc595bae9d9bc8c947829255b38fb586a6cde4f02b79541d58e18f3d4b5c776317a83f8897ee30d87a86e516c6",
+    image: "https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__itemrep/img/Tc76KEZmrLgCrsvhQAW36iv7x9E=/fit-in/246x300/filters:strip_icc()/pic3016500.jpg",
     tableData: [
       ['디자이너', 'Jonathan Gilmour Issac Vega'],
       ['개발사', 'Plaid Hat Games'],
@@ -581,7 +581,7 @@ export const BOADRGAMEDATA = [
     id: 35,
     title: '도라스레',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/36f9ca540007b064d530a3b91e310a4767979583c4c796e6b6123d989eeaf0f98d2fa5b61ae3c0762a001b01c472f289ac09c83cb83e081d1d633426ca19de01ad86efcbea526d5179db50f1831326ed753d4c56d8b6403a1f0f5641f0a37278",
+    image: "https://cf.geekdo-images.com/ViUGzQGN1YdhRoN21PB3nw__itemrep/img/UNgKiPdrHamhTw-ZTHZDwj0Q34k=/fit-in/246x300/filters:strip_icc()/pic2317622.jpg",
     tableData: [
       ['디자이너', 'KTR'],
       ['개발사', 'GIANT HOBBY'],
@@ -615,7 +615,7 @@ export const BOADRGAMEDATA = [
     id: 37,
     title: '디 아더스: 세븐 신즈',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/29409655d4977c50a2845a3b343140bb356d05eee7ddabfcf9bba8c16181ce8794ddca5dda837fdb0263ffc98f4bc2b738646622a9e1c6bd4d687a32ac1fec11792cbdea994cfa6f73a1a26d976245b5dc4417d3905aced9d741695bed71c15e796fc7f29901886f3c83decd8b5c9eec",
+    image: "https://cf.geekdo-images.com/5VrDj4hKFp-jqyl8Fpwjjw__itemrep/img/uIdhyb0li2ggeK_dftsHfC-3j1A=/fit-in/246x300/filters:strip_icc()/pic2642988.jpg",
     tableData: [
       ['디자이너', '에릭 M. 랭'],
       ['개발사', 'Cool Mini or Not'],
@@ -632,7 +632,7 @@ export const BOADRGAMEDATA = [
     id: 38,
     title: '룬에이지',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/6d210fa085dec1e79fc70878258f2a7114b58968c3a513d4e7b2d6ab236143a664153abd0622aaa014a97a07d01fd8b35ade630d8f82f578324d5198851b01ba2e0ef85738212242f9471439facfc1ecc967247a0406b19ad701928e3989bc12722e9fafde447284908d1fcaaf7d791b",
+    image: "https://cf.geekdo-images.com/h_uE_Lzxu-xQxgbiZ98Vzg__itemrep/img/DPbcqtmdF3B0irSs0GIK8ixIb44=/fit-in/246x300/filters:strip_icc()/pic973931.jpg",
     tableData: [
       ['디자이너', 'Corey Konieczka'],
       ['개발사', 'Fantasy Flight Games'],
@@ -649,7 +649,7 @@ export const BOADRGAMEDATA = [
     id: 39,
     title: '매시브 다크니스',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/e749ce3d5397efc4cb18179f7e958f15ae0ba01bfda08838346388a758ecaf733cdd675ef5caeed204f70a0f88f227db4c1bdcbe400e3e8748e0f5d5dbd674a0d4ee6f00624bb17b439bd267f940b40b84df4f24da86bfaef5a235c72b3358ca979042c758393a3bf246546390ee1c7d",
+    image: "https://cf.geekdo-images.com/4gH_fX2BQPViWLe9pNfSKg__itemrep/img/IoxPC3N2syOgaIwe7b_0Aj_GlOs=/fit-in/246x300/filters:strip_icc()/pic3687923.jpg",
     tableData: [
       ['디자이너', 'Raphaël Guiton'],
       ['개발사', 'Cool Mini or Not'],
@@ -666,7 +666,7 @@ export const BOADRGAMEDATA = [
     id: 40,
     title: '메이지 나이트',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/5024c336bb473020a3d4e2599b9a2155ff7465f9392103d45e25f290052135619e9c2f7db11485a0d304749bbcbe03f134b35fafff2c845eac93f2852b26fc0307c874b403c2fc25a01b736559f7234a48d410a7fff878e93e495a7fd97bba06",
+    image: "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__itemrep/img/6OmGo3bidk3ma7U1v-oq_2pEJZI=/fit-in/246x300/filters:strip_icc()/pic1083380.jpg",
     tableData: [
       ['디자이너', '블라다 츠바틸'],
       ['개발사', 'WizKids'],
@@ -683,7 +683,7 @@ export const BOADRGAMEDATA = [
     id: 41,
     title: '먼치킨',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/7157c89c37f64484892a1aacc41e81870518299c18d26f23feb45aa4e85443edb3eb5655e0b23345a34efcce059de3e51e4cc3949f67d422426d3ee04d70ed93eecd8fced9555ce06e7a1bf1a97f3ceea59a73615a8678bfbf4bee7670356090",
+    image: "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__itemrep/img/2MRtjy32fdzTBDCvUk73dA-ZtJk=/fit-in/246x300/filters:strip_icc()/pic1871016.jpg",
     tableData: [
       ['디자이너', 'Steve Jackson'],
       ['개발사', 'Steve Jackson Games'],
@@ -700,7 +700,7 @@ export const BOADRGAMEDATA = [
     id: 42,
     title: '반지의 제왕: 듀얼',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/1261a459b7f7b43f17a64f68e5eb183ede242c57548aaa6d71740852403538f6af58d82c753bb1ce86592bed9356863df10248f1b459f966592060cc744799398f9940478319fa1fe149f101435d9b95869396c52458754b11ce81444f7852b313fb100d89b2fdc7b1fcbf20e362f1c7",
+    image: "https://cf.geekdo-images.com/IHW5qUuiJwlSWQmXc2hMQA__itemrep/img/UU9aGgzKlA04Z1r0CnFa1Xyo3_Q=/fit-in/246x300/filters:strip_icc()/pic658637.jpg",
     tableData: [
       ['디자이너', 'Peter Neugebauer'],
       ['개발사', 'KOSMOS'],
@@ -717,7 +717,7 @@ export const BOADRGAMEDATA = [
     id: 43,
     title: '배틀로어',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/d3662c1f1308a6e24deb1714744d172413f96dbfbe43e6ff2609cf9d38cd3791b6a4c34283b14ae32bcb4ada56bc97b13d0fbc303d473ab730a0095f0ce17ba3f3665030f4c8e0251aa7541cabc58961fa8c8326c411fcdd404456e4ace6d998a0ee01dce9c7b27cad32cf60e2497900",
+    image: "https://cf.geekdo-images.com/cAH5iJ9gQ7aAj4iwUJyvUg__itemrep/img/AjzKJ-NBRjPouregFTh4YVq0VyM=/fit-in/246x300/filters:strip_icc()/pic145116.jpg",
     tableData: [
       ['디자이너', 'Richard Borg'],
       ['개발사', 'Fantasy Flight Games'],
@@ -734,7 +734,7 @@ export const BOADRGAMEDATA = [
     id: 44,
     title: '블러드 바운드',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/1880b2acb2dfada7270bbd5f2aefb3233d21f43dff9e3d9eb8f72e62602cc0ad7ea661714284ae8358ebeac74ce1748814496b19781449eba96e64064555badc0ea5a1c0c8bbb0e5425e3fe63a575dc0ea0ea1338ab69ada74c6a741473092cd66e81952cfae4cd54793497ffe8b52ac",
+    image: "https://cf.geekdo-images.com/ZnoorbruJqquV0NBTk86_w__itemrep/img/yZmTGNl-BLyysyJVNYn1szTLyxQ=/fit-in/246x300/filters:strip_icc()/pic3564143.jpg",
     tableData: [
       ['디자이너', 'Kalle Krenzer'],
       ['개발사', 'Fantasy Flight Games'],
@@ -751,7 +751,7 @@ export const BOADRGAMEDATA = [
     id: 45,
     title: '블러드 레이지',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/15bd6ca8970751db94643636895b954eaa6f7b00319a2dcc7f04fafa7e2b17d0323801eebd596494a0e1fbb70ae5ee6bec86e9729e3d2ff5202b2441c9905a907d30a8572b60ff44bd8aa17304437faa51611df8b450e8295b0c0067a57face20f8f8929041c2c51dfb7e2e666b72410",
+    image: "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__itemrep/img/ZSJhCapvtPoiIQZ1XdfO-qgUuFY=/fit-in/246x300/filters:strip_icc()/pic2439223.jpg",
     tableData: [
       ['디자이너', 'Eric M. Lang'],
       ['개발사', 'Cool Mini or Not'],
@@ -768,15 +768,15 @@ export const BOADRGAMEDATA = [
     id: 46,
     title: '블러드본: 더 카드 게임',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/f2e5fbd3848a8cd5edac8fb414b5673620fe5f4812c02a9a41faf99043875af92c4696e2604f2e9f0de85dec6a9300afdfd82e5b24b337bc1f0929d115d9d565d983d4a902903de6d093fe014d7ac78c83fe18fd5cca93d16cfdf40662fdc7fd442b28bb9a7ad099825a5c5662e3e2cd",
+    image: "https://cf.geekdo-images.com/zczRMJvEEGhqLGwxxOQQuw__itemrep/img/A3HOmUPHvl_8zYhZWxMglX_8cAY=/fit-in/246x300/filters:strip_icc()/pic3297526.jpg",
     tableData: [
-      ['디자이너', '프롬 소프트웨어'],
-      ['개발사', '소니 컴퓨터 엔터테인먼트'],
+      ['디자이너', 'Eric M. Lang, Sean Chancey'],
+      ['개발사', 'CMON Limited'],
       ['발매년', '2015'],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', '청소년 이용불가'],
-      ['장르', '3인칭 액션 RPG'],
+      ['인원', '3~5 명'],
+      ['플레이 시간', '30~45 분'],
+      ['연령', '14세 이상'],
+      ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
     ]
@@ -785,7 +785,7 @@ export const BOADRGAMEDATA = [
     id: 47,
     title: '블레이드 론도',
     genre: 'fantasyhorror',
-    image: "https://lh3.googleusercontent.com/proxy/2407-iIAW_9V46JAzZ6ysOsGmiv7mfBMabKzX2EmietUubKSXruithwzUcnUEsOAybwuIEb9ShDYCW8r0BANIcdNxSb_nNLvTVqlxqNrR3WLOIjEaJPeM1fvDo_ArTN-dFjAZ-ngIA-zqSVkepxOu9oXY6x_wNBDaBFbkOo92Y8yypl3w94hIG9gwBuy_Uqbsf1a6uAPCKCjuEPpf9ptWsygjjTvckCcSaqwYRF8NDVcbFnGN4JVmSpicZzsErA8-Ep2DZJVBO6-w8BIHBZCiJTinA",
+    image: "https://cf.geekdo-images.com/H0kL_uYEfUJEazm3oDGNOw__itemrep/img/4YYi4qlTiICa36CUVXsO20jm-d4=/fit-in/246x300/filters:strip_icc()/pic4732913.jpg",
     tableData: [
       ['디자이너', 'Pawn'],
       ['개발사', 'Domina games'],
@@ -802,14 +802,14 @@ export const BOADRGAMEDATA = [
     id: 48,
     title: '소드 앤 소서리',
     genre: 'fantasyhorror',
-    image: "http://boardlife.co.kr/data/boardgame_strategy_reg/2018/10/23/1540267092-166883.jpg",
+    image: "https://cf.geekdo-images.com/FNVnu-vB8WjyQTf63Ssvig__itemrep/img/wZRuBv2Rvg0ZTyEU_m-laCY9IOU=/fit-in/246x300/filters:strip_icc()/pic2673763.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Simone Romano, Nunzio Surace'],
+      ['개발사', 'Ares Games, Gremlin Project'],
+      ['발매년', '2017'],
+      ['인원', '1~5 명'],
+      ['플레이 시간', '60~90 분'],
+      ['연령', '12세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -819,7 +819,7 @@ export const BOADRGAMEDATA = [
     id: 49,
     title: '스몰 월드',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/32d5e52cdd61df10daeda51bcab9c207a71c89e8118d6a98796b7c21c75297820a743249a548080654a1591856ee3e60d374332feb2b85a2f00654bf7e725cbabc6f38d0d8b243ebcd65144fb4c783b51ce14a9a22fbfe17cffa8f37ab9e0804aeb37bd34b8ebcedf6e03cf138d968f9",
+    image: "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep/img/vxZGxHhrtnOMxPM38WNIu-tfYmI=/fit-in/246x300/filters:strip_icc()/pic428828.jpg",
     tableData: [
       ['디자이너', 'Philippe Keyaerts'],
       ['개발사', 'Days of Wonder'],
@@ -836,7 +836,7 @@ export const BOADRGAMEDATA = [
     id: 50,
     title: '스타 렐름',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/ee0f893670847d92ab9c2d0d769a9cbb8f665e02011391e5fc5b04c2bfbfa57e052a2a20ca4bb5476c5e32c8099bbdd8788b8517a4fdde46716b9474f6e1a1bdb7cd3b72760a96099c37eecdb5e525519358c3348132c5bb1f4cd200b254a0963e67a5f8739a78437eb0050a4aa4ec21",
+    image: "https://cf.geekdo-images.com/EsJqPL5CB_TMt0MYL-lnVg__itemrep/img/dxhJELqcs6kDXA_SrvcaIjX5N_Q=/fit-in/246x300/filters:strip_icc()/pic1903816.jpg",
     tableData: [
       ['디자이너', 'Robert Dougherty Darwin Kastle'],
       ['개발사', 'White Wizard Games'],
@@ -853,7 +853,7 @@ export const BOADRGAMEDATA = [
     id: 51,
     title: '아브라카...왓?',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/0982acec7965ad6fef646f9816050756ac62da5d7f0b4dea059b11d8599b4292220bbb368004dffb5637a3749e7f35033e50e768d2f9637c1eccca1f16525dd7a7ae88aecd4d8fa97c40cab0b65fccc1410b88e0845c3b21c6b72c67e3f53310e01d8e4fa191138502605b88758760dd",
+    image: "https://cf.geekdo-images.com/ExKZ4I1R5sx-F65Gj-wDFA__itemrep/img/HqNNo6nbDxMSJWF5xfWbXQwRKkY=/fit-in/246x300/filters:strip_icc()/pic2428651.png",
     tableData: [
       ['디자이너', 'Gary Kim'],
       ['개발사', '코리아보드게임즈'],
@@ -870,7 +870,7 @@ export const BOADRGAMEDATA = [
     id: 52,
     title: '아컴호러',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/66e79294f4ebe62f5ad3a7e73c42628048cff0dd4205a310c0a52c8f16c111fb7f3d1ef0d3045dd031be0d25f89ea580d55390098c283af76031629c019878f82b3f120f767e7dfdbf213a95fefff45cb4c8e014f89ace8290e67df922955712790417868035b06ac69564fd7f60d1d0",
+    image: "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__itemrep/img/d7sT40CRGgKcClC_UjTlanbRrUU=/fit-in/246x300/filters:strip_icc()/pic175966.jpg",
     tableData: [
       ['디자이너', 'Richard Launius Kevin Wilson'],
       ['개발사', 'Fantasy Flight Games'],
@@ -887,7 +887,7 @@ export const BOADRGAMEDATA = [
     id: 53,
     title: '악마성의 마차',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/ba576c6d94de2436525e3f3fca9e0dc35bcf702a5adca7998dde2cd82937796c9facb18ef1e4c3c4aa2a94a1ca08942f5a9a7d5f5cb1c2cae1cceaddb2d8cd8fd97c268dc97efdad5cc76d23ea6b7e50a8c013d7a82c45927a82c34e6e6ab6a6",
+    image: "https://cf.geekdo-images.com/i8P6A9IZZZB0L4dna1qAqw__itemrep/img/KHVwr09OTuykxNE4WQq9KsAusDQ=/fit-in/246x300/filters:strip_icc()/pic153683.jpg",
     tableData: [
       ['디자이너', 'Michael Palm, Lukas Zach'],
       ['개발사', 'Adlung-Spiele'],
@@ -904,7 +904,7 @@ export const BOADRGAMEDATA = [
     id: 54,
     title: '언덕 위 집의 배신',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/47fe4c2b53c184458c0474fea44fab2bf393f847bdc49f7a1e1e3102a92b80ea31da65bce7219d7a1af8829503bce57606bce0454e426856f554a6fc19fb70c256a5a24d5545d031dbd29f15802202ec9b38e2979f585e0d5e03ce4b2a9da995",
+    image: "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__itemrep/img/_iR9fdW4a3BsMh296ljKJj_EYOo=/fit-in/246x300/filters:strip_icc()/pic5146864.png",
     tableData: [
       ['디자이너', 'Rob Daviau, Bruce Glassco Bill McQuillan, Mike Selinker, Teeuwynn Woodruff'],
       ['개발사', 'Avalon Hill Games, Inc.'],
@@ -921,7 +921,7 @@ export const BOADRGAMEDATA = [
     id: 55,
     title: '엘드리치 호러',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/8b201683e8c919a24d1f81b4d7e45ea956584bb06c95fc23638bdc5fd32b63251636571cd0322f265f072b6cbc4721ea353870423d8f636fe52bfed24e133454f8352f64c00c62d622f69b5cf84c4bc0cebce252fd5925e39647149379be061eeeb71d7c1e7001b906798c41f57ea42d",
+    image: "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__itemrep/img/EQReG95qMc561VugTP8CvqO9zKE=/fit-in/246x300/filters:strip_icc()/pic1872452.jpg",
     tableData: [
       ['디자이너', 'Corey Konieczka Nikki Valens'],
       ['개발사', 'Fantasy Flight Games'],
@@ -938,7 +938,7 @@ export const BOADRGAMEDATA = [
     id: 56,
     title: '와글와글 던전',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/4a4c0d7c4134d8b64517f6cc34fdac11d6e6a5ce9de4d14fa52efd55dfce4f5a8a1c3996862b80c5d9640b4618b62b29aa9881cacf6b901c0d815a434f9864033b2297a60c917c0761c2ca769907aed95cfb4d5c5ac684a30627dc042574f475fa3fef70794c8f9f07979ff9ee6a0390",
+    image: "https://cf.geekdo-images.com/2siWfg0Z4Vs89CWzA_j0NA__itemrep/img/_8B5d8ZGvukZyOapC1GGvZcLgow=/fit-in/246x300/filters:strip_icc()/pic2593145.jpg",
     tableData: [
       ['디자이너', '榎　智洋(Tomohiro enoki)'],
       ['개발사', '榎乃家 (ENOYA)'],
@@ -955,7 +955,7 @@ export const BOADRGAMEDATA = [
     id: 57,
     title: '왕좌의 게임 (게임오브쓰론)',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/7e20598d3ed9d75cb486e37fd65f840732fdddf71cbe34b15574c42df940f0c58cc45b2c62c721d92016fa050ec71ac5b342bffc88469bc5d51c5a87710de6fc4e93bd19d957ebe4b482ef8bbfd4ce77af39982f221522d5272985b4117dd590eb7dd21aa533477575536e6e280f0304",
+    image: "https://cf.geekdo-images.com/Gr3qfzoK-428kv1M9WUG1Q__itemrep/img/LkUDB9ISbVerrYmsug-HjyLvzY8=/fit-in/246x300/filters:strip_icc()/pic1222116.jpg",
     tableData: [
       ['디자이너', 'Christian T. Petersen'],
       ['개발사', 'Fantasy Flight Games'],
@@ -972,7 +972,7 @@ export const BOADRGAMEDATA = [
     id: 58,
     title: '웨스테로스의 전투',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/e63b4cd61e2d83a86a66c17211d2905a25d0ef3b4524a7ffbd84fac2521fa162f2c0fb1255b26a39cfaafa7a1cae262800658e307096f547b370b025db1b5c2c32cea249e18bf869d47f4f2a28ca2cff8b1385d67be87706fd05ac31988832dbcbd0aa21dc8f06994dd190b3c8435255",
+    image: "https://cf.geekdo-images.com/8THvj65P8JTqfvreVioXkg__itemrep/img/26EM47yg8KUQIx2Aw0qtDKrlP8c=/fit-in/246x300/filters:strip_icc()/pic711013.jpg",
     tableData: [
       ['디자이너', 'Robert A. Kouba'],
       ['개발사', 'Fantasy Flight Games'],
@@ -987,16 +987,16 @@ export const BOADRGAMEDATA = [
   },
   {
     id: 59,
-    title: '월드 오브 워크래프트 TCG',
+    title: '월드 오브 워크래프트: 더 보드 게임',
     genre: 'fantasyhorror',
-    image: "https://post-phinf.pstatic.net/MjAyMDA5MDdfMTg5/MDAxNTk5NDcwNDE5NzQ0.cFLVnzBT7jpuYJgWPCvuD8BD-02k0BPeJPvQNPr7pQog.o_UZNEtNE0KLpWIKhBvSa-hwpIWvoWNoqRHEOxHhr1Eg.PNG/SWoW_Box_2D.jpg.png?type=w1200",
+    image: "https://cf.geekdo-images.com/G18hq7ONuqIyeGgU0Zlorw__itemrep/img/yh0J0ejBLfB7rCRWqgwJNWJ5OjE=/fit-in/246x300/filters:strip_icc()/pic756989.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Christian T. Petersen'],
+      ['개발사', 'Fantasy Flight Games'],
+      ['발매년', '2005'],
+      ['인원', '2~6 명'],
+      ['플레이 시간', '180 분'],
+      ['연령', '12세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -1006,7 +1006,7 @@ export const BOADRGAMEDATA = [
     id: 60,
     title: '좀비사이드',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/4e4111eac63ec3b2dc2ff5528a5ccfbf28026b943f6e178676f294dc518777582a4f5f1d2280bc957311b7fd00d5b4b528a3e4fbb2e9fae1ca549aee0462de0e997d4468568ec12cf1fb58831793a731b4c21f6979f6feea6c71000477356f0b2cbf3d3177a53fa7fba893c84c4c98c1",
+    image: "https://cf.geekdo-images.com/ZqjfzvtaTIT5FYp1D2CfKw__itemrep/img/lXWYSxxNsi4RGF-SFjIm7iF89cw=/fit-in/246x300/filters:strip_icc()/pic1196191.jpg",
     tableData: [
       ['디자이너', 'Raphael Guiton, Jean-Baptiste Lullien, Nicolas Raoult'],
       ['개발사', 'CMON Limited.'],
@@ -1023,7 +1023,7 @@ export const BOADRGAMEDATA = [
     id: 61,
     title: '카멜롯의 그림자',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/b57c34d9a9850af7b63948cd111dd3a29c69c1f4b312b63eeafc48f1debb2da3773e56341eab21a5ecedefdaec30cfe606e7c2d5608e7166eaf639f85f30e433425dc16900acfccbdf949e10e4e77ef20cb21b940b70ec4741357baca28dac9854ba38d665c46f48fd89cb61b0855405",
+    image: "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__itemrep/img/Z6Zac8NvuJQN5jBl3Z7uppanUbc=/fit-in/246x300/filters:strip_icc()/pic70547.jpg",
     tableData: [
       ['디자이너', 'Bruno Cathala Serge Laget'],
       ['개발사', 'Days of wonder'],
@@ -1040,7 +1040,7 @@ export const BOADRGAMEDATA = [
     id: 62,
     title: '카후나',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/73646299371d89cf906cfbd0f3b9a39099f96e714f36a96aff4e7bb69a4462c302eec3575d43c375d3df4160f537731d363f668d5f00b21739fcff7a71ab890ceca152b7ad47a175880b2ae45cb845fe5658e87a89fe393a66e0f8154dd213ca",
+    image: "https://cf.geekdo-images.com/UdhhVlmQihMbvlNSvY1lUA__itemrep/img/amzlBPY_0_eUZ0hTvEraOzO_dTU=/fit-in/246x300/filters:strip_icc()/pic2606165.jpg",
     tableData: [
       ['디자이너', 'Günter Cornett'],
       ['개발사', 'KOSMOS'],
@@ -1057,7 +1057,7 @@ export const BOADRGAMEDATA = [
     id: 63,
     title: '콜로설 아레나',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/7dbb0e476b957ef5f23cbdb5544eb8524c8674b8d762e4b2d159fd33f97bae4a9d4d968a9b5cf6d3f959cf86e056c224c835d4b1d0de91e7c5b19c2c0f336c1e0c24d9ef610cd484cecad8bfd2b1bea41cc43e539e0b6a79dfba00fda4424e5b",
+    image: "https://cf.geekdo-images.com/SsmaQGmmqdcBmyJDd041YQ__itemrep/img/CDZwJdl-GXspB5Pa4K7SDM56lZw=/fit-in/246x300/filters:strip_icc()/pic1680709.jpg",
     tableData: [
       ['디자이너', '라이너 크니지아'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1074,7 +1074,7 @@ export const BOADRGAMEDATA = [
     id: 64,
     title: '크툴루 워즈',
     genre: 'fantasyhorror',
-    image: "https://1xbriz26bn4p2lwyigezhpy9-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/CW-BOX.png",
+    image: "https://cf.geekdo-images.com/AUd4nmguSljr9qvkUCF2XQ__itemrep/img/EYf3G1UAEXAJWnXYSQPeQg9nlug=/fit-in/246x300/filters:strip_icc()/pic3527761.jpg",
     tableData: [
       ['디자이너', 'Sandy Petersen'],
       ['개발사', 'Green Eye Games'],
@@ -1091,7 +1091,7 @@ export const BOADRGAMEDATA = [
     id: 65,
     title: '크툴루 죽음마저 죽으리니',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/0ba867d0437fa0d5edee92947d3dce8a3c48bda80f176e3f10e57a0ee7a976bd2daab1c6706eb9a1c62177747d5b45dd5eefe0ad1d763b68e18d83bf2c1315bf497445ba7da1d717cb05b6fec8be21bc7082dfc826ce9e1ed16f7f4bfdbbd4ef",
+    image: "https://cf.geekdo-images.com/e8D09pfFsUsoX1D81EeoZg__itemrep/img/Ki4B-y6Am9t18ErzhjSw_L8tKDY=/fit-in/246x300/filters:strip_icc()/pic4705171.jpg",
     tableData: [
       ['디자이너', '로버트 다비에, 에릭 M. 랭'],
       ['개발사', 'Cool Mini or Not'],
@@ -1108,7 +1108,7 @@ export const BOADRGAMEDATA = [
     id: 66,
     title: '탈리스만',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/6f7defb547951e1cfba83d7d0f7f4c8771daecba76609b16f057204fab65ee53233453607f433181b7abe65cc3f94f1036c21984899b0a91ebb7f6e4a029de73a3fac9526169d6f24366ba2bbae6de548730b008beef4a737f07fbb339ecefb86a100216658ce7dd0c4a2689796f55d1",
+    image: "https://cf.geekdo-images.com/PxQnAcYv74J-dJW_s6CHMA__itemrep/img/oQL-pnrvc9xC4fU4hZy7NzEETlU=/fit-in/246x300/filters:strip_icc()/pic332870.jpg",
     tableData: [
       ['디자이너', 'John Goodenough Robert Harris'],
       ['개발사', 'Games Workshop Fantasy Flight Games'],
@@ -1125,7 +1125,7 @@ export const BOADRGAMEDATA = [
     id: 67,
     title: '테라 미스티카',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/33b1276115c31f30ade1bc17d833d988335f6896efb003588792c3f369f9d9c3a5f2230259d1a909fe8a12129794a4a97840e8028a6b4e2a9a88a473cc567ea3bf50212c2044bfd38444ff28819eeda30692b36df9c34c1e48e0c978c02831e97832a5cf7d81c807c051bd74a606e1d8",
+    image: "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__itemrep/img/pKM9lklmQLXJx2xta9eR5NSezec=/fit-in/246x300/filters:strip_icc()/pic5375624.jpg",
     tableData: [
       ['디자이너', 'Jens Drögemüller Helge Ostertag'],
       ['개발사', 'Feuerland Spiele'],
@@ -1142,7 +1142,7 @@ export const BOADRGAMEDATA = [
     id: 68,
     title: '패스파인더 어드벤처 카드 게임',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/9e5b1c17e087c9118ad1fddbeba25a36af181132c245af89b35d982b21416a8b9f6214151c72d482587cd4faf21e58f4ec3bfffd467f7dcd00a1a23302a42e80be88dfda9f08667f4e1060a9a6d4ec5ff8ca5182efa1ee275070c365a996e63ecd8a96fd6628d33457338f7922198c75",
+    image: "https://cf.geekdo-images.com/oilW_2LuTedEdM0R2y3_MA__itemrep/img/hiE5HfP6pCf7j9gUN1Oh-LdyFgI=/fit-in/246x300/filters:strip_icc()/pic1775517.jpg",
     tableData: [
       ['디자이너', 'Mike Selinker Chad Brown Tanis O\'Connor Paul Peterson Gaby Weidling'],
       ['개발사', 'Paizo'],
@@ -1159,7 +1159,7 @@ export const BOADRGAMEDATA = [
     id: 69,
     title: 'Ascension',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/c29b97c3b515efe7653d6e1f9261e43695dfe88dcf7a25c32266e5b9e819608cc435f5ecf77f175de646ff95d9574da2b71a569f8337706c04594ad4542b6f13ab9d600ecbc2bc934ec29d820ede99db686fcc911af6b6966d393d99dfeb3867679ae58ad7484148277a407bf19c0478",
+    image: "https://cf.geekdo-images.com/DP20jf4R3RcsjJUwwV1vCw__itemrep/img/ezQYyK1UP5fEvxDi_-sNDAeOCv0=/fit-in/246x300/filters:strip_icc()/pic2382123.jpg",
     tableData: [
       ['디자이너', 'John Fiorillo, Justin Gary'],
       ['개발사', 'Stone Blade Entertainment'],
@@ -1176,7 +1176,7 @@ export const BOADRGAMEDATA = [
     id: 70,
     title: 'Aeon\'s End:Legacy',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/363589f317147c3b3868d267ad513bee6b4a2a28869d3a0027de4bc89f32480be5119a463988aad377d43c79840a91cd37c7eaf93453ecda1eab7fe754b350d6715dde2cd867dce80e524a5477b523808c8296dba6551ce6453ac02c0d32da541e3fa93d2b372f108445e2752062b907",
+    image: "https://cf.geekdo-images.com/quoCefZvHWeaf31_8HvFSA__itemrep/img/iNGv1VcSpRzJLytBWv2BIFJYsks=/fit-in/246x300/filters:strip_icc()/pic3979852.jpg",
     tableData: [
       ['디자이너', 'Kevin Riley, Nick Little'],
       ['개발사', 'Indie Boards & Cards, Portal Games, SD Games'],
@@ -1193,7 +1193,7 @@ export const BOADRGAMEDATA = [
     id: 71,
     title: 'Elder Sign',
     genre: 'fantasyhorror',
-    image: "https://ww.namu.la/s/0285159c62297f6ae8209e14c059d83d78f88ecf9fe5a34a41f5231983d0d6b81e1da5d7b174b6b722667ee081a6a6d35602ef04de619b3db87ad8563dcdae015022ce27ac529e7c231c4017ceb34c1743e5ed63c1a0e8848138964074960683a83cce7e794d9cc4035b2b63d761113f",
+    image: "https://cf.geekdo-images.com/wNCSCl961fMzDUhwetfjTg__itemrep/img/NZUZmeX5k7vw_-9ChzLHO4x3T_E=/fit-in/246x300/filters:strip_icc()/pic1236119.jpg",
     tableData: [
       ['디자이너', 'Richard Launius Kevin Wilson'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1210,7 +1210,7 @@ export const BOADRGAMEDATA = [
     id: 72,
     title: 'Thud!',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/fb40e6f9e08e528960ab62c084d9e3adcbe9cbf4369de5ac92d44c8c5cc4ce84832611eb98bb263306eae974825c1c65e72dbca927b39ec0b3a512db94c1da6f2ecd56170f3c3d5f116da683b1dec26718c62c724b77181a1848c756985baf81",
+    image: "https://cf.geekdo-images.com/VpuFXDfm_Or77KTwJZCp_Q__itemrep/img/MoJYWFFuf5qb-s2OTmUl94VTM1k=/fit-in/246x300/filters:strip_icc()/pic237521.jpg",
     tableData: [
       ['디자이너', 'Trevor Truran'],
       ['개발사', 'The Cunning Artificer'],
@@ -1225,16 +1225,16 @@ export const BOADRGAMEDATA = [
   },
   {
     id: 73,
-    title: 'Warhammer',
+    title: 'Warhammer Quest',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/b35261dc4d08a182944d5d99c0a93e6f0aa77a07c01447f416edd31c103a349b09b869f3b412faa2e2a6968a22036ad1cea3c69797b6a4dc7263115d46bf5c2e2240abfd292445c2446785416fa64b93539238bef3585fb7891c57d320d8bdef736dcddf771151f519ba703c7331dc00",
+    image: "https://cf.geekdo-images.com/R_AD0CQfaLhXx_KNHssXow__itemrep/img/_epew70TvyYoguq73SoaQXElI84=/fit-in/246x300/filters:strip_icc()/pic355859.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Andy Jones'],
+      ['개발사', 'Games Workshop Ltd.'],
+      ['발매년', '1995'],
+      ['인원', '1~4 명'],
+      ['플레이 시간', '120 분'],
+      ['연령', '12세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -1244,14 +1244,14 @@ export const BOADRGAMEDATA = [
     id: 74,
     title: '5분 던전',
     genre: 'fantasyhorror',
-    image: "https://w.namu.la/s/5df949a7cbe74f81b02ff70c45aec8ed135fb564066ed434ec29b7a9f2b77e821f096a5f47865318d41b104f40e65c0b4a5a582c99e50a20fd861d758d344ea517e71d9723e1f6c77cfd447f9f646c5ed1fae4a0dc1ddff3c36723251801ecee77e85544e445c0021503b54801dffdd0",
+    image: "https://cf.geekdo-images.com/fQOVD0Sc0FXZRZPdNc7VwA__itemrep/img/zZjhywgi1Cp_z6kYKVoIj3ED-U4=/fit-in/246x300/filters:strip_icc()/pic3370214.jpg",
     tableData: [
-      ['디자이너', ''],
+      ['디자이너', 'Connor Reid'],
       ['개발사', 'Spin Master'],
       ['발매년', '2018'],
       ['인원', '2~5 명'],
-      ['플레이 시간', '5 분'],
-      ['연령', ''],
+      ['플레이 시간', '5~30 분'],
+      ['연령', '8세 이상'],
       ['장르', '가족 게임, RPG'],
       ['테마', '던전 탐험'],
       ['시스템', '핸드 관리'],
@@ -1261,7 +1261,7 @@ export const BOADRGAMEDATA = [
     id: 75,
     title: '가이아 프로젝트',
     genre: 'sf',
-    image: "https://w.namu.la/s/b7d72fc9b6a8318e37370c89aa385788891920dc1923f33883b23cf0afa015e214418b167f58165d116e2500ae28a9c28308cc0d8cb40dcdaed849ccf03f052348004eacd45cc1fff875c3793470a2dd9cfd08d6c6ff6ea75a3d934ec2bf5f13dd588d4422144a6fa7af85c4c64e66f2",
+    image: "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__itemrep/img/MNyaVUlEsVQmbv3nObPl0SEd_TI=/fit-in/246x300/filters:strip_icc()/pic5375625.png",
     tableData: [
       ['디자이너', 'Jens Drögemüller Helge Ostertag'],
       ['개발사', 'Feuerland Spiele'],
@@ -1276,16 +1276,16 @@ export const BOADRGAMEDATA = [
   },
   {
     id: 76,
-    title: '뉴로시마 헥스',
+    title: 'Neuroshima Hex! 3.0',
     genre: 'sf',
-    image: "https://ww.namu.la/s/01a9f29e07c636faa898be5817d8ef489ec7c5d8ac856c76b624def7dcaccbd62c751d53c6c2f2d77ee68fea5c672ec2de48dc743fbd27b05895234ccc255eb06e21f787d5dadbc5dcae2c0835b83cf0fedb5678d2e14c9ddbc0603acea4653b380260bff2314e22736327c87c3a971e",  
+    image: "https://cf.geekdo-images.com/8KB-cVXjNmYA6xuw-lo6eg__itemrep/img/aAh6Cw6TAabHzHHsky8zr3SRzbI=/fit-in/246x300/filters:strip_icc()/pic1844819.jpg",  
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Michał Oracz'],
+      ['개발사', 'Portal Games'],
+      ['발매년', '2006'],
+      ['인원', '1~4 명'],
+      ['플레이 시간', '30 분'],
+      ['연령', '13세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -1295,7 +1295,7 @@ export const BOADRGAMEDATA = [
     id: 77,
     title: '레이스 포 더 갤럭시',
     genre: 'sf',
-    image: "https://w.namu.la/s/ad25ac10bc41dd363a62978567e66205c8fcfff5ca5d55acf1590e148b4e7ac9af48e4bbac6cdf359a11ce134901b03a9db3cf7ae9ac058b9d993a241d9a7f3a5e617cc4eed6bf25008aee1b82adee5e7fbfe38004f0bc414a98e98f7b23b776d70ab59efcff7237b11f3d58a5253b3f",
+    image: "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__itemrep/img/DBzrnh_ZSypfwdfZXVOvCGBf1ig=/fit-in/246x300/filters:strip_icc()/pic5261714.jpg",
     tableData: [
       ['디자이너', 'Thomas Lehmann'],
       ['개발사', 'RIO GRANDE GAMES'],
@@ -1312,7 +1312,7 @@ export const BOADRGAMEDATA = [
     id: 78,
     title: '렐릭',
     genre: 'sf',
-    image: "https://w.namu.la/s/a2644fdeb13d77d4dfbfccce144c9816bee0b5afb2620f5db3e53eadac84912faefabaa298d8fdc592e2632dfc1c29b8e439f2520ae6a9407b8a8d3373d528659cd3bbd80563df95f7f8a733957529b69065d18809458b2c92e7295240516ef4921b3b23b5ac2dd9f28db991f340a98c",
+    image: "https://cf.geekdo-images.com/xNkEajmpE3GudzP5xxOgCQ__itemrep/img/-IVpE0qQYbEd4k-FjxpjoPp1ovc=/fit-in/246x300/filters:strip_icc()/pic1405986.jpg",
     tableData: [
       ['디자이너', 'John Goodenough'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1327,9 +1327,9 @@ export const BOADRGAMEDATA = [
   },
   {
     id: 79,
-    title: '배틀스타 갤럭티카',
+    title: '배틀스타 갤럭티카: 더 보드 게임',
     genre: 'sf',
-    image: "https://w.namu.la/s/b16d83e316040833eee4b3fe370fa64ed615c5e84141346ceeedff57941fdfbad9ae871eac734ccae4574dd9a5ffee84c89e529ecf813cf58509c157ad88778717b12500e6fb90d74b54609fecae53ea6fc4aa030c2b1df590c88fcd9d617695829f3dd2de931e242f8f692bcd446c4f",
+    image: "https://cf.geekdo-images.com/5Q2w2rFJiFI_uV89KP6ECg__itemrep/img/2w_lWsJ_MHRfN7uJBMgcXm1aIbQ=/fit-in/246x300/filters:strip_icc()/pic354500.jpg",
     tableData: [
       ['디자이너', 'Corey Konieczka'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1346,7 +1346,7 @@ export const BOADRGAMEDATA = [
     id: 80,
     title: '스타워즈: 리벨리온',
     genre: 'sf',
-    image: "https://images-cdn.fantasyflightgames.com/filer_public/1f/cc/1fccb22e-99c0-4552-9e0a-1e6feeae6f56/sw03_feature.jpg",
+    image: "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__itemrep/img/p6KKXu7b7J6METCTYTIx4tKNqAA=/fit-in/246x300/filters:strip_icc()/pic4325841.jpg",
     tableData: [
       ['디자이너', 'Corey Konieczka'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1363,7 +1363,7 @@ export const BOADRGAMEDATA = [
     id: 81,
     title: '스타크래프트 보드게임',
     genre: 'sf',
-    image: "https://w.namu.la/s/fb46c68626108835f79ec50ffb5024caff7640655b5c5d5c299167b38fd8011efd120376600a729b0845d609f375042a698c93c021bbf08806ce9163b187e280ad7b9d972db204792d14c8a382d7eea7a8d8980856d933a0475bdf5115debbfbe0858e688a550aa53445a9880b13cba0",
+    image: "https://cf.geekdo-images.com/tXwlK5uyyxaMzXG65NZ3Xg__itemrep/img/V018z4LA2ZdSRcgGeFM9WaZgHz8=/fit-in/246x300/filters:strip_icc()/pic265704.jpg",
     tableData: [
       ['디자이너', 'Corey Konieczka, Christian T. Petersen'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1380,7 +1380,7 @@ export const BOADRGAMEDATA = [
     id: 82,
     title: '아리스테이아!',
     genre: 'sf',
-    image: "https://w.namu.la/s/8e6a77a122a379b7a3d6abfd92fc67c57cf49304c842a53cd1555698e90471457d55033800fbd864043f7b67897143b5b033140b65d05dfacffc657f5c277cf986f6c7f6aa36458a06d238dcaf19be902e123a18a6fe7db0de8ca8c498b4f1bd",
+    image: "https://cf.geekdo-images.com/Tre1B7gmGFMNfNi6XsgkBQ__itemrep/img/3osoPvANpBsm3Ciu62tpo0Wvm-w=/fit-in/246x300/filters:strip_icc()/pic3667786.jpg",
     tableData: [
       ['디자이너', 'Alberto Abal, Jesús Fuster, David Rosillo'],
       ['개발사', '코르부스 벨리'],
@@ -1397,7 +1397,7 @@ export const BOADRGAMEDATA = [
     id: 83,
     title: '안드로이드: 넷러너',
     genre: 'sf',
-    image: "https://ww.namu.la/s/830e003d2e2ef62aa2dad5d466d9c1d423e3dcb670a17dc89089630d91e0622d3a0e61689879f8e29533dee7e546bf15cefbd37f62b39f139f7d77b39236eca90fa5c19fcd150bcbab8b3419ee5b19c359146bcaca55664727dc6ccd2f3f672c",
+    image: "https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__itemrep/img/Nz7z5Qk3fZ3R6IM14pDRg1D8XKE=/fit-in/246x300/filters:strip_icc()/pic3738560.jpg",
     tableData: [
       ['디자이너', 'Lukas Litzsinger'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1414,7 +1414,7 @@ export const BOADRGAMEDATA = [
     id: 84,
     title: '크라이 하복',
     genre: 'sf',
-    image: "https://w.namu.la/s/1b2b4977a81d38ecbbff1200b91a00163a62935d939841600e5dc56c9ab44e9c7bdbc98e7400bdb75419d86b7b05e1e26f11452fe42831ffbeccab9083160d40d7ed29c499c049ead2213fb80232bf6133853256175bd7ba69c609a9a440cb454bcf8b2a8cbcd0ccef21739354d9882a",
+    image: "https://cf.geekdo-images.com/OaKLFUgTVdUYvGxLT5QjsQ__itemrep/img/jzj-u8F9jqwB4AxoENc3WufsIn8=/fit-in/246x300/filters:strip_icc()/pic3090929.jpg",
     tableData: [
       ['디자이너', 'Grant Rodiek Michał Oracz Michał Walczak'],
       ['개발사', 'Portal Games'],
@@ -1431,7 +1431,7 @@ export const BOADRGAMEDATA = [
     id: 85,
     title: '테라포밍 마스',
     genre: 'sf',
-    image: "https://ww.namu.la/s/577016c037ed0d97062721f01a784dbc8638dac155853876aaab4ce781fcb4471d3909d55bbce463caf6790fbc5bfc8c0d602554ef72391277a68221daca003d8c8dc83da4a3c001cd3ca1a1c137be89a79a6331a220c04104f0fa9ced3debc0083d821335948880caddd8a153ab4577",
+    image: "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep/img/IwUOQfhP5c0KcRJBY4X_hi3LpsY=/fit-in/246x300/filters:strip_icc()/pic3536616.jpg",
     tableData: [
       ['디자이너', 'Jacob Fryxelius'],
       ['개발사', 'FryxGames'],
@@ -1448,7 +1448,7 @@ export const BOADRGAMEDATA = [
     id: 86,
     title: '황혼의 제국',
     genre: 'sf',
-    image: "https://ww.namu.la/s/83158465155fde84ebed12da532a5928aab92ed7562398923c09da2528ca0ff46f9af8a22deaba4e9f2936acf441856aff09970c233db86a520e8e9f2ae24998bf3c793df300e78d161986880d70637b7d2e68497cf4b48e7472f2eb626e3857",
+    image: "https://cf.geekdo-images.com/4CEaXqehBHS4JCPGMDfnsg__itemrep/img/Ki9kSsXY3LsBdGLaFTKM4qrmJlI=/fit-in/246x300/filters:strip_icc()/pic857.jpg",
     tableData: [
       ['디자이너', 'Christian T. Petersen, Bill Heagy'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1465,7 +1465,7 @@ export const BOADRGAMEDATA = [
     id: 87,
     title: '이클립스',
     genre: 'sf',
-    image: "https://w.namu.la/s/d2936b7671a5804f95aeaf66c51c104d67cabd3bd475b6a466e0a0990644d3ee979747eff8d6714f88b755895496c55c0fe93f27f68f1163746f56d29e4a2fd8c1d6602da27aed98c96d97c8cf9c1f42ca7f1aa03b309baa5dc8fadcc1a344750d10dda0fa96b66d1acfdc839d2deff8",
+    image: "https://cf.geekdo-images.com/cnFppsVNOSTJ-W3APQFuTg__itemrep/img/3U1E1lUUSqbaZXENQ9meKj2xHXs=/fit-in/246x300/filters:strip_icc()/pic1974056.jpg",
     tableData: [
       ['디자이너', 'Touko Tahkokallio'],
       ['개발사', 'Lautapelit.fi'],
@@ -1482,7 +1482,7 @@ export const BOADRGAMEDATA = [
     id: 88,
     title: '다이스 마스터',
     genre: 'cartoon',
-    image: "https://ww.namu.la/s/0726aba80804f10e443cba5076801a9d84f3e43db6dd9bac2979f826fbfa57b0dd7677969e68edd8e6391d06c4453bc6b388979aa9510ca45a5692bbe5fbcec46ac7a0e477f3f3d13270519f51b4633a01048989c3c9acc8d66d2b4fbc7e1222e0904529c8b40f04993e06ae6eaf283a",
+    image: "https://cf.geekdo-images.com/B1Q__UaxPpu4ltyqLN3mfA__itemrep/img/OIUolTm0MwgWNaSZ278ZdyM6Fig=/fit-in/246x300/filters:strip_icc()/pic1997078.jpg",
     tableData: [
       ['디자이너', 'Mike Elliott, Eric M. Lang'],
       ['개발사', 'WizKids'],
@@ -1497,9 +1497,9 @@ export const BOADRGAMEDATA = [
   },
   {
     id: 89,
-    title: '레전더리',
+    title: 'Legendary: A Marvel Deck Building Game',
     genre: 'cartoon',
-    image: "https://ww.namu.la/s/dff94a15483889df796134c1365001e8234db2a426b601734db33f8352c03154155276d2e7d94dde0188f857a577eae7e97dc472968cf419f82898662e69b911733425643e17c0d278fbe499ab3e71a709988358b5f60e4a008250d0ce2ebc26dc0874683105b6ba1d77a317ba36b209",  
+    image: "https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__itemrep/img/UnyZksyoMMyDktHj5nWWKh-N4Qc=/fit-in/246x300/filters:strip_icc()/pic1430769.jpg",  
     tableData: [
       ['디자이너', 'Devin Low'],
       ['개발사', 'Upper Deck Entertainment'],
@@ -1516,7 +1516,7 @@ export const BOADRGAMEDATA = [
     id: 90,
     title: '마블 히어로즈 전략 보드게임',
     genre: 'cartoon',
-    image: "https://ww.namu.la/s/0cde01dce3ebbef4bdb0b7b475eb132498537d39db905200d8225ff9ab40bc687b197a89cadb306a13ed30f4fccfe966b72a65b0839a989943b22dc37d3f7abf3514be829c3d02188804c3841de92f72c0afb951b2d56b95b08c2daf44b7b295",
+    image: "https://cf.geekdo-images.com/R1mvwHKSCWstSCvPc0555g__itemrep/img/vwdm6ZIikeCsj4HygPUS_g6ylBw=/fit-in/246x300/filters:strip_icc()/pic150626.jpg",
     tableData: [
       ['디자이너', 'Roberto Di Meglio, Marco Maggi, Francesco Nepitello, Salvatore Pierucci'],
       ['개발사', 'Fantasy Flight Games'],
@@ -1533,7 +1533,7 @@ export const BOADRGAMEDATA = [
     id: 91,
     title: '나이아가라',
     genre: 'adventure',
-    image: "https://ww.namu.la/s/243a88277f4c9e188eba135565b13c8418041c6700b5024ada88ceee0f84853e561163e4cad6df2febf53e0569cd31fede1efec2ab32d3aee6a504cfccf3659d7216d5578d9cbaadab7d61d95bd20f28fcd3396873efa0fd3a68d540c9af33a2b026071ec46af5ebf0a40dabb2b9a2ce",
+    image: "https://cf.geekdo-images.com/1cbJG7-MeFI8Vg6a0v3X3g__itemrep/img/EXOgBsQ_MHzCN-4d2WwrTn_2ras=/fit-in/246x300/filters:strip_icc()/pic180873.jpg",
     tableData: [
       ['디자이너', 'Thomas Liesching'],
       ['개발사', 'Zoch Verlag'],
@@ -1550,7 +1550,7 @@ export const BOADRGAMEDATA = [
     id: 92,
     title: '로빈슨 크루소:저주받은 섬의 모험',
     genre: 'adventure',
-    image: "https://ww.namu.la/s/5897c6f1a9c9c260596ca4c56fd16fe32e4b81ec2feea0d101cef3dc13425be0903508d61bff128b459c5bcdaf6027aa9536df17a4d82c7ef1b62e00c49503f4daba0510270ef64319060f63089f36e2e4a53e87b96aa46c9d444c464da393a2decd92f13a1754e04b513b640a4fd358",  
+    image: "https://cf.geekdo-images.com/FbFnaTx3aT5dM18K_bR_Pg__itemrep/img/spcA9lqJ28nt3L9-PDqc2taxFX4=/fit-in/246x300/filters:strip_icc()/pic3165731.jpg",  
     tableData: [
       ['디자이너', 'Ignacy Trzewiczek'],
       ['개발사', 'Potal games'],
@@ -1567,7 +1567,7 @@ export const BOADRGAMEDATA = [
     id: 93,
     title: '로스트 시티',
     genre: 'adventure',
-    image: "https://w.namu.la/s/481414f202a0784300060292c6a50a0f3f657bd71406705ef72e029c18cf162e0778ef51c385bb27874da254b13ed261991e19b420248d0c7fb7d47032469fe20b1eb45c0a393ae052bce3360f5ec14eb091cb593cfd6041ef8d742e3ba97e265a6d0321434ec71978195d39f0d5b739",
+    image: "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__itemrep/img/tF5lpPY_XFdmd6znFn1GmuUgObs=/fit-in/246x300/filters:strip_icc()/pic4597095.jpg",
     tableData: [
       ['디자이너', 'Reiner Knizia'],
       ['개발사', 'Kosmos'],
@@ -1584,7 +1584,7 @@ export const BOADRGAMEDATA = [
     id: 94,
     title: '마르코 폴로의 발자취',
     genre: 'adventure',
-    image: "https://ww.namu.la/s/77f75d8beeef1ac7a06a0d332ca59cc2232f3aa9e3c2e9316c1b4439c1ad6d64650a829dbcd6e90026f71b3b877b365d80f0fcee77913b2cbbfd8648b868e5c5f6838d1c89a7d716ccfd74971d23623a3f972e9a2d11a67dba7dc0e54ae2f67d",
+    image: "https://cf.geekdo-images.com/n1G7_aWToLAAB7Mqt8iwyA__itemrep/img/s9K3rKDZGoiqUj8buH9EJv_Nbqg=/fit-in/246x300/filters:strip_icc()/pic2461346.png",
     tableData: [
       ['디자이너', 'Daniele Tascini, Simone Luciani'],
       ['개발사', 'Hans im Glück'],
@@ -1601,7 +1601,7 @@ export const BOADRGAMEDATA = [
     id: 95,
     title: '세레니시마',
     genre: 'adventure',
-    image: "https://w.namu.la/s/4a153d88dcc633a5efcfbffa6f032f9725b089f34b0cfb0765b0f48781d82efdc872b43b96e4f072bc888d17c71ed4ab15f185727384161b907f2ddfa01c4ef5c1250800c6cb5f1f6a38dfd7ffbc1f239117c0dbca139060ce6df5f8f98edebdf44bf01a5e72b23c33ed95f0edd2e5e8",
+    image: "https://cf.geekdo-images.com/JDu-gDsxSSL49NPK7tfipg__itemrep/img/0I_h_Pa_GLgeBSiRoUGXYzCb-lQ=/fit-in/246x300/filters:strip_icc()/pic322925.jpg",
     tableData: [
       ['디자이너', 'Dominique Ehrhard, Duccio Vitale'],
       ['개발사', 'Eurogames'],
@@ -1618,7 +1618,7 @@ export const BOADRGAMEDATA = [
     id: 96,
     title: '셀레스티아',
     genre: 'adventure',
-    image: "https://ww.namu.la/s/724cbdd1d6a80a87e4e8cfbdeb70dfe3ebe9e6d0be7835f691b39fcf59a9ae5019b4fd254ba079b7434ec9008f164cbda9f1adf3d71f115d9ce7c62498bfcbaf05856426faed81dd03df29afcfa827d069972c6b9c080261a7feed0fc5f485ed3508ffd38c6e16dfb7b79e6d2c0efed9",
+    image: "https://cf.geekdo-images.com/VddNmZyVWsxyebeGbu4-dg__itemrep/img/2JGKcrP7Bqz24kSFWnp2A1qPcik=/fit-in/246x300/filters:strip_icc()/pic2577990.jpg",
     tableData: [
       ['디자이너', 'Aaron Weissblum, Gaetan Noir'],
       ['개발사', 'BlackRock Games'],
@@ -1635,7 +1635,7 @@ export const BOADRGAMEDATA = [
     id: 97,
     title: '아티팩트',
     genre: 'adventure',
-    image: "https://ww.namu.la/s/32c2e524c9be76e30799c7e373f8689ccbc293adc011582fec4bccfef6592b2a6c7144dc225b5ccd6041b86a25abb29f85fa3735a8d3522c7793eed1a7e6f6e35f0ecd4ce38a9d01f74f365d9a36d07139a380a59e621a48e9db4bbf11111b15",
+    image: "https://cf.geekdo-images.com/XBA9WNA3WXUpqHy6y1KQxg__itemrep/img/znnd9J_ZkgfmVoxL-cHa-Nx4hNE=/fit-in/246x300/filters:strip_icc()/pic1698945.jpg",
     tableData: [
       ['디자이너', 'Jeffrey D. Allers, Bernd Eisenstein'],
       ['개발사', 'white goblin games'],
@@ -1652,7 +1652,7 @@ export const BOADRGAMEDATA = [
     id: 98,
     title: '암흑의 복도',
     genre: 'adventure',
-    image: "https://w.namu.la/s/95bc92aa7a0d4d48b18b52415feee7bec6d5f66453ba26717e89855ad6040f2f22cfb644a3b6c2ba4f6edd88332edd65d483d9fe56f9b19ef4c7c9581aa11074e23be570745a5276dc22011c7019e4b7e78ad52b9e1491bfd2072a17f2e4b3442107c4d8111a97011a98d26f712fe5c2",
+    image: "https://cf.geekdo-images.com/GFIDR8JqZletddix8obk5A__itemrep/img/cGIlwk2W7GV5nm5fRtnbR-Qgq0U=/fit-in/246x300/filters:strip_icc()/pic163508.jpg",
     tableData: [
       ['디자이너', 'Friedemann Friese'],
       ['개발사', '2F-Spiele'],
@@ -1669,7 +1669,7 @@ export const BOADRGAMEDATA = [
     id: 99,
     title: '엘데니아',
     genre: 'adventure',
-    image: "https://ww.namu.la/s/9beeed09961e728b02c39446315561ad88337fce1bf533342335983bfaa329e9a601e9ef3cd0cb0df0daec004ac6fd0d094529c20ec79f5aeb507db22f3958cbf1bb3fb20841a4933a1d4e69d422f02b13e399e1e7e7e36a162f274e93f4b058c60245b06a1e4ff13deb97b91ec6c7a0",
+    image: "https://cf.geekdo-images.com/wE7riC79L9fJOXHRD_kEng__itemrep/img/epyb65P1dWTvFtRlIociNyzgcLk=/fit-in/246x300/filters:strip_icc()/pic4048583.jpg",
     tableData: [
       ['디자이너', '윤영진'],
       ['개발사', 'Adventure Gate'],
@@ -1686,7 +1686,7 @@ export const BOADRGAMEDATA = [
     id: 100,
     title: '엘픈랜드',
     genre: 'adventure',
-    image: "https://w.namu.la/s/c2e4b080c81583145fbc2ddd33faf056bf0064679f1b02db3ccfca4897dcf58278d67a930d958e2e7439497496b436c39e5058962f2ba2b8991f346b41237e7f21f9f5727127037e30e23cdc3efce8c8e7ee0e116bb9eabbf9153238915753c2",
+    image: "https://cf.geekdo-images.com/Ea4jN5Ko5bPrXrU_AYhhzg__itemrep/img/0bAzhEyN_OwxaxY4bIHzA56dgTU=/fit-in/246x300/filters:strip_icc()/pic1798136.jpg",
     tableData: [
       ['디자이너', 'Alan R. Moon'],
       ['개발사', 'Amigo'],
@@ -1703,7 +1703,7 @@ export const BOADRGAMEDATA = [
     id: 101,
     title: '티칼',
     genre: 'adventure',
-    image: "https://ww.namu.la/s/86818b72e4e127629390cf0889150d3b0b542cdd09763c331ccec4d4b7bb5061de0d2faebd8b41c7a600c6c5f0a7141c80e48fcb0d51e5daaf6a37386aa5c1f22f74dd544de90313c3662849e604fd8e0148288f5b6e86a50160753e78d6284800f6b12863553e9b938d464683612fc9",
+    image: "https://cf.geekdo-images.com/ajU3xzGDUKihjNdvjCR1Hw__itemrep/img/-X5aWuzrNAnFb4gr2GqBzWkCca0=/fit-in/246x300/filters:strip_icc()/pic3328391.jpg",
     tableData: [
       ['디자이너', 'Wolfgang Kramer, Michael Kiesling'],
       ['개발사', 'Rio Grande Games'],
@@ -1720,7 +1720,7 @@ export const BOADRGAMEDATA = [
     id: 102,
     title: '평온한 한 해',
     genre: 'adventure',
-    image: "https://w.namu.la/s/23b40a116e95a1019f7d24e22c69a222b5f7e35bce3fd6ecaee71c7609f6caf95c59bfa8102bae00424c662958a8241e38a74f96a0d0b4520fd64ffcf9f7505b71d9b1108867bfb961f28e0ef5d8c45ed788463c417dc294fb5eb9f0ca35ba92",
+    image: "https://cf.geekdo-images.com/xwuEeZ2ibHUwPQHfGKuGww__itemrep/img/GJV703551pBTnERwYtzeFsrTAGs=/fit-in/246x300/filters:strip_icc()/pic1768982.jpg",
     tableData: [
       ['디자이너', 'Avery Alder'],
       ['개발사', 'Buried Without Ceremony'],
@@ -1737,7 +1737,7 @@ export const BOADRGAMEDATA = [
     id: 103,
     title: '포비든 아일랜드',
     genre: 'adventure',
-    image: "https://ww.namu.la/s/84331f8695bab80fc0a63faa4b63c699ed87a6a68598fb6605a647fba4bcbb6562d171b7ad30a8ff36488d85f35e79c802891d372cd907d5516479f25c46e4583a6ea1f843ac430c4bca30c9cdf5d6efdb7ca7c6816b56db31438dff3822795085101dd2c6191e33414f8b839736444d",
+    image: "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__itemrep/img/6pTx2AK0L_a39_rsORJ_cs-qExw=/fit-in/246x300/filters:strip_icc()/pic646458.jpg",
     tableData: [
       ['디자이너', 'Matt Leacock'],
       ['개발사', 'Gamewright'],
@@ -1754,7 +1754,7 @@ export const BOADRGAMEDATA = [
     id: 104,
     title: '1960: 대통령 만들기',
     genre: 'politics',
-    image: "https://w.namu.la/s/affc32fa7055de7d7296df6599e10b1dddab6c08bbbc7f791d64b034fc82bdccf2842d843375a78f2fadd0081025bba62a8643e654ca9f99ad241dbcdd165ed6066d474ce3158a263e5dafc3904aa3e273d1eb16b39d42357aaf66f4606031af0fb706a545ca4f6938f80be50a8dd7f4",
+    image: "https://cf.geekdo-images.com/p-k_CqUvJzTcMMz4ms7f_Q__itemrep/img/E3Vpa_gyxiffeqhbe6xHSzoqWAI=/fit-in/246x300/filters:strip_icc()/pic3499166.jpg",
     tableData: [
       ['디자이너', 'Christian Leonhard, Jason Matthews'],
       ['개발사', 'Z-MAN Games'],
@@ -1771,7 +1771,7 @@ export const BOADRGAMEDATA = [
     id: 105,
     title: '라비린스',
     genre: 'politics',
-    image: "https://w.namu.la/s/1b6b9a2eaa5e43afc65022485643d820e17db6c719a7c6046c2bb8a54fa00f74a6db9711a4ef2ca78ad95e076e6d0a23038dd6917eebeab2564b85a6676c9551dfee989dd3805577ce9e72bed5d78e1291ca5e7ba53823d4e75275395296462bb796f18a3ff59a04cad930874d4df408",  
+    image: "https://cf.geekdo-images.com/Acd8VhTI7yrwGAYNLReurA__itemrep/img/MXmC1Cpsx45dbenzGSRX9EwwBVo=/fit-in/246x300/filters:strip_icc()/pic859584.jpg",  
     tableData: [
       ['디자이너', 'Volko Ruhnke'],
       ['개발사', 'GMT Games'],
@@ -1788,7 +1788,7 @@ export const BOADRGAMEDATA = [
     id: 106,
     title: '사무라이',
     genre: 'politics',
-    image: "https://w.namu.la/s/4735713083786d790f4f1ec4c3262e2a87f8ac7f4496eaf7222e14acc3e050661118933bac807786ae684aa5d79731ae17105ae848ca290354d58e448dc43a976d0009df54b540957d1cccba4b0f7b03109cd74d92a37a6fd5a8e76b90ed8daf",
+    image: "https://cf.geekdo-images.com/o9-sNXmFS_TLAb7ZlZ4dRA__itemrep/img/Evwjg6ChJ8s6EWojY2wnYeToedU=/fit-in/246x300/filters:strip_icc()/pic3211873.jpg",
     tableData: [
       ['디자이너', '라이너 크니지아'],
       ['개발사', 'Hans im Glück Verlags-GmbH'],
@@ -1805,7 +1805,7 @@ export const BOADRGAMEDATA = [
     id: 107,
     title: '에이지 오브 르네상스',
     genre: 'politics',
-    image: "https://w.namu.la/s/f6c8f544232822984cb6bc0d466af432ca8dd7252c1b2c11350dea771950617132d0fcade9a2e68c6646e83ea909822a986f70f95dd615e701105c7016e2d435ac521e04b7ca7cb77020474be68c4345a63689c1a1e135aecaa9a8333f53e5c2e759ef3545839ab0a08fdda70853dc87",
+    image: "https://cf.geekdo-images.com/KkdMeKchkDyBBJvvHbh8IQ__itemrep/img/Hx9TIo41V6gTZh65qb1nRBEVSpI=/fit-in/246x300/filters:strip_icc()/pic87721.jpg",
     tableData: [
       ['디자이너', 'Don Greenwood Jared Scarborough'],
       ['개발사', '아발론 힐'],
@@ -1822,7 +1822,7 @@ export const BOADRGAMEDATA = [
     id: 108,
     title: '일루미나티',
     genre: 'politics',
-    image: "https://ww.namu.la/s/7e2c4e216e82fed245c69cdaad8330bafcf511aa783641814246e8b14ec91f8c6e6ddf0a2fb5c1471589a7b4afeef32613b2de9dbdfb97b46f66e2ddf0f9935e70578e8786c2195725a4a59c0fc0138f48bef92d77942e7e4b8adf5f9880aec9",
+    image: "https://cf.geekdo-images.com/yZMNzDObqcij0PTvTS7MJw__itemrep/img/R62jO_XcfPxFfBOSf3aOFsLqdKM=/fit-in/246x300/filters:strip_icc()/pic55406.jpg",
     tableData: [
       ['디자이너', 'Steve Jackson'],
       ['개발사', 'Steve Jackson Games'],
@@ -1839,7 +1839,7 @@ export const BOADRGAMEDATA = [
     id: 109,
     title: '황혼의 투쟁',
     genre: 'politics',
-    image: "https://w.namu.la/s/0f694e15ff564a6c44f5b29632e8e9c33a0a418c1d17bfc8c91247f18319cc67076ffab034c5063fc19686006b6e27969433f38b4f976471cde6cf55ed8309baab93a46f3a68e2e3122095ccef982397f5878b518a4ccd79777835ccd39ace35efba8fd34af17acad7bbf00fff9febe4",
+    image: "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__itemrep/img/WMsXl-Wa8q2n9_lJH536Mhi2COc=/fit-in/246x300/filters:strip_icc()/pic3530661.jpg",
     tableData: [
       ['디자이너', 'Ananda Gupta Jason Matthews'],
       ['개발사', 'GMT Games'],
@@ -1856,7 +1856,7 @@ export const BOADRGAMEDATA = [
     id: 110,
     title: 'Nuclear war',
     genre: 'politics',
-    image: "https://w.namu.la/s/5ebb1cee48126115eee687525e3741367211442244dd08fc63bd6e39e175a2d28e0b4734b9bd9d11346851555a70c25987002a58e8fe1949da9ea9b47b25efc481b7c2621ff8257442978d18a9875f1e6955d1e2ec63efd10356124231c7e952",
+    image: "https://cf.geekdo-images.com/POs_qrc4JPAmqhbx4JRBuQ__itemrep/img/kNfzbVlq5QzreaX7syqdarMb_Aw=/fit-in/246x300/filters:strip_icc()/pic1488707.jpg",
     tableData: [
       ['디자이너', 'Douglas Malewicki'],
       ['개발사', 'Flying Buffalo, Inc.'],
@@ -1873,14 +1873,14 @@ export const BOADRGAMEDATA = [
     id: 111,
     title: '디 마허',
     genre: 'politics',
-    image: "https://boardlife.co.kr/wys2/file_attach/2020/07/29/1596032046_80592.jpg",
+    image: "https://cf.geekdo-images.com/rpwCZAjYLD940NWwP3SRoA__itemrep/img/66VYYgqwBJGOxsh_8sLaBYROeCU=/fit-in/246x300/filters:strip_icc()/pic4718279.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ' 명'],
-      ['플레이 시간', '30 분'],
-      ['연령', '세 이상'],
+      ['디자이너', 'Karl-Heinz Schmiel'],
+      ['개발사', 'Hans im Glück, Moskito Spiele'],
+      ['발매년', '1986'],
+      ['인원', '3~5 명'],
+      ['플레이 시간', '240 분'],
+      ['연령', '14세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -1890,7 +1890,7 @@ export const BOADRGAMEDATA = [
     id: 112,
     title: '갤러리스트',
     genre: 'economic',
-    image: "https://w.namu.la/s/74883e656d24e86c0c795d42e6c99188c981ff6e7980a546aee9505bb58bd37a3bdaa6b9ccf984a9129d275f995162e01900bf553b68f4c0c64f227d777370617cfd11f1adac40f07925d966cd01b4878d6f28c7bdd69b572f7908896b0ccf8fa68dcbaa5459f9ae32c7d3a53c71d91b",
+    image: "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc()/pic2503200.png",
     tableData: [
       ['디자이너', 'Vital Lacerda'],
       ['개발사', 'Eagle-Gryphon Games'],
@@ -1904,31 +1904,14 @@ export const BOADRGAMEDATA = [
     ]
   },
   {
-    id: 113,
-    title: '고속도로 노선 골든게임',
-    genre: 'economic',
-    image: "https://lh3.googleusercontent.com/proxy/sg-at6SRivlWbJmjwTlHOJGRv-NWUSwkvuZP1DUxLiekYFIowMAT3LbcrOJl2tBHiJC0jqFfOS4_fVAOx0w91J8eRbD4s57UPiDOefTdj8c7BAFb",  
-    tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
-      ['장르', ''],
-      ['테마', ''],
-      ['시스템', ''],
-    ]
-  },
-  {
     id: 114,
     title: '더 시티',
     genre: 'economic',
-    image: "http://boardm5.godohosting.com/goods/openmarket/thinkium/thecityf_m.jpg",
+    image: "https://cf.geekdo-images.com/sSuL2M_3ukm0Nj3Z2jGaUA__itemrep/img/KVtGsaLQ92ERV7UDNZFvGpvBQCA=/fit-in/246x300/filters:strip_icc()/pic4495514.png",
     tableData: [
       ['디자이너', 'Thomas Lehmann'],
       ['개발사', 'Eagle-Gryphon Games'],
-      ['발매년', '2019'],
+      ['발매년', '2011'],
       ['인원', '2~5 명'],
       ['플레이 시간', '35 분'],
       ['연령', '8세 이상'],
@@ -1941,7 +1924,7 @@ export const BOADRGAMEDATA = [
     id: 115,
     title: '러시안 레일로드',
     genre: 'economic',
-    image: "https://w.namu.la/s/7584eb0b0d1928e538e1ef157c03e9bad0f55940304ac203a0be545f85e3bcd9ca256895f0b6eb5fa68ba9008e86b76178cc3e75aae37643e93a1ca4f1330766d19dbf67a178e7754723c03db89df3dafa392a930d92f06c10cb527ad8fde454",
+    image: "https://cf.geekdo-images.com/B0oEVgeqs4_rT8oyb1_Juw__itemrep/img/ARQ1kCprox-ADp_ScEsciRTA0XI=/fit-in/246x300/filters:strip_icc()/pic1772936.jpg",
     tableData: [
       ['디자이너', 'Helmut Ohley, Leonhard Orgler'],
       ['개발사', 'Hans im Glück Z-MAN'],
@@ -1958,7 +1941,7 @@ export const BOADRGAMEDATA = [
     id: 116,
     title: '르아브르',
     genre: 'economic',
-    image: "https://ww.namu.la/s/0211266174a900bf94747f74dc1b8db569d000ab3070c94397d6a5198a838b42be9b813f57996fa877fc06f64486aece52fff844d3dd745aa28439a788fbb0e3dabd86ce0a3c44c80e1d31e6bfa3d0717fafed2471847532b11d2733bb72b7e1",
+    image: "https://cf.geekdo-images.com/mU-YdL_-3Fm4RvNv-y5WJg__itemrep/img/S96y7VpVbumkP34PLawnVN28588=/fit-in/246x300/filters:strip_icc()/pic3330230.jpg",
     tableData: [
       ['디자이너', 'Uwe Rosenberg'],
       ['개발사', '룩아웃 게임즈'],
@@ -1975,7 +1958,7 @@ export const BOADRGAMEDATA = [
     id: 117,
     title: '마닐라',
     genre: 'economic',
-    image: "https://ww.namu.la/s/f4f21883b80ca8c3bd0201653f63f7758119f57d4881cabc161f6e917ea80dd2538a44922bc49ef3e3114eb7d3dcd1e87163ef8d75b465653555ed79a89a962fd0eddd37c7043477c6e676f560cfd04f4e5c5e1cdfcc880f3a4200c35623dfd5",
+    image: "https://cf.geekdo-images.com/dU0cm4_NP8QiQqiXP9Jclw__itemrep/img/5mayidbe9ohp9gOSWNLRE3YbvGM=/fit-in/246x300/filters:strip_icc()/pic902372.jpg",
     tableData: [
       ['디자이너', 'Franz-Benno Delonge'],
       ['개발사', 'Zoch Verlag'],
@@ -2009,7 +1992,7 @@ export const BOADRGAMEDATA = [
     id: 119,
     title: '모노폴리',
     genre: 'economic',
-    image: "https://ww.namu.la/s/eadaab0a9c294a014597805866043570990da18102fe737e92e86bc91653391b31ad4e8c164e751b1e01025bc5464f0113f77211a7f0672e8ce83f16f6befae7d0ed766a4c0601bac2b75f029a110f78778e51a36b63f3bbc2f2f5a9622d5793",
+    image: "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__itemrep/img/8EP4ErNA709diOt6fUyJH30FtbU=/fit-in/246x300/filters:strip_icc()/pic5786795.jpg",
     tableData: [
       ['디자이너', 'Charles Darrow'],
       ['개발사', 'Parker Brothers'],
@@ -2026,7 +2009,7 @@ export const BOADRGAMEDATA = [
     id: 120,
     title: '모던 아트',
     genre: 'economic',
-    image: "https://w.namu.la/s/61af4e30f07c7d20c985f77f8c23f7bd947fb819a486df40ffce116888b6d8023fc9a5346d29f6583bcfff8eb44803d3c7e3bc4b29a9e6ef6fb4a3e31a85622907579204025a4df74d7cc881f297606e1bae8128818035bd0b613ce6f91ea133dad65a53cf4cb1a037042a07ff74e4f6",
+    image: "https://cf.geekdo-images.com/wLto-xaabHwKQe_Bc4iD1Q__itemrep/img/50m6JYV9RIt0kXps9f100ockzHU=/fit-in/246x300/filters:strip_icc()/pic3458036.png",
     tableData: [
       ['디자이너', 'Reiner Knizia'],
       ['개발사', 'Pegasus Spiele'],
@@ -2043,7 +2026,7 @@ export const BOADRGAMEDATA = [
     id: 121,
     title: '몸바사',
     genre: 'economic',
-    image: "https://w.namu.la/s/edca5d8314985df24dfacb48e6afd783852db8ccf34f20d78cb2b589da7729b69435aa2396c0dba8b998d6014d15d1695ad81de5cbfcc3492dda1494356a7ca2b8630b2907851125ba698c34141a7e2e9e9838d06e8e8ce5d5e250613af06a3d",
+    image: "https://cf.geekdo-images.com/VceWk5QVkgIp6rWDl5qHKQ__itemrep/img/A8devOPglJpDntW9QWkSwU5RBog=/fit-in/246x300/filters:strip_icc()/pic2611318.jpg",
     tableData: [
       ['디자이너', 'Alexander Pfister'],
       ['개발사', 'eggertspiele'],
@@ -2060,7 +2043,7 @@ export const BOADRGAMEDATA = [
     id: 122,
     title: '미니빌',
     genre: 'economic',
-    image: "https://ww.namu.la/s/73d5ae2509f8b2e233c4857c961da301b664ad0b4e294ce6feb46cfec90c24643b811289cc771c41da67626e794b5f5282bacfb7269f2b3e6a4d6c165072db765ee696fc0b2b8448c8e6aa2df0d2752e30d0cdc6179a2876364b214da8540e95a12f9731ac9819b049a6a4e25f46e433",
+    image: "https://cf.geekdo-images.com/_lI2eUDHfesfe5SswJiFAg__itemrep/img/URlylIljrUdRlmOiZjB7U-me8Og=/fit-in/246x300/filters:strip_icc()/pic4783831.png",
     tableData: [
       ['디자이너', '菅沼正夫 (Masao Suganuma)'],
       ['개발사', 'Grounding Inc'],
@@ -2077,7 +2060,7 @@ export const BOADRGAMEDATA = [
     id: 123,
     title: '번레이트',
     genre: 'economic',
-    image: "https://ww.namu.la/s/75f8b7fbdb44e505602dbe089198fdb1ec04a71edfc9be50a712f65b908760bc52b50688e929db9cac2aea620c858e56bde0f3854ec65389041b2a4ad4063311c4b544434aeceee8e6c796d02e1d53cf91f451cb8c2611bd4350e1c23f7994a2",
+    image: "https://cf.geekdo-images.com/lzW2e64kLOUVBYSYUD3Y5w__itemrep/img/E01OblDwpXESP1fnGVmckP9dPr0=/fit-in/246x300/filters:strip_icc()/pic643192.jpg",
     tableData: [
       ['디자이너', 'Rich Koehler'],
       ['개발사', 'Cool Studio'],
@@ -2094,7 +2077,7 @@ export const BOADRGAMEDATA = [
     id: 124,
     title: '보난자',
     genre: 'economic',
-    image: "https://ww.namu.la/s/79d17380dd330f7d24f26e8158d9cf5c8efbc0269f15bf011e92f9ed778643345a20cc71c5d63105d1cf0eab24803ff6caba6ceea832a47f5a631a7473643db47c9444efa40e7891538bf5db9eac2b616f37f949f6dac126c28cfc35a5eb94b6c73fb310356e4bed4002805df88735db",
+    image: "https://cf.geekdo-images.com/hTK_hi_S0RvDRuZKyNEgvQ__itemrep/img/NGVqZM341ulIEqvIpwyDn7kEGXw=/fit-in/246x300/filters:strip_icc()/pic69366.jpg",
     tableData: [
       ['디자이너', '우베 로젠버그'],
       ['개발사', '아미고'],
@@ -2111,7 +2094,7 @@ export const BOADRGAMEDATA = [
     id: 125,
     title: '부루마불',
     genre: 'economic',
-    image: "https://ww.namu.la/s/410d0915b9b83a834da6328eab6fe9a29a349e95818fee1a8283e4c6c5f48cb4b3b334a71010e77f0f060a8d3a230d989c9af03d2aebef94c58f344e92fe49ed57cc80b6295abb0d38a61687ca433583c99d7fdcdb6995feca4b51c4cf13ca6474be9bbf841d2b2fe4e5f92b58eb1a26",
+    image: "https://cf.geekdo-images.com/e0qe3sXkyHom5otAvaiE8g__itemrep/img/13F7OHW64LhyOnlhG-BN969i9a4=/fit-in/246x300/filters:strip_icc()/pic594969.jpg",
     tableData: [
       ['디자이너', '이상배'],
       ['개발사', '부루마불씨앗사'],
@@ -2145,7 +2128,7 @@ export const BOADRGAMEDATA = [
     id: 127,
     title: '상트페테르부르크',
     genre: 'economic',
-    image: "https://ww.namu.la/s/f5d4d2937e9fbb1e9587a7f2fbce7a6483bb20311e7afe1d3face0fdcf9e16319b064a07dc5a449eca1b0d1beaf13657d924afc9de1d359bdba85530f3ba76cf0f753ff5951a480e52c4f2061d3694e58828e4e3ecbe8800d479a9f245962fbf",
+    image: "https://cf.geekdo-images.com/Yoidfpvt2eACASYUpbmsyg__itemrep/img/d9g-e-W1jxRQfZ4clDkgLEvJqM8=/fit-in/246x300/filters:strip_icc()/pic246360.jpg",
     tableData: [
       ['디자이너', 'Bernd Brunnhofer'],
       ['개발사', 'Rio Grande Games'],
@@ -2162,7 +2145,7 @@ export const BOADRGAMEDATA = [
     id: 128,
     title: '산후안',
     genre: 'economic',
-    image: "https://ww.namu.la/s/31c3cb45a37cab5079416dcde8353557ffeeee1431bfcb00533aef9da8bc9f6a89262e8f2b2e406656d09a6bbf86feccf51a3c8cbee1be58dcf5d26ee1b376e6bb1dedfd46debc11100ac1fee3de9cb6b06ae1c0da0f01c587f4ce54f14d605ff8baeef03d7c9b996de71d94a9d02b6b",
+    image: "https://cf.geekdo-images.com/kiD03bslLpN_0Qe1LJ8OGg__itemrep/img/sW_yt7M1ZhWWPELnZHyzQ2Wjqs4=/fit-in/246x300/filters:strip_icc()/pic174174.jpg",
     tableData: [
       ['디자이너', 'Andreas Seyfarth'],
       ['개발사', 'alea'],
@@ -2179,7 +2162,7 @@ export const BOADRGAMEDATA = [
     id: 129,
     title: '아그리콜라',
     genre: 'economic',
-    image: "https://w.namu.la/s/eaa416d5805fe28fb971fbc20273e4888e1c2bc8095e9f879a6270247013ba8836241ca3e6bd27ff95e7a5c65ff31561d2d9eedfaa748bf2fd822221779a3b2e714e5533849039d55005342ecb3cc2bbd200c15c4abe300098f054cff365cf98cf0d5484caa0a4aeff957df1c9dbbf61",
+    image: "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__itemrep/img/DzC9cA0TNmWUO7WLdl4-uFHfO_k=/fit-in/246x300/filters:strip_icc()/pic831744.jpg",
     tableData: [
       ['디자이너', '우베 로젠버그'],
       ['개발사', '룩아웃 게임즈'],
@@ -2196,7 +2179,7 @@ export const BOADRGAMEDATA = [
     id: 130,
     title: '어콰이어',
     genre: 'economic',
-    image: "https://w.namu.la/s/454250f818c903a9cb5eff2ab91415c86ba01d78fdbdc565268d4730e95b6d21533144196739a3e622824ad7ae1918b4f6ae03cba4239fb6d92c2c583fefaa0242010ec52b0584b4cb5821feabb1e07a4078323ab3f0f28d7fd9d32862f157f1bf3eb1d5b8a488858979b777e1674dbc",
+    image: "https://cf.geekdo-images.com/3C--kJRhi6kTPHsr9dNaWw__itemrep/img/aE-ZVu4dhOshCpADGYkO68Kewd0=/fit-in/246x300/filters:strip_icc()/pic3299296.jpg",
     tableData: [
       ['디자이너', 'Sid Sackson'],
       ['개발사', '3M, Avalon Hill'],
@@ -2213,7 +2196,7 @@ export const BOADRGAMEDATA = [
     id: 131,
     title: '에이지 오브 스팀',
     genre: 'economic',
-    image: "https://w.namu.la/s/e6cf6138d5f0ed71d5660c64e6e68bfd8ccac2871bf394f927a46c9b79b8149d78cec5427019730ce43ea0281a22f3472229ca5925d30e70a4df2d705a7149a3fa9657b80b22b47850b82ddb1df4c9f06b31699f418710fc0a62088ecbbdcbd1",
+    image: "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__itemrep/img/0BOxVVY3gwGXtU92EUU0EaW6yew=/fit-in/246x300/filters:strip_icc()/pic4557340.png",
     tableData: [
       ['디자이너', 'Martin Wallace'],
       ['개발사', 'Eagle-Gryphon Games'],
@@ -2230,14 +2213,14 @@ export const BOADRGAMEDATA = [
     id: 132,
     title: '오딘을 위한 잔치(한글판 발매명 : 오딘을 위하여)',
     genre: 'economic',
-    image: "https://lh3.googleusercontent.com/proxy/gF8Z3CkaqpCWmK75TT335W808gZlID0dXqHzUEMAYTJiNO5XjLTDKfzOlTDV6LqM_S5yottZHu5yoYwlS0dB4DTvMN6om6I7Ht3i10OOyLAQlY6-5UTsrRU9LLo_fGpU0_X8e9VWUrtNyQcGkYfUgj9jt5qsZAZA5EpMEUg39EbUY0qRO8Y9QXGIU6vXL6CIRn19gLdSHdNOIp35eJU1ab64deYZGHEzfHfxw8V2-qW_Meze2JDqzHAi_S4XSeB9SOSQ3apLWZ87InrMANXPhhwV59yUR0k9rS_U2E1W_ekcDA374q5V",
+    image: "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__itemrep/img/IRX2-uakhv7gHZPJNmtDbWFpjLg=/fit-in/246x300/filters:strip_icc()/pic3146943.png",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Uwe Rosenberg'],
+      ['개발사', 'Feuerland Spiele'],
+      ['발매년', '2016'],
+      ['인원', '1~4 명'],
+      ['플레이 시간', '30~120 분'],
+      ['연령', '12세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -2247,7 +2230,7 @@ export const BOADRGAMEDATA = [
     id: 133,
     title: '인생게임',
     genre: 'economic',
-    image: "https://ww.namu.la/s/21665dce421a9858c930349705de493e5251a6b24a3f1f7acab2645a9324b18bd08d3ebe5e1cbb18399c02075cd24a8bee31a09fe93395a30948913a107182da18b17efd8b339254efd8a24e454a5c2457fda71ecfa1cd41703e69bd567c3398aca2dc810a46e3bff970408240cc26f6",
+    image: "https://cf.geekdo-images.com/c4S2XDRb_DCYCAV-ZAzDpg__itemrep/img/3NPhqG3Emz0QukNRqVFBb_hsYQk=/fit-in/246x300/filters:strip_icc()/pic288405.jpg",
     tableData: [
       ['디자이너', 'Reuben Klamer, Bill Markham'],
       ['개발사', 'Milton Bradley'],
@@ -2281,7 +2264,7 @@ export const BOADRGAMEDATA = [
     id: 135,
     title: '자이푸르',
     genre: 'economic',
-    image: "https://ww.namu.la/s/eb2903177de15d67b58ff44fa75b8188c37ff185d1042e9911e43ac85b43665f7f58d3b0fde897ed75d81e5e336ce674d6abfee2f86afa3e8c7b6812dbdbc4a6751ee084baeb3f4c1a0ae6f9d6e40026c47b48ae9feb0211501fd2183d4d0091313965d37d6ec6f2ee0c883fe60a1e8f",
+    image: "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__itemrep/img/gSigdzXaUWvudQ0vJjSbs-mXaRk=/fit-in/246x300/filters:strip_icc()/pic5100947.jpg",
     tableData: [
       ['디자이너', 'Sébastien Pauchon'],
       ['개발사', 'GameWorks SàRL'],
@@ -2315,7 +2298,7 @@ export const BOADRGAMEDATA = [
     id: 137,
     title: '카탄',
     genre: 'economic',
-    image: "https://ww.namu.la/s/d1c652f0ce2a1c5c56f5bd2f2629daaa369c5b38307b7262b544ed95dcbd00c99370a4225ddc1cd907c6909210efcb2f221e69a6b61994a6b6d6288f1500fa656ef928f3785bee169c17a508c83030f759ea9be40bece2643826deace726b1da",
+    image: "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg",
     tableData: [
       ['디자이너', 'Klaus Teuber'],
       ['개발사', 'Kosmos'],
@@ -2332,7 +2315,7 @@ export const BOADRGAMEDATA = [
     id: 138,
     title: '테라포밍 마스',
     genre: 'economic',
-    image: "https://ww.namu.la/s/577016c037ed0d97062721f01a784dbc8638dac155853876aaab4ce781fcb4471d3909d55bbce463caf6790fbc5bfc8c0d602554ef72391277a68221daca003d8c8dc83da4a3c001cd3ca1a1c137be89a79a6331a220c04104f0fa9ced3debc0083d821335948880caddd8a153ab4577",
+    image: "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep/img/IwUOQfhP5c0KcRJBY4X_hi3LpsY=/fit-in/246x300/filters:strip_icc()/pic3536616.jpg",
     tableData: [
       ['디자이너', 'Jacob Fryxelius'],
       ['개발사', 'FryxGames'],
@@ -2349,7 +2332,7 @@ export const BOADRGAMEDATA = [
     id: 139,
     title: '티켓 투 라이드',
     genre: 'economic',
-    image: "https://w.namu.la/s/58fe952d24b374ef25320375eefc1b4a23ce827a12e832449c66a44903fb4e43a06f5a5a31eedb699e7047ec2c2883b4363c5c2085bbf3241f4b2679ae37d6dc2bfb4ca1567bc453a57d3b83d955a1837e1e219e7be1f0a387e419390f6e9f6727191a5084eaac1ce7cc083a5d1839d6",
+    image: "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__itemrep/img/iiTIuTtuneM3tbDCjALecsgyizA=/fit-in/246x300/filters:strip_icc()/pic38668.jpg",
     tableData: [
       ['디자이너', 'Alan R. Moon'],
       ['개발사', 'Days of Wonder'],
@@ -2366,7 +2349,7 @@ export const BOADRGAMEDATA = [
     id: 140,
     title: '파워 그리드',
     genre: 'economic',
-    image: "https://w.namu.la/s/d4a15ce1b2c09fec412333dfa311cee014bbd9eb91a1dd55e582bcca35875dba050a26bec8d9a043afe03b0e2b0605efccee69904469b351de3d0518945040c248c7a885d6472fd574f62c3f192817b872b2d03170b687670976a508962254f7",
+    image: "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__itemrep/img/LsqKzcnoaVUlSUmLxFE8dwxFndk=/fit-in/246x300/filters:strip_icc()/pic4459753.jpg",
     tableData: [
       ['디자이너', 'Friedemann Friese'],
       ['개발사', '2F-Spiele'],
@@ -2383,7 +2366,7 @@ export const BOADRGAMEDATA = [
     id: 141,
     title: '푸에르토 리코',
     genre: 'economic',
-    image: "https://ww.namu.la/s/8bf6d64912246b23591b223712d628f1f984dd5672871ca734b3cd7f65a2dd0e1f47367ad180be7e64dce5fae06d24d0cf11d7d93f8565a6ada3b539944abfb2b322b9734ce49c3b21e95c863f521c75fa1ac4c9d5e92630579cb76b56f011263e2462b1563df676b5534607a0c6fe0c",
+    image: "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep/img/YDEozo5DfKYdDp8xi2mAfoV2qWk=/fit-in/246x300/filters:strip_icc()/pic158548.jpg",
     tableData: [
       ['디자이너', 'Andreas Seyfarth'],
       ['개발사', 'Alea'],
@@ -2400,7 +2383,7 @@ export const BOADRGAMEDATA = [
     id: 142,
     title: '카베르나: 동굴 속 농부들',
     genre: 'economic',
-    image: "https://w.namu.la/s/8735844d16eaa095c1c071d1a6c92fb0eb9ad587f5cbc7047ea07bff96b6bee0e599ecbdbff44cc3cb5918969b337c592117a5d1fa997528c267fd4a3be453eba94b227a5329bd005b01386fe4a84e2c5050f46517c62a08666cb1fbee2f8e502f206b763700aaca96086bb48ec950f7",
+    image: "https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__itemrep/img/8tBInJIElBaiYVJ-gngzWmrSrsw=/fit-in/246x300/filters:strip_icc()/pic1790789.jpg",
     tableData: [
       ['디자이너', '우베 로젠버그'],
       ['개발사', '룩아웃 게임즈'],
@@ -2434,7 +2417,7 @@ export const BOADRGAMEDATA = [
     id: 144,
     title: '러시아워 시리즈',
     genre: 'puzzle',
-    image: "https://ww.namu.la/s/8da648997715685482d5a9203f020742bd5e5777c5e1c195a84880570132857d0b1ea80f07f88bef9573f3653b8d07fe687abccf59e54a93076ea8595cd7b81cc712cc23999839f422a618c71406a04cf398bf42092c62d81804619224a03f7a",
+    image: "https://www.koreaboardgames.com/upload/uploaded/prd/165971481993630.png",
     tableData: [
       ['디자이너', '노부유키 요시가하라'],
       ['개발사', 'Binary Arts'],
@@ -2451,7 +2434,7 @@ export const BOADRGAMEDATA = [
     id: 145,
     title: '어메이징 라비린스',
     genre: 'puzzle',
-    image: "https://w.namu.la/s/f64add9ec775d865d8d7d83514832a7a8f9223b88ccaa6d81e8398810f3b2015e1c784b152d33d730a8aa2d8780ff07859a05c522a4cd8cde6bfd049237085bfc2922100f8490119afed87a5397e4fef40f955e301c019f3a911a1153724770b",  
+    image: "https://cf.geekdo-images.com/R1BmYXFbv-7UyNWQEb6PUg__itemrep/img/KncWyi4BmFW_VdQShZFufhD6TXQ=/fit-in/246x300/filters:strip_icc()/pic2773940.jpg",  
     tableData: [
       ['디자이너', 'Max J. Kobbert'],
       ['개발사', 'Ravensburger'],
@@ -2485,7 +2468,7 @@ export const BOADRGAMEDATA = [
     id: 147,
     title: '다빈치 코드',
     genre: 'detective',
-    image: "https://w.namu.la/s/f159aff7626fd36a1729a1176729ccfe16de322abc05c3955bf72f080bdee3a8d1335d66944ca15dd12811fc17c870e420c9ac9af68384b7c1f101fea07c83830a2fc58cc197d6d8ec56aaa64dfb3ca9c9d99a04137bc793b7272680284f21d2",  
+    image: "https://cf.geekdo-images.com/3Jcus6QkEVnUMNHD2aaQXQ__itemrep/img/77dCGlm9wzn6JIEaIMKUvniptho=/fit-in/246x300/filters:strip_icc()/pic1273407.jpg",  
     tableData: [
       ['디자이너', '스즈키 히로아키(鈴木博昭), 와카스기 에이지(若杉栄二)'],
       ['개발사', 'Gakken'],
@@ -2502,7 +2485,7 @@ export const BOADRGAMEDATA = [
     id: 148,
     title: '단간론파: 초고교급 늑대인간',
     genre: 'detective',
-    image: "https://w.namu.la/s/521e06bb47fdc939e6db1bf9cf6fe74a1639fe016662ef433af8f4091643d51cf027a100973383d2d9de4d7d933928193d9439c49f33f3aacec06f7ac9faef4d75f6b3b29fa61f8e2b377a4534f77a14e3a11727ddb4c3f363063eb4f5787f94fa712d9c80681e35fe5f08af472e518b",
+    image: "https://cf.geekdo-images.com/BLIwHkRq0RsJUD_zIysRXw__itemrep/img/jWk7rFFnwkgjkwMgbGx1ECjhub4=/fit-in/246x300/filters:strip_icc()/pic2433697.png",
     tableData: [
       ['디자이너', ''],
       ['개발사', 'Arclight'],
@@ -2519,7 +2502,7 @@ export const BOADRGAMEDATA = [
     id: 149,
     title: '듀크',
     genre: 'detective',
-    image: "https://w.namu.la/s/275a78f7d9c903be7f8c9b8b2b80ed1d3ac3611305583e46dffec8f23c27b6fee67d832bec8f18716fdf9050c35880f90f059bb98ae1f478ebfa42e3e8c2233f99cc04b95278acdd9ec5600ae0fb1f35a6b95adb459277cb20b929a27793e2f83fd071029529f8ff229ca85bc7a3c7f9",
+    image: "https://cf.geekdo-images.com/dDFcB5lodNZxzxfWsTJtUg__itemrep/img/1GZ60UMu87ZqGHTDquNZvY6nQ60=/fit-in/246x300/filters:strip_icc()/pic1688903.jpg",
     tableData: [
       ['디자이너', 'Jeremy Holcomb Stephen McLaughlin'],
       ['개발사', 'Catalyst Game Labs'],
@@ -2536,7 +2519,7 @@ export const BOADRGAMEDATA = [
     id: 150,
     title: '딕싯',
     genre: 'detective',
-    image: "https://w.namu.la/s/388149d81dadceea99d8d041a4f656d8c18d54996f651be1a68b59234ce3f26b4884d7f4b28e81a43fd4f88fe2de129ad5be5a93bd1e9f95ac05b7caeef44d8227f2c2b13f6269a934b8aba1c09b472fb1333d2e4826d588ced9214b5c872e8ce649be5a86a28264ced2401a65ac6bd1",
+    image: "https://cf.geekdo-images.com/uSgzS-SClISqDkYRCdUq6g__itemrep/img/j3CoT2bYnzVIqtyE3vENknvc30g=/fit-in/246x300/filters:strip_icc()/pic3483909.jpg",
     tableData: [
       ['디자이너', 'Jean-Louis Roubira'],
       ['개발사', 'Libellud'],
@@ -2553,7 +2536,7 @@ export const BOADRGAMEDATA = [
     id: 151,
     title: '루미큐브',
     genre: 'detective',
-    image: "https://ww.namu.la/s/6436253e5c3042565e3d882c4a11f01e5107982538d3f6d684651a155bc5f9dbe5e0ec0f9357b8f1e423a8d7072153496a0e83a1fc1ec8c222f86d7ed9d9449c9ccf71aa601a2893ab1e937f8ebbec0831b2e9cc3bce1f0c920189c4ca3d83d7",
+    image: "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__itemrep/img/x4GW0OJaN-pV8-K_b4RTSFioW6U=/fit-in/246x300/filters:strip_icc()/pic2286966.jpg",
     tableData: [
       ['디자이너', 'Ephraim Hertzano'],
       ['개발사', 'Lemada Light Industry'],
@@ -2570,7 +2553,7 @@ export const BOADRGAMEDATA = [
     id: 152,
     title: '레지스탕스 아발론',
     genre: 'detective',
-    image: "https://w.namu.la/s/7f1b901c82c026c79161a7ae4db35ecaf2268ec565ae1b937797c43d201408aa2ddee6146de995e84b214bf75a762d2b4b5f58fd7aa440181c1aa3743934c0a6b401f5ba28cad3b18baa04f0c504adfb27937816d307f87197a434f293867640c037d25062dda12f6e3bf40e44e027d6",
+    image: "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__itemrep/img/KtGX_JFWNUXci7H5zs7GjS0QrQk=/fit-in/246x300/filters:strip_icc()/pic1398895.jpg",
     tableData: [
       ['디자이너', 'Don Eskridge'],
       ['개발사', 'Indie Boards & Cards'],
@@ -2587,7 +2570,7 @@ export const BOADRGAMEDATA = [
     id: 153,
     title: '레지스탕스 쿠',
     genre: 'detective',
-    image: "https://ww.namu.la/s/cbdbcadce4e74454b828bf925d95cc3d38e272d1566391cd191ef964f24fabf6955b757f52066cb71d84ac9d2f211fa99d32973f0f57e7384d028ea27e7ecc03a955c3f141155c01d070fdfb70ba8d40f29badc66f48c77ff30932497c233cb9",
+    image: "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__itemrep/img/QRw3T5XGsrRs-QKCSpzwE7nFqOg=/fit-in/246x300/filters:strip_icc()/pic2016054.jpg",
     tableData: [
       ['디자이너', 'Rikki Tahta'],
       ['개발사', 'Indie Boards & Cards'],
@@ -2604,7 +2587,7 @@ export const BOADRGAMEDATA = [
     id: 154,
     title: '미스터 잭',
     genre: 'detective',
-    image: "https://ww.namu.la/s/d3072bb69b98f5965a1179673f472fb116c76b7207e588679aeddd56bda55cce2a80196452aee35d47cae053b2d75cb8de4507f87039b31074ab1d1b301ab8f35cdc65525f04ef6e80683749d47ca4be9f2af976b192147128944615b71df002",
+    image: "https://cf.geekdo-images.com/CDdF4xOQJsNK0gX8-tBdCQ__itemrep/img/_YdCCKiPRSPuqsUh8Bt2qYfNTO8=/fit-in/246x300/filters:strip_icc()/pic3066125.jpg",
     tableData: [
       ['디자이너', 'Bruno Cathala, Ludovic Maublanc'],
       ['개발사', 'Hurrican'],
@@ -2621,7 +2604,7 @@ export const BOADRGAMEDATA = [
     id: 155,
     title: '배틀십',
     genre: 'detective',
-    image: "https://ww.namu.la/s/b3702e1474a5e11a9852103e4c41c7d3d3d4bb8140a57c5cba8770334d9483081ad5a4efd20dddbec1f79ed8ecc054462425341f65b587d414c56e6bc46bf951275b721862741b6f2d45ebb2760630cc3b66743e0d0fde0c4ed9d1bf7473ff37",
+    image: "https://cf.geekdo-images.com/oWcB33sfig9QF_KBEv7iLQ__itemrep/img/zcDS5maPgMDc_FwLaqHhmpqhAWE=/fit-in/246x300/filters:strip_icc()/pic2439783.png",
     tableData: [
       ['디자이너', 'Clifford Von Wickler'],
       ['개발사', 'Milton Bradley'],
@@ -2638,7 +2621,7 @@ export const BOADRGAMEDATA = [
     id: 156,
     title: '십삼지신',
     genre: 'detective',
-    image: "https://w.namu.la/s/3f580c3ba35c4717ba4ca1dac3390ecaced8b73cdd6c854ab561deaa49ef355177c0afac430530c996f1158f584a75d5d5a73d66157f45c63132dab7ed8e6a3bf7e603d199ab4778562326bfb6bca1dc92cfbc3d63330f1f7498c938af7b1008",
+    image: "https://shopping-phinf.pstatic.net/main_2403218/24032185875.20200904024345.jpg?type=f640",
     tableData: [
       ['디자이너', '황지남'],
       ['개발사', 'TEACHERMALL'],
@@ -2655,7 +2638,7 @@ export const BOADRGAMEDATA = [
     id: 157,
     title: '쉐도우 헌터',
     genre: 'detective',
-    image: "https://ww.namu.la/s/2213582b7090d800556395652b48217d1378fec600f07c677b28e0c4134a7a5969927e4c146129edbfbdf60b3e63aa6ee3ffaf34749285e606fc1cdd18f31045e5cd3ab5c22924963bfa741ff7d31e300b5f976eac8b9ebf1007fa58526ec83348bc0c5046e9d7d5bbc5789e487e1c76",
+    image: "https://cf.geekdo-images.com/xpoq2m7I5yEUGq5FRnccFg__itemrep/img/vfEjzroK7IS0J3oktDv4LOI3WB0=/fit-in/246x300/filters:strip_icc()/pic5988901.jpg",
     tableData: [
       ['디자이너', '池田 康隆 (Yasutaka Ikeda)'],
       ['개발사', '지맨 게임즈'],
@@ -2672,7 +2655,7 @@ export const BOADRGAMEDATA = [
     id: 158,
     title: '스코틀랜드 야드',
     genre: 'detective',
-    image: "https://ww.namu.la/s/95b62b4a3c7322fe1116f429a9b97290a7247c84f7f56c30a2e7a6dde18cdf3b753a5a6dc68d3ed6a04097e073b56b88faf0a9d8b59f1ce1f0d5d52ca6fffd37314d205fd8caeaa9824f95cc51d07b56219dd083b4c5fb40cb0cd620bdc406a79d40f0c18d9ec929bc2ee1ec282f1188",
+    image: "https://cf.geekdo-images.com/NbHZjHmQcA5_TenhVJtJ3w__itemrep/img/fMk4d7BpMMAXSjQiR9E3NlBeZoM=/fit-in/246x300/filters:strip_icc()/pic4527702.jpg",
     tableData: [
       ['디자이너', 'Manfred Burggraf'],
       ['개발사', 'Ravensburger'],
@@ -2689,7 +2672,7 @@ export const BOADRGAMEDATA = [
     id: 159,
     title: '시크릿 히틀러',
     genre: 'detective',
-    image: "https://w.namu.la/s/475832267cad5d2bfcc9cf72e76cd8d6fe28cf3f52c13cc072b91122558a4769b1f0140fb0f8d68c52328d8932a97c84c7dcff41ecb7a0e9613e52efe1cacc4cfb3dc128660ccf4817e07eafde2386566b14ced9154e2719dd229bdec176a9de87218c8fa05198f80abbc90341e8e002",
+    image: "https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__itemrep/img/EQ1jwjZYnucHSizVlzHE8DiyEQI=/fit-in/246x300/filters:strip_icc()/pic5164305.jpg",
     tableData: [
       ['디자이너', 'Mike Boxleiter, Tommy Maranges, Max Temkin'],
       ['개발사', 'Goat Wolf & Cabbage'],
@@ -2706,7 +2689,7 @@ export const BOADRGAMEDATA = [
     id: 160,
     title: '연금술 아카데미',
     genre: 'detective',
-    image: "https://w.namu.la/s/ab3dbf74ed798328c5e4a3e8a2ffe42f734c753ae3e177d092ce883f0948debe269785b210fced8700c74633aa78b285fb9fed0e773b0a5dc45166e10b4e9e545d86f2ca6f47a2f7e54e8ca3659cb6ff2cdd7f9a8de9332e87c9983aeabe37515f22ec7bcad44d7b64f95d0c5711f341",
+    image: "https://cf.geekdo-images.com/ztNshEv3Fsm46HCJaEOFPw__itemrep/img/fgFxHXp815uaLr-wVObbguDdjfI=/fit-in/246x300/filters:strip_icc()/pic2241156.png",
     tableData: [
       ['디자이너', 'Matúš Kotry'],
       ['개발사', 'Czech Games Edition'],
@@ -2723,7 +2706,7 @@ export const BOADRGAMEDATA = [
     id: 161,
     title: '이웃집 몬스터',
     genre: 'detective',
-    image: "https://ww.namu.la/s/d1709113d313f4e96d73de9aeacf300663e2bd4c10a1d7f50a21dcad7be69ca07ee9f47b1f4d17a30556e465a9a356fb22caf46346c12ae2903988fc78337d5ce1cd07ee83d9ada3323460d59cfc182bd07ac9e4839442c7221b7fa0c68e6e8d",
+    image: "https://cf.geekdo-images.com/5LsS58GuWL_8sTFKqROnrg__itemrep/img/4qiDgkycJxfSSMXxbLWTmHnnt-M=/fit-in/246x300/filters:strip_icc()/pic2620938.jpg",
     tableData: [
       ['디자이너', 'Pesu Nabeno'],
       ['개발사', '코리아보드게임즈'],
@@ -2740,7 +2723,7 @@ export const BOADRGAMEDATA = [
     id: 162,
     title: '참극RoopeR',
     genre: 'detective',
-    image: "https://ww.namu.la/s/d3081820e668185ce38d7b5e4db10e9b97cbed55c5c7b07dbb4b6f5be0157b7aad7ee7aa33c593abb6b952ab347db240bf478c168e56bdbc146fe0ffd228c45f82979ffa87986a92e5f2c20ab2c1a71cbd694b4ac7408bb1da9305c35ff4203c",
+    image: "https://cf.geekdo-images.com/fsUCwhRp_5knh6eY8EduTw__itemrep/img/ijLwzP7xiyuZcemNZsnIxji0NLc=/fit-in/246x300/filters:strip_icc()/pic2046290.png",
     tableData: [
       ['디자이너', 'Tragedy RoopeR, BakaFire'],
       ['개발사', 'BakaFire Party'],
@@ -2757,7 +2740,7 @@ export const BOADRGAMEDATA = [
     id: 163,
     title: '코드네임',
     genre: 'detective',
-    image: "https://ww.namu.la/s/d462bd473e58322796729a1153da31b40a8209b1af7e5df554ede1422c858bca7fe0320378bc7c6c871e661b55e69f38c5b4bd3cf284e141b946d45794aeb2b62b0b512560b513793cbbd49269dc7cf2bd9048db351bed014cbdab6a7c9f4927979ce6acd9cc8a28ba12959f369341d3",
+    image: "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__itemrep/img/e8zw8YQvQB8q8zfWkHQ48Ls920g=/fit-in/246x300/filters:strip_icc()/pic2582929.jpg",
     tableData: [
       ['디자이너', 'Vlaada Chvátil'],
       ['개발사', 'Czech Games Edition'],
@@ -2774,7 +2757,7 @@ export const BOADRGAMEDATA = [
     id: 164,
     title: '클루',
     genre: 'detective',
-    image: "https://ww.namu.la/s/6ae41fcf656dd610cca5666b650d4b0c3cca0f8a561309c9d90b008a51a4d82a3bfa1f36a2a69bc47987f03643d72d1c7382ce5c57eabafc04242d25c40b57aacb568d1fd6bec9ef52594f86a482f12729c93d9f96d2a25b44d826a923d65aeff4f5723e6ff2241dc9c0da9fb91b292c",
+    image: "https://cf.geekdo-images.com/owlmDA10KegcwPaapY5auw__itemrep/img/l389R4AqZbn89WSROMFpvBb11fo=/fit-in/246x300/filters:strip_icc()/pic5146918.png",
     tableData: [
       ['디자이너', 'Anthony E. Pratt'],
       ['개발사', 'Parker Brothers'],
@@ -2791,7 +2774,7 @@ export const BOADRGAMEDATA = [
     id: 165,
     title: '타뷸라의 늑대',
     genre: 'detective',
-    image: "https://ww.namu.la/s/1075b2add335c3949f09ef320b7fd10dea5638af04186730adb168abaa808fae24e5d1423e9ff40400f3683d03d30ab0a55eb57ba93e38f281bcc9ba1f8366e216804f73de24fa4e21244439731ea43f1e4469ec7e1503f7dd7a46332966a021",
+    image: "https://cf.geekdo-images.com/OKdZfHaYMrSLvLujea1fyg__itemrep/img/Wi1hT_CmdkICT_VSzmpyFFNc2gU=/fit-in/246x300/filters:strip_icc()/pic5544868.png",
     tableData: [
       ['디자이너', 'Domenico Di Giorgio'],
       ['개발사', '디브이 기오치'],
@@ -2808,7 +2791,7 @@ export const BOADRGAMEDATA = [
     id: 166,
     title: '톱 시크릿 스파이',
     genre: 'detective',
-    image: "https://ww.namu.la/s/b19a527cb550454aa409d8b5b01dead18637229e9d117e5dad5a68bd71e337582fa60533b5341ac7e86da0dda8f47f574356759a9e8739b9f2dec0093c6c11a0eaa01f588c13110e291e6b82c200e01c4075d585169d36a2fa6366d118ab0517",
+    image: "https://cf.geekdo-images.com/dTrLw84p0NUyaMnYkqmxew__itemrep/img/9fy0o_wdn3XrzyMOrll7a-VrpOg=/fit-in/246x300/filters:strip_icc()/pic3989541.png",
     tableData: [
       ['디자이너', 'Wolfgang Kramer'],
       ['개발사', 'Ravensburger Rio Grande Games'],
@@ -2825,7 +2808,7 @@ export const BOADRGAMEDATA = [
     id: 167,
     title: '하나비',
     genre: 'detective',
-    image: "https://ww.namu.la/s/37b6e2462b0cc560fb65ca1a27c2068b40ac0c50a3398afd026890595b1430f01bd6863c7d57387874d24e854121585aaada3fef666ea3eea1004e266e0323f9793d7beaa62cce6fb9b25aa936570d4d66b9d1efc239a506abba83c3b77ac445974b00b6bfc454c0aea146a923d0d7f1",
+    image: "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__itemrep/img/-8TE91boynDg5reWQGyIkc7Wx6I=/fit-in/246x300/filters:strip_icc()/pic2007286.jpg",
     tableData: [
       ['디자이너', 'Antoine Bauza'],
       ['개발사', 'Abacus Spiele'],
@@ -2842,7 +2825,7 @@ export const BOADRGAMEDATA = [
     id: 168,
     title: '한밤의 늑대인간',
     genre: 'detective',
-    image: "https://w.namu.la/s/50dbb32cc789dc000aa1e4a1c3873f71468d47c3e385aa1ca38d7855b34fe91a9a5d54ad2bb4be3ac33f811107f8cb5df497f41a9cf5cd586f6eb22589b58d8142c9dc67854fb715134c48698873aec7a85ebaf4ab152a1405357519c0d64f040b0c563f79a0806df40014045d35b7bd",
+    image: "https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__itemrep/img/qv0WkrvyQumuNtJry2pjodxjZ5k=/fit-in/246x300/filters:strip_icc()/pic1809823.jpg",
     tableData: [
       ['디자이너', 'Ted Alspach, Akihisa Okui'],
       ['개발사', 'Bezier Games, Inc.'],
@@ -2859,7 +2842,7 @@ export const BOADRGAMEDATA = [
     id: 169,
     title: '화이트채플에서 온 편지',
     genre: 'detective',
-    image: "https://w.namu.la/s/88dbe0cdc0e26a6aa1a0133421662154aa69566d6c4b7dd4f828e6988c51e3eeb1b25026e7fb6bd4aa845b3ae82494412f3e5d48aa9dee1b944f6d4e1b02e85c561756ca10624ba94e4810c4b5ee5086a0306a78e8a90e8199e73b0bde7a8cf0599a48238553f5ddde6b0a113596d9dc",
+    image: "https://cf.geekdo-images.com/H3G1t-oIjN9gEVVI21FoVg__itemrep/img/5ARXTgT-m-cjWOcaxGX9KMXMbxM=/fit-in/246x300/filters:strip_icc()/pic1545654.jpg",
     tableData: [
       ['디자이너', 'Gabriele Mari, Gianluca Santopietro'],
       ['개발사', 'Giochi Uniti'],
@@ -2876,7 +2859,7 @@ export const BOADRGAMEDATA = [
     id: 170,
     title: '7 원더스',
     genre: 'civilization',
-    image: "https://ww.namu.la/s/917635e8f7ca78c0e20423aaf76823fc803fa0f14a613f29c179ddf499fdc1d14bbeee1f9bdb4861d2ad620748e078a2f73ae3ddf04d782452cac3a2d34d4f7923b0290dfa7a5f0949cda5acd254fe17933d7aacf55a6accfc7928e9864a7fe0d071649a3a60a4f004731b8cc3d2d5b3",
+    image: "https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__itemrep/img/F__zhk-OFDgFcMBysW2JlcYJADw=/fit-in/246x300/filters:strip_icc()/pic860217.jpg",
     tableData: [
       ['디자이너', 'Antoine Bauza'],
       ['개발사', 'Repos Production'],
@@ -2893,7 +2876,7 @@ export const BOADRGAMEDATA = [
     id: 171,
     title: '7 원더스: 듀얼',
     genre: 'civilization',
-    image: "https://w.namu.la/s/894b8b36ccd1053ef5aee5b544e779162044b4c3ed99d579bdec23e5093132d1a2efa5653be560dbd55e6503724f5085a94272e1a7362d09d4803ce9383b8a6c77759884f20f1aaa45c6da48fd077aa96e04c606952a9121726005d342f290e7f6cb65405f7fd52c66ccac5c05e22d55",  
+    image: "https://cf.geekdo-images.com/WzNs1mA_o22ZWTR8fkLP2g__itemrep/img/sDjIG76VOwrlySbj_5rdnAaWO_0=/fit-in/246x300/filters:strip_icc()/pic3376065.jpg",  
     tableData: [
       ['디자이너', 'Antoine Bauza, Bruno Cathala'],
       ['개발사', 'Repos Production'],
@@ -2910,7 +2893,7 @@ export const BOADRGAMEDATA = [
     id: 172,
     title: '길로틴',
     genre: 'civilization',
-    image: "https://w.namu.la/s/fb66d93b0eb3180d93cc0f44afdef9e04fa38bf8869149002ec5faf8eb91aaba8b5652b4d6957036aed8d0cb4c50d3e6b53fa07ff2cd3713a3e71e728c0eebedcaccb3c2b35c50b5bd97d8001f47b91ab9a3e0933ffcd3e43196b2b619b8ef46f56224eef3cdeef1a2ab603cb38b8f86",
+    image: "https://cf.geekdo-images.com/9gdaUHNTcgv8RhFhG0kzBw__itemrep/img/wm72DEGPGFwhRyerV6E4eb58Pvc=/fit-in/246x300/filters:strip_icc()/pic143139.jpg",
     tableData: [
       ['디자이너', 'Paul Peterson'],
       ['개발사', '위자드 오브 더 코스트'],
@@ -2927,7 +2910,7 @@ export const BOADRGAMEDATA = [
     id: 173,
     title: '달무티',
     genre: 'civilization',
-    image: "https://ww.namu.la/s/91a7b0195aee4768aacfb8324b3fa92ed3b67b000ee0d47d4acf887fd91e6ed7806208aa4170cafec63eaee826d35c31ed62a0e683b0db039de633ad6e512086982928f3e9abb7ae2207b438006c5308c5ab157470f26474ffb23e85df5dfc86b54195c4157ea72e9a612e691b25a47b",
+    image: "https://cf.geekdo-images.com/LVCXyZpkL6rPsouhWV3noA__itemrep/img/Up5zJVWnPlSAaWUrPzwZhT2pjo4=/fit-in/246x300/filters:strip_icc()/pic711236.jpg",
     tableData: [
       ['디자이너', 'Richard Gafield'],
       ['개발사', '위저드 오브 더 코스트 / 아미고'],
@@ -2944,7 +2927,7 @@ export const BOADRGAMEDATA = [
     id: 174,
     title: '도미니언',
     genre: 'civilization',
-    image: "https://w.namu.la/s/443a32c650a5d0d4e3dd7dd1e705a7534937354bc41858ab4a85c2000e650fcf23ec3bbfdeb3b37f633171c97f66257d6249ad969de10eeb0eadf97ef50388252c2acbd07066dabf98ba90285619f80f0bf11f3bb8043974573da46b174d1c9a",
+    image: "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__itemrep/img/_QiaiFj-LGZoqdatE-wVqNaYWx8=/fit-in/246x300/filters:strip_icc()/pic394356.jpg",
     tableData: [
       ['디자이너', 'Donald X. Vaccarino'],
       ['개발사', 'Rio Grande Games'],
@@ -2961,7 +2944,7 @@ export const BOADRGAMEDATA = [
     id: 175,
     title: '러브레터',
     genre: 'civilization',
-    image: "https://w.namu.la/s/fffd82ba52ae4970f2c9cc50b01440de75922a0a1e001ce3a051b6b71da8bc3bdf6971f36d212e49c498fd043b607fe4b252e07fb24aa03480251dae68de5095d2ceb62778a81c880f8c631f66ea25dc9a37357a0e155fcaf3ee83fdef135d28",
+    image: "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__itemrep/img/SJxpAXjBIPEj9m6hHZYeTbz9wzc=/fit-in/246x300/filters:strip_icc()/pic1401448.jpg",
     tableData: [
       ['디자이너', 'カナイ セイジ (Seiji Kanai)'],
       ['개발사', 'カナイ製作所(Kanai Factory)'],
@@ -2978,7 +2961,7 @@ export const BOADRGAMEDATA = [
     id: 176,
     title: '문명',
     genre: 'civilization',
-    image: "https://w.namu.la/s/029e9f36d3be56ac7cae400a890815c36e8c1ab3b45bc1d712936ef94a160dde5908d7331bf87a42267e055e95134326ea9b771b805cf0d3ade6f702faaad047166964ddbbab677d18b66fe18c3ae53217c2faddadfb2083df51b3aa9928df8298913015502f9daa177aa386176322ad",
+    image: "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__itemrep/img/yTcqoZKFqXfzC7zcRQrtIaAIwZI=/fit-in/246x300/filters:strip_icc()/pic798666.jpg",
     tableData: [
       ['디자이너', 'Kevin Wilson'],
       ['개발사', 'Fantasy Flight Games'],
@@ -2995,7 +2978,7 @@ export const BOADRGAMEDATA = [
     id: 177,
     title: '빌리지',
     genre: 'civilization',
-    image: "https://w.namu.la/s/5f667834c11c6e98d3b0a4ebe3de550515b01f149472a1ff9d5e1336bd0120411d30fbd44e019c7e54e31c35d719aa1378cc923c5b9c989071e500d7f377471d4b6eb96ab3029741e0597b9efb1c687da8fc0cc9ffaf862e7a6920691cf05bbb",
+    image: "https://cf.geekdo-images.com/5FBIAvZi3Sw8dvmfwwJTjg__itemrep/img/ZuFvXxXEHgC9urtWSMEgdDI_yFo=/fit-in/246x300/filters:strip_icc()/pic2760568.jpg",
     tableData: [
       ['디자이너', 'Inka Brand, Markus Brand'],
       ['개발사', 'eggertspiele Pegasus Spiele'],
@@ -3012,7 +2995,7 @@ export const BOADRGAMEDATA = [
     id: 178,
     title: '석기시대',
     genre: 'civilization',
-    image: "https://w.namu.la/s/20f0394809c98d6214d1b2de4e86bb5ed422886d9c9ef842b3fe1f4dc6dc3d6d72813fe21ace2b8f61d0792e9eb1b936b7b6546cbecf5043b03631489ea51c17c3ae258fe37fc013da0837d1f5c7a8f4a326b8ba81d696e0c105cbfde2d72d96",
+    image: "https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__itemrep/img/vApiI-gvXtwafEriPc4jDVJ1ajA=/fit-in/246x300/filters:strip_icc()/pic1632539.jpg",
     tableData: [
       ['디자이너', 'Bernd Brunnhofer'],
       ['개발사', 'Hans im Glück Verlags-GmbH'],
@@ -3029,7 +3012,7 @@ export const BOADRGAMEDATA = [
     id: 179,
     title: '스플렌더',
     genre: 'civilization',
-    image: "https://w.namu.la/s/e41acf81268cdb94a1834e36af18893861eb5f2545086f4db744b4a78fe4dc6b0dcee576a73da9f3d6150ae0b793687d3d873575dff5fcb8745efaf2799e780d9286a65808611be89243739a0f5425a4c778edfe86108ae1fb631904e42a6e76dd9806fea8eb4820ac6913e584f8d626",
+    image: "https://cf.geekdo-images.com/rwOMxx4q5yuElIvo-1-OFw__itemrep/img/NaQx3XWoNAOMDGl4AXf4nxlhHo0=/fit-in/246x300/filters:strip_icc()/pic1904079.jpg",
     tableData: [
       ['디자이너', 'Marc André'],
       ['개발사', 'Space Cowboys'],
@@ -3046,7 +3029,7 @@ export const BOADRGAMEDATA = [
     id: 180,
     title: '시타델',
     genre: 'civilization',
-    image: "https://w.namu.la/s/c2e794c70cdc4e11a69b4039ae7d5436f71a7556dfc7bfe0ffd0ec5e4b1f642531289a8b3b2f393dd3f8b51da1df894eeaa7e8a43b29eb71e8e55b06cc4e10339900c40488e629bb9467ee692bea8e572ab5c7f3dffd769f67d99bb7e0c7cd7b",
+    image: "https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__itemrep/img/NVAwUCUVc6QWNKZNUBiIMg2nk8A=/fit-in/246x300/filters:strip_icc()/pic3239104.jpg",
     tableData: [
       ['디자이너', 'Bruno Faidutti'],
       ['개발사', 'MultiSim'],
@@ -3063,7 +3046,7 @@ export const BOADRGAMEDATA = [
     id: 181,
     title: '쓰루 디 에이지스',
     genre: 'civilization',
-    image: "https://ww.namu.la/s/17924d33ce03b3a98ed6cf4f6413711ee28ad020428eeea1d7abc9bb0e384147c0e5276e442f80681c81c5ea232ea34cb46144c40436d942a0648fe615217782dde30b278dabb31d9a868bf6f11a2efac4f0b6d8d9f6d63b489f2a49bcc628d5",
+    image: "https://cf.geekdo-images.com/3piN3YX4WmBRuIvbEG2Ygg__itemrep/img/DKZbeW87bMXJoELGFrPjWj73V_o=/fit-in/246x300/filters:strip_icc()/pic236169.jpg",
     tableData: [
       ['디자이너', '블라다 츠바틸'],
       ['개발사', 'Czech Board Games'],
@@ -3080,7 +3063,7 @@ export const BOADRGAMEDATA = [
     id: 182,
     title: '알함브라',
     genre: 'civilization',
-    image: "https://ww.namu.la/s/907d90572bb78b21beeca18ea6813aa79ce8bbe5466906acfb4d20502ce147b224b341bb4bd20860c2c578e68bdf5fb653437ea2da045f6f7582891a764fb21da13e685769ca7df7b628f26626e502f9efa530dcb96e6a05cbb2069f1152eda9",
+    image: "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__itemrep/img/7RUFLxeNec7dSbH0d_t77bFj3mo=/fit-in/246x300/filters:strip_icc()/pic4893652.jpg",
     tableData: [
       ['디자이너', 'Dirk Henn'],
       ['개발사', 'Queen Games'],
@@ -3097,7 +3080,7 @@ export const BOADRGAMEDATA = [
     id: 183,
     title: '인트리게',
     genre: 'civilization',
-    image: "https://w.namu.la/s/08746d511302b207c2720f557558574a00685bae37a0ca441c6f99a1fe19da95eddbbd083b4ad3f93de45f0da7722d7da3aa4cd3c5c9e9e2e573ea016b4e2e921abf864ce6fcdb57983a96f59bae9d9285b0ce1c56d0cf11518c8e4b755525b7",
+    image: "https://cf.geekdo-images.com/l8ki305GFjjmrRworLUzLw__itemrep/img/ZwVmxLGZQX0LtbDMJmv9PuezzXY=/fit-in/246x300/filters:strip_icc()/pic182825.jpg",
     tableData: [
       ['디자이너', 'Stefan Dorra'],
       ['개발사', 'F.X. Schmid'],
@@ -3114,12 +3097,12 @@ export const BOADRGAMEDATA = [
     id: 184,
     title: '장미전쟁',
     genre: 'civilization',
-    image: "https://ww.namu.la/s/b95a99796fecfb19a0d0a98bdea6349955feb3cca9381ce8af0cc7bdf97ecab86a2ceb03b03c2ee4d9bfdadab38c778dc1250e06fb13a02b3b8fa9165028a20a1af55fbe52a3b92234cb7e42e725f149d637ecfb44bc6dd86e1a891cc903bea4af7c0cdb12475c1d89c663a49376f751",
+    image: "https://cf.geekdo-images.com/vfFy_HLiBNLxptwxFDMmDg__itemrep/img/FMkDszZPNDb7aNdi5lgw194-OkI=/fit-in/246x300/filters:strip_icc()/pic2855891.jpg",
     tableData: [
       ['디자이너', 'Dirk Henn'],
       ['개발사', 'Kosmos'],
-      ['발매년', '1997'],
-      ['인원', '2 명'],
+      ['발매년', '1992'],
+      ['인원', '2~4 명'],
       ['플레이 시간', '30 분'],
       ['연령', '10세 이상'],
       ['장르', '추상'],
@@ -3131,7 +3114,7 @@ export const BOADRGAMEDATA = [
     id: 185,
     title: '카르카손',
     genre: 'civilization',
-    image: "https://w.namu.la/s/7d00d005c345ce6cc646dd597c7c19aa1e865156bed64bb91014a4f325243fa1325027252663cb563c7f1b422a8f7210314f0810643701c869e6dcb946a3920e4354474206fbaf1c8b9413c4a7f8ea56b5f9d7a5328cacf77352ef9823d8d9b0a36a40380bc80df373f3bbac068e394a",
+    image: "https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__itemrep/img/sT0kjr-Klona2rygvD8kURJgqdU=/fit-in/246x300/filters:strip_icc()/pic2337577.jpg",
     tableData: [
       ['디자이너', 'Klaus-Jürgen Wrede'],
       ['개발사', 'Hans im Glück Verlags-GmbH'],
@@ -3148,7 +3131,7 @@ export const BOADRGAMEDATA = [
     id: 186,
     title: '케일러스',
     genre: 'civilization',
-    image: "https://ww.namu.la/s/2ea38ef10d59ab8342cbbe3b2cb024f8e351b7f097fc4e1d454d26897ce09c87e881c362c05bb47eec2576222b04185b74a3b7587b39144f57b1ceed60301d1c8d633e3b72eb91ef42348f867c3c9025134c5d149f40f8cca5cdda64aee8e059f2b2f7db0871f9e9e7bf7a62d0d77093",
+    image: "https://cf.geekdo-images.com/yC7nOSc1x5PT-oNnh6TEcQ__itemrep/img/jVFZ85jsjJHQUXlImoDptZcENP8=/fit-in/246x300/filters:strip_icc()/pic1638795.jpg",
     tableData: [
       ['디자이너', 'William Attia'],
       ['개발사', 'Ystari Games'],
@@ -3165,7 +3148,7 @@ export const BOADRGAMEDATA = [
     id: 187,
     title: '킹덤 빌더',
     genre: 'civilization',
-    image: "https://w.namu.la/s/21af0f43b4f01f3e37dea50b8e36ab5fc555fe37510775f41fc30cbe0b4cca4f8786c4e174721ce76d3d4ce46537b21ac033246758583aa98e08902006992f612a0e7763013fbf2bc9df2b3f3b3e1f5b3fc9b7b8b6e8ce2adb9c822549a96b7279a2540e70a0c0bceab30bcfc0cbb894",
+    image: "https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__itemrep/img/ryZkPwqIt2kkAVb69yW9uXe6RlQ=/fit-in/246x300/filters:strip_icc()/pic1152359.jpg",
     tableData: [
       ['디자이너', 'Donald X. Vaccarino)'],
       ['개발사', 'Queen Games'],
@@ -3182,7 +3165,7 @@ export const BOADRGAMEDATA = [
     id: 188,
     title: '토레스',
     genre: 'civilization',
-    image: "https://w.namu.la/s/39b529cbff543eda5cf083b8e857c32a23ca4175761ede33b770562aa6b9d5af5429f6587063b66ece40eceb8d45a9e75d55a9f8ebb45941f878dd12ee32e58ed3000b755c3f3e8f535d4c7549c60b0fbcbfef5d1c29efcaa2ca4cc868182eec",
+    image: "https://cf.geekdo-images.com/517PEREXQ2MuE-9-_W1UFw__itemrep/img/E7XEuVrg3uP89q56EZD9tgyT09Q=/fit-in/246x300/filters:strip_icc()/pic156051.jpg",
     tableData: [
       ['디자이너', 'Wolfgang Kramer, Michael Kiesling'],
       ['개발사', 'HUCH! & friends'],
@@ -3199,7 +3182,7 @@ export const BOADRGAMEDATA = [
     id: 189,
     title: '티그리스와 유프라테스',
     genre: 'civilization',
-    image: "https://w.namu.la/s/414c70242b6c1a9839893df7d1d6a5acb5ac076f909116025db9773f019f7ce7f6beaf24f4ada46111cfb7e318f0203819358fbebc1628ff11d62e0641d0e08d293f116fa7ea4dc43b03453dafcf4c1715f5917627a6615be753d6d2a7bfbf0a",
+    image: "https://cf.geekdo-images.com/soAzNVWglCdVBacNjoCTJw__itemrep/img/y9QPelut6bx9GapoVqea8GqtKXQ=/fit-in/246x300/filters:strip_icc()/pic2338267.jpg",
     tableData: [
       ['디자이너', 'Reiner Knizia'],
       ['개발사', 'Euro Classics'],
@@ -3216,7 +3199,7 @@ export const BOADRGAMEDATA = [
     id: 190,
     title: '피렌체의 제후',
     genre: 'civilization',
-    image: "https://w.namu.la/s/59701b26d26675e542513f876e32da7858723072c699da5ebad20d21c2dfe43028a5e0ad1a4c36e2642af843e3bbd1fedfb360154ee0a3799a1624ca05fb7a41970069831f07f17b6d633833c10cea02cd999e74de26cc002f38e0020d8182c857cddfdf96960a54e9faaf624fed737e",
+    image: "https://cf.geekdo-images.com/yshiqrUPxndthguBgp3NKw__itemrep/img/KwS32GL61dQmjsYPkgdUGOY95B4=/fit-in/246x300/filters:strip_icc()/pic1306997.jpg",
     tableData: [
       ['디자이너', 'Wolfgang Kramer, Richard Ulrich, Jens Christoph Ulrich'],
       ['개발사', 'Rio Grande Games'],
@@ -3233,11 +3216,11 @@ export const BOADRGAMEDATA = [
     id: 191,
     title: '와이어트 어프',
     genre: 'western',
-    image: "https://ww.namu.la/s/44900eed85aece9711c14520e5f3e34ecbfbcf409b4956e6911a9d536b5abec2aac0cfd6d2ed3b3220c05dc6e32b3a01339c9f3f4f48944fcf534173736f462c0d4b61417530380883894718d2d90665b0a1dcc8edc970903f475153de56dfb1",
+    image: "https://cf.geekdo-images.com/-dMcNKE82PFSTnNOwNJd1g__itemrep/img/qEITcDjD9i22wi46Zbgb6axuS3U=/fit-in/246x300/filters:strip_icc()/pic2241574.jpg",
     tableData: [
       ['디자이너', 'Richard Borg, Mike Fitzgerald'],
       ['개발사', 'Ghenos Games, Maldito Games, Stonemaier Games'],
-      ['발매년', ''],
+      ['발매년', '2001'],
       ['인원', '2~4 명'],
       ['플레이 시간', '30~45 분'],
       ['연령', '10세 이상'],
@@ -3250,7 +3233,7 @@ export const BOADRGAMEDATA = [
     id: 192,
     title: '뱅',
     genre: 'western',
-    image: "https://w.namu.la/s/fc319a8ed76e94356e65af3389d389db90f2c39e98f36f7971810b20d268f0d25b8f91ecb5330e7a68d25476fdab40a0b718ce47c3ae38fb46d070f338a790eadc08bf8ee90e1b666c41976717d166ddb3700f1df8cd8a9517953eba9a4223435548b6d8d5f9121bca9058f4bb6988ea",  
+    image: "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__itemrep/img/odOgplfH-u2pzHgbhhDQF0aIsmA=/fit-in/246x300/filters:strip_icc()/pic1170986.jpg",  
     tableData: [
       ['디자이너', 'Emiliano Sciarra'],
       ['개발사', '디브이 기오치'],
@@ -3267,7 +3250,7 @@ export const BOADRGAMEDATA = [
     id: 193,
     title: '콜트 익스프레스',
     genre: 'western',
-    image: "https://ww.namu.la/s/8422be45a1b048a8ac9b1f4d675cb81c83fd154ec05627532d7c289286ed1afac4deebfb0879dcac5d727fe0c682b8e1228a9bee1486b7e508d86d6ae9642760e4f04b2cac6d52dea895d132b914699fb035c5c3fb3ea36c92f3b63aa824530280da3192985674bfdcac7dc879b040ba",
+    image: "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__itemrep/img/TvYm-n4tYlxtLfE2iU-aBDeRC5I=/fit-in/246x300/filters:strip_icc()/pic2869710.jpg",
     tableData: [
       ['디자이너', 'Christophe Raimbault'],
       ['개발사', 'Ludonaute'],
@@ -3284,7 +3267,7 @@ export const BOADRGAMEDATA = [
     id: 194,
     title: '카멜 업',
     genre: 'racing',
-    image: "https://w.namu.la/s/dff1c136c682b86466edb50ac6dff16aa14e8911c621ebf5339b645047d9422194c0725035b17a7f6d054e01c711509cd7b5d52ce03c060492574eeabab2be80d7b45c3ba69ecfb9db6af403aad83260681dcec955fbe1e13d3724ecd4c7ef3a00798f56f6d104dcf05c36090760b7d5",
+    image: "https://cf.geekdo-images.com/1ph2jVOD1MudR1fK1nkwwA__itemrep/img/x5pEGB463NY3DOzCUC7wfU0itrI=/fit-in/246x300/filters:strip_icc()/pic2031446.png",
     tableData: [
       ['디자이너', 'Steffen Bogen'],
       ['개발사', 'eggertspiele'],
@@ -3301,7 +3284,7 @@ export const BOADRGAMEDATA = [
     id: 195,
     title: '캔트 스탑',
     genre: 'racing',
-    image: "https://w.namu.la/s/14e67afc810e9a2319947735cbe519c6b3a6da4cc76fa8e0c88683a48e8e899a3c4946a513cd4c0aea19b0c4cbf82ec899064323da6d3dcf596bbf8251207f9734130953aceaca269067d70d0c446a505142ac7ee12b2272a21f5679903adf57ae3846c265cb4e911681200ea0353fe6",  
+    image: "https://cf.geekdo-images.com/JZpo3AnyFH4TqxKWFSFKGQ__itemrep/img/vMxp96HH6m6Tqo9mI-8xKnDfNiU=/fit-in/246x300/filters:strip_icc()/pic1046518.jpg",  
     tableData: [
       ['디자이너', 'Sid Sackson'],
       ['개발사', '시드 잭슨 게임즈'],
@@ -3318,7 +3301,7 @@ export const BOADRGAMEDATA = [
     id: 196,
     title: '토끼와 거북이',
     genre: 'racing',
-    image: "https://w.namu.la/s/bf4ba90b40ed7905e100ff98700efbcfe03254eaa1f2200bd26e450e1eac30314875cc054bc508155e78f8c42e820c24a9c4b2d81843eafa649ef0465ee6b5f70563c6f25b8a89847c263ab079247041563bb3a147b1bfd9ebebb9ca7d238f6a11be938fe472ad3142f012a0642cbed1",
+    image: "https://cf.geekdo-images.com/rX7uZ5UCbVV61tNCTnZTmg__itemrep/img/dB038UcJ8wSKv2LA1ku3ch3-VLE=/fit-in/246x300/filters:strip_icc()/pic275126.jpg",
     tableData: [
       ['디자이너', 'David Parlett'],
       ['개발사', 'Rio Grande Games'],
@@ -3335,14 +3318,14 @@ export const BOADRGAMEDATA = [
     id: 197,
     title: '포뮬러 D',
     genre: 'racing',
-    image: "https://ww.namu.la/s/2bf92323a73751ebc75e8d764057f3ba5277e1e26e803a1d7a49c06e37d626d778b97607c75b9d0d7e98654c6b91f696f6a4b611104b67a7de8ab1350fc3c5188cb1e5f34defcfa4a0e0f50663d58bfa7c1b9ae24faa6e9c9074a6eff351da4620f6985e163638c9d476a62d6e4a2470",
+    image: "https://cf.geekdo-images.com/ScuaQBHRYnsqrwSxSdEdIw__itemrep/img/M4VAiKG4O6gK3RnhznDm-ibIeaA=/fit-in/246x300/filters:strip_icc()/pic519914.jpg",
     tableData: [
       ['디자이너', 'Laurent Lavaur, Eric Randall'],
-      ['개발사', 'Ludodélire'],
-      ['발매년', '1991'],
+      ['개발사', 'Asmodee'],
+      ['발매년', '2008'],
       ['인원', '2~10 명'],
-      ['플레이 시간', '120 분'],
-      ['연령', '12세 이상'],
+      ['플레이 시간', '60 분'],
+      ['연령', '8세 이상'],
       ['장르', ''],
       ['테마', '레이싱, 스포츠'],
       ['시스템', '주사위 굴림 이동'],
@@ -3352,7 +3335,7 @@ export const BOADRGAMEDATA = [
     id: 198,
     title: '프레스코',
     genre: 'art',
-    image: "https://w.namu.la/s/d4020b28aeff37718b9093b2471466b7d80627aa1d199bf451dbe27347494182ec3ce168986a0301444fcb68f7d102ad2c094b1d0209dc6a7549cf6a82a78f26c739b663d0e8720549a276a465061a105670e8af264b83027bbf08f72b91383e",
+    image: "https://cf.geekdo-images.com/DCVRR-zA7Jy9wjuZudTZ8w__itemrep/img/sQyFmT1SVqOaw1MJZgRxKKQE_uE=/fit-in/246x300/filters:strip_icc()/pic714398.jpg",
     tableData: [
       ['디자이너', 'Marco Ruskowski, Marcel Süßelbeck, Wolfgang Panning'],
       ['개발사', 'Queen Games'],
@@ -3369,7 +3352,7 @@ export const BOADRGAMEDATA = [
     id: 199,
     title: '드본',
     genre: 'abstractstrategy',
-    image: "https://w.namu.la/s/7564cfbb7c35693683db9e1a63b0763315d5d17cae74e03a00eebd9696659eee32a19c039badb56af1176e0816d6c5676306547056d715d78eb040e26d3018110627e79807be237597069020dd64b92ed5463e7806c8adac21ee72f9f5796d53",
+    image: "https://cf.geekdo-images.com/A-6gi-KVQ4ShlhgXU3dRwg__itemrep/img/mMFDoSxZoevKUOWInbx6GCwSjys=/fit-in/246x300/filters:strip_icc()/pic3324136.jpg",
     tableData: [
       ['디자이너', 'Kris Burm'],
       ['개발사', 'GIPF Project'],
@@ -3386,14 +3369,14 @@ export const BOADRGAMEDATA = [
     id: 200,
     title: '렉시오',
     genre: 'abstractstrategy',
-    image: "http://img.wemep.co.kr/deal/8/008/1850088/4e21ac7d3d1da55a6b82f0b24f5026210a9b0157.jpg",
+    image: "https://cf.geekdo-images.com/b7kwY1aWpdYgMxzcY2GHLg__itemrep/img/tYmSFiEfMg1JHW1DFaTcXnVkFko=/fit-in/246x300/filters:strip_icc()/pic1539491.png",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Thomas H. Jung'],
+      ['개발사', 'Dagoy, UBO CnC'],
+      ['발매년', '2004'],
+      ['인원', '3~5 명'],
+      ['플레이 시간', '20 분'],
+      ['연령', '8세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -3403,14 +3386,14 @@ export const BOADRGAMEDATA = [
     id: 201,
     title: '오델로',
     genre: 'abstractstrategy',
-    image: "http://m.bbtoy.co.kr/web/product/big/201710/4847_shop1_519936.jpg",
+    image: "https://cf.geekdo-images.com/b0M435GTcUIJgcZ-vwDmCQ__itemrep/img/8w1ENzi1GEGPmPWmqwjG2ffNe6I=/fit-in/246x300/filters:strip_icc()/pic243834.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'John W. Mollett, Lewis Waterman'],
+      ['개발사', 'A/S Informa Forlag, ABRA'],
+      ['발매년', '1883'],
+      ['인원', '2 명'],
+      ['플레이 시간', '30분'],
+      ['연령', '8세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -3420,7 +3403,7 @@ export const BOADRGAMEDATA = [
     id: 202,
     title: '블로커스',
     genre: 'abstractstrategy',
-    image: "https://ww.namu.la/s/56d5482c369577f6605b4d43b96b39dde7ae139ddf983793961bc0348e71e3cd95e9e5e3c3c439ee7b0a2743210a15cdd52dacbb7c2c8afc7f3767f0942dc0cc25b228b3253566f28bf13e9702d2cd3549637f6a989729bb73ad07e7412e3809",
+    image: "https://cf.geekdo-images.com/96YA5wUJDxtPkmPxemr5Qg__itemrep/img/bAT-4VVj_PaCupAHL5nCjxhBqhM=/fit-in/246x300/filters:strip_icc()/pic2197702.jpg",
     tableData: [
       ['디자이너', 'Bernard Tavitian'],
       ['개발사', 'Sekkoia'],
@@ -3437,7 +3420,7 @@ export const BOADRGAMEDATA = [
     id: 203,
     title: '아발론',
     genre: 'abstractstrategy',
-    image: "https://ww.namu.la/s/31572251f771c9a67e7ca89a42573a8bbe76f183eba1275a9bd41287b2bdeb2559c7448064bf97a763e30b0352ee05100030b00686600dc2dd5ee731093a35084f67f1f83e60f9d40289683cef041d6125e6d4d34e84418dedc0932a113ea1b64d088b4732670a59c8ac59524752999f",
+    image: "https://cf.geekdo-images.com/UzH1jAlqYUH9VEq2Wtvzjw__itemrep/img/6-Y9M20VQ73LL_d8zG0PGz9_Rh0=/fit-in/246x300/filters:strip_icc()/pic5253079.jpg",
     tableData: [
       ['디자이너', 'Michel Lalet, Laurent Levi'],
       ['개발사', 'Abalone Games'],
@@ -3454,7 +3437,7 @@ export const BOADRGAMEDATA = [
     id: 204,
     title: '켈티스',
     genre: 'abstractstrategy',
-    image: "https://w.namu.la/s/b2b73ab74bdd3bc04cf186553c6d9843497b189ce02a256585e874c04c692ab2b6ec0fd00f9f1ecb92fffcd0e69f9fc5cfc3ce754ea37cd43a3c8a841bb165e556211a00aba7cba3504f89eeb1b862c8c52bc8b5569e13b6c97327b702f633236282e65a4b690fdd20c3f2b13b5603d1",
+    image: "https://cf.geekdo-images.com/GnKS0zE-EkuYfCrEUIlfzA__itemrep/img/DyayUfNRjWzAQWJYztn8FAL6H04=/fit-in/246x300/filters:strip_icc()/pic382457.jpg",
     tableData: [
       ['디자이너', 'Reiner Knizia'],
       ['개발사', 'KOSMOS'],
@@ -3471,7 +3454,7 @@ export const BOADRGAMEDATA = [
     id: 205,
     title: '쿼리도',
     genre: 'abstractstrategy',
-    image: "https://w.namu.la/s/4055b3421ac5e9cc6a7b87a87b7b5c7ac64303a00a77461e004ad1307b4139c098badbadedfa01fcf0102ff5555551fbd4e413e8cdc591f63991c236a5ac922d0f562643882267e27e8c2cd6c7edc78f5f5f75a27d7cabcdaba598f71fafff95",
+    image: "https://cf.geekdo-images.com/I1YNAhee09mryaqfEo8MwA__itemrep/img/9zmEmuXEhZhPTsRW47oDE8vMuAc=/fit-in/246x300/filters:strip_icc()/pic3488232.jpg",
     tableData: [
       ['디자이너', 'Mirko Marchesi'],
       ['개발사', 'Gigamic'],
@@ -3488,7 +3471,7 @@ export const BOADRGAMEDATA = [
     id: 206,
     title: '쿼클',
     genre: 'abstractstrategy',
-    image: "https://w.namu.la/s/b4a02416740df4c1e83cee9b5cda2776fa59498e80a2a59b4c06cea5aba170401287ec678ae69ebe658621bf8b1bdf293fe7e06965431ac0de963dc73b383afb39526ca6bcab907f753546524d4d5868f606c8936eb4ca0b0ac5749bd1c4017969de86fc8983a3d56379e53d2be5b5e1",
+    image: "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__itemrep/img/NT_ZcUmqsFuTFrGQbybvmPsl1dY=/fit-in/246x300/filters:strip_icc()/pic309353.jpg",
     tableData: [
       ['디자이너', 'Susan McKinley Ross'],
       ['개발사', 'MindWare'],
@@ -3505,7 +3488,7 @@ export const BOADRGAMEDATA = [
     id: 207,
     title: '펜타고',
     genre: 'abstractstrategy',
-    image: "https://w.namu.la/s/bbd6501ca5be60b7831245685020dce262499ef87ae98755feef9c3475dc2a0bf40558f18a8fead5d90e29226f7cde3165e8d8a6ff652b60d56dc7815082a3a45c86ea903174ad014b70bea5fd18d1fb7858fce860862afaff91027f9b6311c5",
+    image: "https://cf.geekdo-images.com/9KVNLxKZ6KG3neyUQ-aVAw__itemrep/img/JEF6dWGtTxGvV3mcerozqJsxNRM=/fit-in/246x300/filters:strip_icc()/pic917351.jpg",
     tableData: [
       ['디자이너', 'Tomas Flodén'],
       ['개발사', 'Mindtwister'],
@@ -3522,14 +3505,14 @@ export const BOADRGAMEDATA = [
     id: 208,
     title: '픽셀',
     genre: 'abstractstrategy',
-    image: "http://image.auction.co.kr/itemimage/1e/4f/55/1e4f5544a1.jpg",
+    image: "https://cf.geekdo-images.com/x0H1Ga9NQ0JSDQT8Jjy8EA__itemrep/img/GMMD7HkX7bi6Q9asAxU_MFwY3fA=/fit-in/246x300/filters:strip_icc()/pic590712.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Ariel Laden'],
+      ['개발사', 'Educa Korea, Educational Insights, Oya, Productief BV'],
+      ['발매년', '2007'],
+      ['인원', '2~4 명'],
+      ['플레이 시간', '30 분'],
+      ['연령', '7세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -3539,14 +3522,14 @@ export const BOADRGAMEDATA = [
     id: 209,
     title: '헥스',
     genre: 'abstractstrategy',
-    image: "http://image.kyobobook.co.kr/newimages/giftshop_new/goods/400/1241/A201508021420423852.jpg",
+    image: "https://cf.geekdo-images.com/ehz5m7YEfrNjgEHGb6w3PA__itemrep/img/33qfcDWNARI6Rfmmz1X-3j5XnqA=/fit-in/246x300/filters:strip_icc()/pic1374500.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Piet Hein, John Nash'],
+      ['개발사', ' 3M, ABRA, Four Generations'],
+      ['발매년', '1942'],
+      ['인원', '2 명'],
+      ['플레이 시간', '20 분'],
+      ['연령', '8세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -3556,7 +3539,7 @@ export const BOADRGAMEDATA = [
     id: 210,
     title: 'TREXO',
     genre: 'abstractstrategy',
-    image: "https://w.namu.la/s/b641fb8a48232682f07e4bccabe418270c505bc74a07425f3369af17466530b1644c9cb49305796758bfd1b0d8a7d552cc44a4d1e5368de6fd175247e98a0edfdac471a09028bc580ad872b5164923f2a98e906a944cf9b1424920bdb6539e5b",
+    image: "https://cf.geekdo-images.com/LXUZExXlx_cjFjTvpN12Kw__itemrep/img/3SMyCLvPW6iuBAxues3cfmuhIYM=/fit-in/246x300/filters:strip_icc()/pic3138475.jpg",
     tableData: [
       ['디자이너', 'Jan Åke Hansson'],
       ['개발사', 'förlAgo AB'],
@@ -3573,7 +3556,7 @@ export const BOADRGAMEDATA = [
     id: 211,
     title: '가이스터',
     genre: 'etc',
-    image: "https://ww.namu.la/s/2f38920929705678bcc7242780da08ab75571bcd1de8c743add333ae65bf95b57e557f6941dd8385547ccc6f49ad6ef4eda26364c36e32f182a2414594fe714467247b3ef7fbc8e4a584797a603fa6e691195bbad4f1241794284b843a03a4566d6fd84eaec51aab7d3ad0f4a90d5993",
+    image: "https://cf.geekdo-images.com/HP_ICbDPrcXf-3iKjZuwFg__itemrep/img/EHs9luPm1zFz4Lybmn2qsfzRVU8=/fit-in/246x300/filters:strip_icc()/pic5873500.png",
     tableData: [
       ['디자이너', 'Alex Randolph'],
       ['개발사', 'Drei Magier Spiele'],
@@ -3607,14 +3590,14 @@ export const BOADRGAMEDATA = [
     id: 213,
     title: '계급투쟁',
     genre: 'etc',
-    image: "",
+    image: "https://cf.geekdo-images.com/Vd9VjXKa55PpNeeICp5giA__itemrep/img/VB6IfIVJLsJWTvpL_z_QXyc-sPU=/fit-in/246x300/filters:strip_icc()/pic56251.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Bertell Ollman'],
+      ['개발사', 'The Avalon Hill Game Co, Class Struggle, Inc., Didacta, Metracon, Mondadori Giochi'],
+      ['발매년', '1978'],
+      ['인원', '2~6 명'],
+      ['플레이 시간', '90 분'],
+      ['연령', '12세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -3624,7 +3607,7 @@ export const BOADRGAMEDATA = [
     id: 214,
     title: '그랜드 슬램',
     genre: 'etc',
-    image: "https://ww.namu.la/s/b786dd782fbd46c72925b56ea088e86d38ac4a034df17ea26f0e67050cebc7cabd007ac3db54aff569b4e5aa30efe8a63634ffc28b5ab8e2fe01972fb62ca34445b5c07cac2f08788c918dd87cd83ecbd3f3cbb0879bb9a015579e2c73d5167fa8b5ef1a7c732b9dc91ed33450cb6d5c",
+    image: "https://cf.geekdo-images.com/A1jaJH5u91AMEFGxI6UNKQ__itemrep/img/XJVTTsPY2jvehhXhTQ0PJzhXwqc=/fit-in/246x300/filters:strip_icc()/pic2201896.jpg",
     tableData: [
       ['디자이너', 'Ariel Seoane'],
       ['개발사', '코리아보드게임즈'],
@@ -3638,27 +3621,10 @@ export const BOADRGAMEDATA = [
     ]
   },
   {
-    id: 215,
-    title: '배틀콘',
-    genre: 'etc',
-    image: "https://ww.namu.la/s/150259fa33e0bbe8b02c59de19e22b397c4af049a116a5b0037c4ae18f9f4200925afbd2f87da3928e2230f067e14dc9c60bc39b90379114fcdda03e6662bfccafc6dc9cffd84725172c261c246d45f4ab666dc0730f5ebe9bad921d2f775c3dbd205a4a0664c83a1a38c041cc0aaecb",
-    tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
-      ['장르', ''],
-      ['테마', ''],
-      ['시스템', ''],
-    ]
-  },
-  {
     id: 216,
     title: '다이아몬드',
     genre: 'etc',
-    image: "https://ww.namu.la/s/4594c20814c3a8185d284c3d40e4ac0e03d723b92fb85cb4fe2806a3a5aad745ee3ac5d71ff9cdce860c0637aff68982879c0408d50fc34b4180ac16b99fcc9ca6b287f88099acd6cad2c4c5455f74476851c34a7e71479ebe22a3dc364732920516e198efc5c9088f9edf6e3f60f0db",
+    image: "https://cf.geekdo-images.com/pjyf0CWeKd7gDhU6E9oR_Q__itemrep/img/KE4vK002o0S1pKFdoZYjbRZxfcE=/fit-in/246x300/filters:strip_icc()/pic210777.jpg",
     tableData: [
       ['디자이너', 'Bruno Faidutti, Alan R. Moon'],
       ['개발사', 'IELLO'],
@@ -3672,27 +3638,10 @@ export const BOADRGAMEDATA = [
     ]
   },
   {
-    id: 217,
-    title: '더 게임',
-    genre: 'etc',
-    image: "https://w.namu.la/s/67844f4e0f51f316d303709feac97b130569a8fa0c47c66704b1bb44d6a5cdb13b95a50503139af23a704ad2db48315e9b9898dcbe4e36809d187e6198604835565ab17c481143aa4aa1f36e85e109618ff64a2b75e85aa10461fc151b733b6c",
-    tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
-      ['장르', ''],
-      ['테마', ''],
-      ['시스템', ''],
-    ]
-  },
-  {
     id: 218,
     title: '도레미',
     genre: 'etc',
-    image: "https://w.namu.la/s/bc2c899c05b8da1eb13011449de834f297f859633bff7d3f525a4ae1668c40935f5ae6a68390c36e44cd73a9edd6f51a2303c5f655ad7edfb63987075259a1b1636dc2935b1403c47540f3f7d4d1fad8898ccd967c3fc8265c25f70b07dde67c16d6ffcaaa2dd15304435dfecbc05085",
+    image: "https://cf.geekdo-images.com/h4JbN-AV5QdwMTOoFk4aLQ__itemrep/img/_RXOYlx5EW9UCPejL4YtEIdtcLk=/fit-in/246x300/filters:strip_icc()/pic2291168.jpg",
     tableData: [
       ['디자이너', '송대은'],
       ['개발사', 'Deinko Games'],
@@ -3706,27 +3655,10 @@ export const BOADRGAMEDATA = [
     ]
   },
   {
-    id: 219,
-    title: '도미노',
-    genre: 'etc',
-    image: "",
-    tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
-      ['장르', ''],
-      ['테마', ''],
-      ['시스템', ''],
-    ]
-  },
-  {
     id: 220,
     title: '동방사쟁록',
     genre: 'etc',
-    image: "https://w.namu.la/s/6a189b4a3565f5a20a15722d2dca236e593156f17c32cac27a359207ea87b92a6c62c5ae19973d59ef594373ca78fa0dbd799e1fe7afa23d3017e57a09574530b61b70c892b91944661a7c5f4f81ef0717c8438a9f251142e163af2ec0bd1619",
+    image: "https://cf.geekdo-images.com/2GpJ8NGiyNLcDi_-XB75MA__itemrep/img/S2DEtb0mZh1kV0ovJoxd4mxKQ7A=/fit-in/246x300/filters:strip_icc()/pic969687.jpg",
     tableData: [
       ['디자이너', 'Donald X. Vaccarino'],
       ['개발사', 'Hobby Japan'],
@@ -3743,7 +3675,7 @@ export const BOADRGAMEDATA = [
     id: 221,
     title: '동물장기',
     genre: 'etc',
-    image: "https://ww.namu.la/s/2419b2417d68577360a1623e0734b10f17963d47c39808ceca41f154d8c2db8638352ae5dfe86ee7a202b3f182614b2240da2de4c076466cd09f54ffe42601e8d39dd8b6b8ffbd3b4e275f0422ed7a8b99b10cdfb397e2ec25f6ce642aa92b1a",
+    image: "https://cf.geekdo-images.com/f5OJxZqACne-dbLs0LJjRg__itemrep/img/GfyJGUPJYItCKOteT3QEMZ86fO0=/fit-in/246x300/filters:strip_icc()/pic567151.jpg",
     tableData: [
       ['디자이너', '키타오 마도카(北尾まどか)'],
       ['개발사', '일본프로여자쇼기협회(LPSA)'],
@@ -3760,7 +3692,7 @@ export const BOADRGAMEDATA = [
     id: 222,
     title: '라스베이거스',
     genre: 'etc',
-    image: "https://w.namu.la/s/3bedf6a61bcca151abe2f82951253c5a25d5772a462a276113daa3c00974adc63af6d29ae03555242676fb9cec2922eee5088c1f0b3ee9671f36c9d047306d385f905b1b00c4903fc9ab8d7a3979067ff541bb39b988ce653efb44bf59137d7a9cd7be45d885c893da22bda9f45fe64a",
+    image: "https://cf.geekdo-images.com/aQJ0HRKx2mobP0g3FCeR_Q__itemrep/img/9vJIc03rFs_bh6gBLHERw01s3Ds=/fit-in/246x300/filters:strip_icc()/pic1261796.jpg",
     tableData: [
       ['디자이너', 'Rüdiger Dorn'],
       ['개발사', 'alea'],
@@ -3777,7 +3709,7 @@ export const BOADRGAMEDATA = [
     id: 223,
     title: '로보 77',
     genre: 'etc',
-    image: "https://w.namu.la/s/32bcdd51170cd198a74629c8f156856f13961c555d2aefea060faff625ee95639e40856ac683a8b7317fe174a750d0912612cb3c7bfca9218b384420b8b1e793f7a4bb9669c9e886d7afebb722fc1a5b330e493bc4716e098eb1075446dd9b06",
+    image: "https://cf.geekdo-images.com/3BBUXNm-ft9dPlK2JNdrcQ__itemrep/img/KhqEMv82Eqd56_wzeRSSEdIarw8=/fit-in/246x300/filters:strip_icc()/pic3989549.png",
     tableData: [
       ['디자이너', 'Thomas Pauli'],
       ['개발사', 'AMIGO Spiel'],
@@ -3794,7 +3726,7 @@ export const BOADRGAMEDATA = [
     id: 224,
     title: '벌룬컵',
     genre: 'etc',
-    image: "https://ww.namu.la/s/151f62685fd690d1b30b39db33500e6787ab0489f8c70bfd3f58119d91fe832b1bb8264d224cd371fb56548b78cf3e4a983c82a50bd835dcbbe592b82f2c54d5f67c5fdc5fc86dd80299740194af78533f164d129c4b6ba0bd6e657f5975f9c14ea9142376d6f1340b6e1963a50dc943",
+    image: "https://cf.geekdo-images.com/YHPPsc22emFVr-eXHPd_BA__itemrep/img/J7O2pEy_ME-aC4hR4fO-q7DVOdg=/fit-in/246x300/filters:strip_icc()/pic63292.jpg",
     tableData: [
       ['디자이너', 'Stephen Glenn'],
       ['개발사', 'KOSMOS'],
@@ -3811,7 +3743,7 @@ export const BOADRGAMEDATA = [
     id: 225,
     title: '블러프',
     genre: 'etc',
-    image: "https://w.namu.la/s/193ce77926f58a5a7cbdf4b8d3005266ce7222c45215c4f58bc6815a8475db681b6d0855824c0f95dc656c4aad0686d57455e7302ef40883214bee2b5606602040adc10e95ec40cb26b83b8bec32f020a6113c2264dea7f6a9172ff8b588b1a171943c80ccc85409e892778b55688ce3",
+    image: "https://cf.geekdo-images.com/kdz6i8xM0VA_jka0PM5olA__itemrep/img/3w0pMnMTRbaVbXxdCVam-wTFoT0=/fit-in/246x300/filters:strip_icc()/pic3945944.jpg",
     tableData: [
       ['디자이너', 'Richard Borg'],
       ['개발사', 'Ravensburger'],
@@ -3828,7 +3760,7 @@ export const BOADRGAMEDATA = [
     id: 226,
     title: '빌라 팔레티',
     genre: 'etc',
-    image: "https://ww.namu.la/s/76f7f789f4c71b0b0e4f813fac519d8a0da6ef9daa56f1d902531fcb11e7ea3b78ab788cd2375ac88d6397cfeb4ac225deb2c6f77e83e84307b9ac91abdc84e0ebcfce9d2d1bd9ab202b70b100328b355ef83f9b0f959dbc1a3e19415e74e600",
+    image: "https://cf.geekdo-images.com/RIl9xfBG7mGFNhWVLCrTlA__itemrep/img/890KkC9o0VsXQa1pH2xNVt0z1hA=/fit-in/246x300/filters:strip_icc()/pic168173.jpg",
     tableData: [
       ['디자이너', 'Bill Payne'],
       ['개발사', 'Zoch Verlag'],
@@ -3845,7 +3777,7 @@ export const BOADRGAMEDATA = [
     id: 227,
     title: '사이쓰(Scythe)',
     genre: 'etc',
-    image: "https://w.namu.la/s/ab25516a14ab19bc67dc8b89d21f1b17c346275bfc06c4052bb273da5fb00bea92ec5a22ebcea89da8b6159b3fefa600a0f5960267faf61530b8f265c1d67d90f14cc8ee1904ca612e26f359361a3f788c01f086ff10e9266f895915a82897e7b72d9d3357fa81a81e27550d1fe365d8",
+    image: "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__itemrep/img/RVh5N-_HcMziJ3M6Q1eLTlj8XIQ=/fit-in/246x300/filters:strip_icc()/pic3163924.jpg",
     tableData: [
       ['디자이너', 'Jamey Stegmaier, Jakub Rozalski'],
       ['개발사', 'Stonemaier Games'],
@@ -3862,7 +3794,7 @@ export const BOADRGAMEDATA = [
     id: 228,
     title: '아임 더 보스',
     genre: 'etc',
-    image: "https://ww.namu.la/s/e43430c2f44ef06ccc07be39e6f9da81171dab6443dabd8c71fc23ec7640b752f2251f28c6f6c063f8bf634a3d569b450a3745296779c80b45c747bb9610378bd4dfd747c83c569ebb5bbe8db83b6bbd262f033c2dc735a7cc95ff3d80a39368",
+    image: "https://cf.geekdo-images.com/apSWtxrC9oG-rBSg0Gheag__itemrep/img/paa0CmGUyVN3Sto6A4VOttJbrw4=/fit-in/246x300/filters:strip_icc()/pic130807.jpg",
     tableData: [
       ['디자이너', 'Sid Sackson'],
       ['개발사', 'Schmidt Spiele'],
@@ -3879,7 +3811,7 @@ export const BOADRGAMEDATA = [
     id: 229,
     title: '야찌',
     genre: 'etc',
-    image: "https://ww.namu.la/s/42efc0dcd3adac0c4599c980f4d24160439c94dfc2a41a9678e568f64b67b6e54aa8b43d62132e008d0502e12a300ac3075d81a2bb18a7c398a266a4ba55b1081b6a34c36bb0081036a950d6666d8e17bde53f107ddb00489d3566727fbfd579",
+    image: "https://cf.geekdo-images.com/dp-pJkUemCjhrwi9QItrPA__itemrep/img/um-kb7NmyEy9YrdOT8aF62QW2TU=/fit-in/246x300/filters:strip_icc()/pic378237.jpg",
     tableData: [
       ['디자이너', 'Edwin S. Lowe'],
       ['개발사', 'Lowe Company'],
@@ -3896,7 +3828,7 @@ export const BOADRGAMEDATA = [
     id: 230,
     title: '옛날 옛적에',
     genre: 'etc',
-    image: "https://w.namu.la/s/37c496f775abb15a249d16b87a5e69607296f1de03a2288e5e33750a848ce5b76c83f76cadf5ad5fab9e90d95aa8368e48349fc36cc85f80b23019ada9fa3507e3c75c75d9eb2efe8797cbbac6da4a4d22233f6e9839b4c81887d8ca02d7a3c6f010a4f89f2e2387d5bb3c45022153e4",
+    image: "https://cf.geekdo-images.com/IHYBF2QWcZwlYfH4doj06Q__itemrep/img/gGuMcBjqTxmxGa9OI3T9U_69tWU=/fit-in/246x300/filters:strip_icc()/pic1494028.jpg",
     tableData: [
       ['디자이너', 'Richard Lambert, Andrew Rilstone, James Wallis'],
       ['개발사', 'Atlas Games'],
@@ -3913,7 +3845,7 @@ export const BOADRGAMEDATA = [
     id: 231,
     title: '우노',
     genre: 'etc',
-    image: "https://ww.namu.la/s/7636c7d647d8256d27fc6c2641024ba8be3173604736652188649bff5697f3ea3c944e5921804e0e5f34d7003de262849b20372203230e76c3f04c3ce5ef1a0518dd4596aa25dedc0282108e58a263562123ef1e80369e39288eef4ff69f864a",
+    image: "https://cf.geekdo-images.com/SU-OL7XWn7BOiSYevyTThw__itemrep/img/x8QFLzHoiduG0Egt5rtqdBeApTI=/fit-in/246x300/filters:strip_icc()/pic981505.jpg",
     tableData: [
       ['디자이너', 'Merle Robbins'],
       ['개발사', '마텔'],
@@ -3930,11 +3862,11 @@ export const BOADRGAMEDATA = [
     id: 232,
     title: '사이언시아',
     genre: 'etc',
-    image: "https://ww.namu.la/s/88649317607d92793c3f86ce8a3fab9cda0d0a68fd15cf81019479484d74ccdf66aa67284601b9369d163e8bb4884ea45d48cb81c9fe323cd0575617eee84787b83b20c32422c6dd4b2c94fec7d4d37a0377207b8bf0a690ce3c64f93698fb0bfe22d019397fb3fec807034ea475d564",
+    image: "https://cf.geekdo-images.com/tA2TzwvsJiT7TD5FgjCNPw__itemrep/img/udAt8_s9a1KW0dKxnXDoaOi5V28=/fit-in/246x300/filters:strip_icc()/pic4314574.png",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', '보드엠'],
-      ['발매년', ''],
+      ['디자이너', 'Evan Song'],
+      ['개발사', 'BoardM Factory'],
+      ['발매년', '2019'],
       ['인원', '2~4 명'],
       ['플레이 시간', '30 분'],
       ['연령', '13세 이상'],
@@ -3947,7 +3879,7 @@ export const BOADRGAMEDATA = [
     id: 233,
     title: '젝스님트',
     genre: 'etc',
-    image: "https://ww.namu.la/s/be5df23657a70c036ff16854676e07ed8e009e7e2d182ff62e3601ca4b522f5b275aa068d1fb6b0c6ae032edac91f9538dc84c721a26bb2216395a4e4f1d87988e7567c29d6e635d226b25fa34b7554a88bb9093edf8aecad4ef54377b4a5066e66b458df68557e0e47da62d76427ace",
+    image: "https://cf.geekdo-images.com/JFhLVSRFQ2mtWRNHgbZ3Wg__itemrep/img/3WuuxgYlgoEMP5-CUl6bakeKVts=/fit-in/246x300/filters:strip_icc()/pic2602138.jpg",
     tableData: [
       ['디자이너', 'Wolfgang Kramer'],
       ['개발사', 'AMIGO Spiel + Freizeit GmbH'],
@@ -3964,10 +3896,10 @@ export const BOADRGAMEDATA = [
     id: 234,
     title: '젠가',
     genre: 'etc',
-    image: "https://ww.namu.la/s/c5a25cdae17b95ae2f98f0f432bc38382ddd0266584d9892dfb379ae34da2d01a0b6c8f47ec05978f496825069f657f79686552cba67e65b18b05f6a6ef15136a0af1fb0dde5cb277586152f13fe8ec79959133f72b634175479efc743289dc1",
+    image: "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__itemrep/img/QKKA_oP2hMaXjTo2DpghOy4ylPw=/fit-in/246x300/filters:strip_icc()/pic5140451.jpg",
     tableData: [
       ['디자이너', 'Leslie Scott'],
-      ['개발사', ''],
+      ['개발사', 'Barnes & Noble, Borras Plana S.A., Brädspel.se'],
       ['발매년', '1983'],
       ['인원', '1~8 명'],
       ['플레이 시간', '20 분'],
@@ -3978,34 +3910,17 @@ export const BOADRGAMEDATA = [
     ]
   },
   {
-    id: 235,
-    title: '죨리게임 시리즈',
-    genre: 'etc',
-    image: "",
-    tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
-      ['장르', ''],
-      ['테마', ''],
-      ['시스템', ''],
-    ]
-  },
-  {
     id: 236,
     title: '참새작',
     genre: 'etc',
-    image: "http://boardlife.co.kr/data/boardgame_strategy_reg/2018/10/24/1540364880-614353.jpg",
+    image: "https://cf.geekdo-images.com/64XnEhoewbAiSxNCXgII9w__itemrep/img/woRYDCGcx76PXHbpvMc0ItLJ4i4=/fit-in/246x300/filters:strip_icc()/pic4591244.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Koji Malta, Takahiro Shinozaki'],
+      ['개발사', 'Sugorokuya'],
+      ['발매년', '2018'],
+      ['인원', '2~5 명'],
+      ['플레이 시간', '30 분'],
+      ['연령', '6세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -4015,14 +3930,14 @@ export const BOADRGAMEDATA = [
     id: 237,
     title: '코요테',
     genre: 'etc',
-    image: "http://boardlife.co.kr/wys2/swf_upload/2017/12/08/15126804271292.png",
+    image: "https://cf.geekdo-images.com/Snpz5Doc4fODNFI2L-WbkQ__itemrep/img/C-GDknXq_9FXaMyKeeB_f9Rvk18=/fit-in/246x300/filters:strip_icc()/pic33850.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Spartaco Albertarelli'],
+      ['개발사', 'AURUM, Inc.'],
+      ['발매년', '2003'],
+      ['인원', '3~6 명'],
+      ['플레이 시간', '20~30 분'],
+      ['연령', '10세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -4032,7 +3947,7 @@ export const BOADRGAMEDATA = [
     id: 238,
     title: '코코너츠',
     genre: 'etc',
-    image: "https://w.namu.la/s/b227d089edb691fd5ac6fa74f2482cfa948dad7cd9289e825b8e0cae8e5cbc77f0fc95e8bedc562cc030b143294baac727af481363a0f4e185d02888f3c13393d64b407a135fb877104631de68ca5d29627e109e68c9d28fc29e4a31e8452ed4ed6bdeca3ac9ae6447550cdd7c9574ef",
+    image: "https://cf.geekdo-images.com/sk1Bf6ijzmnhMuXOuLadNg__itemrep/img/MKJCY9y3feHRXv4Nt0y2JE-uqWY=/fit-in/246x300/filters:strip_icc()/pic5818708.jpg",
     tableData: [
       ['디자이너', 'Walter Schneider'],
       ['개발사', '코리아보드게임즈'],
@@ -4049,7 +3964,7 @@ export const BOADRGAMEDATA = [
     id: 239,
     title: '타임라인',
     genre: 'etc',
-    image: "https://w.namu.la/s/e0ab40d51b32f685e10876207f53706b16747c9eaca55c1f9583a695eb3b2dc452564e1b3c534bafb5948bb02010f2adefb7990af024005c46e077182c6ef3a0f3a493e0a4301a745d17e8ffb7c1e47d3d5ab7aa4b62cc171dcebc81db667224",
+    image: "https://cf.geekdo-images.com/Nz5xwdqSuxXvwmGYyOs7Vg__imagepage/img/kHBuHB65jnrcthyjZjU8z4uxewM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1387296.jpg",
     tableData: [
       ['디자이너', 'Frédéric Henry'],
       ['개발사', 'Asmodee'],
@@ -4066,7 +3981,7 @@ export const BOADRGAMEDATA = [
     id: 240,
     title: '탄토 쿠오레',
     genre: 'etc',
-    image: "https://w.namu.la/s/a6a76f07062db7f923b999467df3925a4175011ad3bcd5661665e5e5ce2326d5c77384be1cd371727f1dc6bdcd40c892fc643092163b3086ec92b7e7751fa1733066bb4a9a941d22d4a35859b8a80e91a3dcecb6873002264b199642df5337ec",
+    image: "https://cf.geekdo-images.com/k6I3xK6AEB-crMT7xU7hrQ__itemrep/img/pnMmYYAh2ZG1xzdio-mlbxdmJW8=/fit-in/246x300/filters:strip_icc()/pic1751753.jpg",
     tableData: [
       ['디자이너', '工藤雅之 (Masayuki Kudou)'],
       ['개발사', 'Arclight'],
@@ -4083,7 +3998,7 @@ export const BOADRGAMEDATA = [
     id: 241,
     title: '텔레스트레이션',
     genre: 'etc',
-    image: "https://www.koreaboardgames.com/upload/uploaded/prd/390701473311086.jpg",
+    image: "https://cf.geekdo-images.com/oc3u6OQpJkf9TvDw4iI9xA__itemrep/img/f-hzQAafIdz-Po3uC_U4hZp-RnY=/fit-in/246x300/filters:strip_icc()/pic4991936.jpg",
     tableData: [
       ['디자이너', ''],
       ['개발사', 'USAopoly'],
@@ -4097,27 +4012,10 @@ export const BOADRGAMEDATA = [
     ]
   },
   {
-    id: 242,
-    title: '투어코리아 도깨비 추격대!',
-    genre: 'etc',
-    image: "https://ww.namu.la/s/4d9f51f868e21d4ab16f906a401feae1224334d1ec2b53bedfacbccca472b6b5c390966de342651767642854bba31c39a0f204ba47c44eae8bd2d36d5910ca90229e516a24bcd76e0628ab906016f46b53514c637ebbbbb3e1d6ec01359b314e006e4f87bae61b9964e82d2a30288fbc",
-    tableData: [
-      ['디자이너', 'Kevin Kim'],
-      ['개발사', '코리아보드게임즈'],
-      ['발매년', '2011'],
-      ['인원', '2~4 명'],
-      ['플레이 시간', '30~60 분'],
-      ['연령', '7세 이상'],
-      ['장르', '가족 게임, 어린이 게임'],
-      ['테마', '여행'],
-      ['시스템', '룰렛 돌림 이동'],
-    ]
-  },
-  {
     id: 243,
     title: '트위스터',
     genre: 'etc',
-    image: "https://ww.namu.la/s/6b1b3588338ec16d7936aae841beb31029039b4b095320a1c3e5181b5b97b247bf661990d3cf1239fa294be6e2847d38831649dccf415b845642e6885ed455245a4d662eca56ccd3c8edc5072673bc2fd002336699fac02fffa00a1bd5cbc0c1",
+    image: "https://cf.geekdo-images.com/1ltUc6EUUAVF5ewlRy4hSA__itemrep/img/0ltihkgZpGfXINqIbRn3R1V9QZY=/fit-in/246x300/filters:strip_icc()/pic196428.jpg",
     tableData: [
       ['디자이너', 'Chuck Foley, Reyn Guyer, Neil W. Rabens'],
       ['개발사', 'Arrow Games Ltd'],
@@ -4134,7 +4032,7 @@ export const BOADRGAMEDATA = [
     id: 244,
     title: '티츄',
     genre: 'etc',
-    image: "https://ww.namu.la/s/61c22b0044a1b213b92554bd2ed9bb7994706308600f3dc520e7ea56ec9c9a4fdc46433a7f6975c6a16300903bfa9c415d2f28db8aef5e005eb473ccd264459488a06113f6bf6344ece9f434e5d766e3f9d5abc5d5df9483cc5f07112ab442c9",
+    image: "https://cf.geekdo-images.com/gz8_8iYP2SSGVAxpp7CwLg__itemrep/img/lnzwJvF8Ez8vuV_QBKXuvqiWcK8=/fit-in/246x300/filters:strip_icc()/pic5854968.png",
     tableData: [
       ['디자이너', 'Urs Hostettler'],
       ['개발사', 'Fata Morgana Spiele'],
@@ -4151,14 +4049,14 @@ export const BOADRGAMEDATA = [
     id: 245,
     title: '팬데믹',
     genre: 'etc',
-    image: "http://image.yes24.com/goods/67447225/800x0",
+    image: "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep/img/wAMLbgihOl7dJDHnvqt7OXKEV-4=/fit-in/246x300/filters:strip_icc()/pic1534148.jpg",
     tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
+      ['디자이너', 'Matt Leacock'],
+      ['개발사', 'Z-Man Games, Inc.'],
+      ['발매년', '2008'],
+      ['인원', '2~4 명'],
+      ['플레이 시간', '45 분'],
+      ['연령', '8세 이상'],
       ['장르', ''],
       ['테마', ''],
       ['시스템', ''],
@@ -4168,7 +4066,7 @@ export const BOADRGAMEDATA = [
     id: 246,
     title: '피트',
     genre: 'etc',
-    image: "https://ww.namu.la/s/714a2dc66f263ffba21efeb3fa696af89daf50cc58097b6219744b281829a9fa32c4fc81b0966c7e64f67123039cd4d5fa3663944f9205f1385dedd9b7f1ef1de72aefe2979a287c012b2ddac074d0fa7a56fc52caba1cfc17b9ca8bd816b0cb",
+    image: "https://cf.geekdo-images.com/LkEPNu7bPTS1rVRU_Ba-Dg__itemrep/img/Btm5OS2x5mfCwL2o_2nsqn5ZCwE=/fit-in/246x300/filters:strip_icc()/pic423644.jpg",
     tableData: [
       ['디자이너', 'Edgar Cayce, Harry Gavitt, George S. Parker'],
       ['개발사', 'Parker Brothers'],
@@ -4185,7 +4083,7 @@ export const BOADRGAMEDATA = [
     id: 247,
     title: '할리갈리',
     genre: 'etc',
-    image: "https://ww.namu.la/s/0ee5d10e2b4651d1fe505d6f6ede0c64c365a6e1551f010f7c273f5f19265ebf9800f8e58c3d8da541a5c4c7705f2dc0e081c37af323dda4867f3b1be1e00d1935dab8fc3a36a4583153e50b95b37b63083d0ccbf8daff5be33da13fd395089b",
+    image: "https://cf.geekdo-images.com/kxYYgRlwM1NbHJHp62FLqg__itemrep/img/3FWBsUJVtQpFjtc_XanNbQPBZGQ=/fit-in/246x300/filters:strip_icc()/pic458934.jpg",
     tableData: [
       ['디자이너', 'Haim Shafir'],
       ['개발사', 'AMIGO Spiel'],
@@ -4200,26 +4098,9 @@ export const BOADRGAMEDATA = [
   },
   {
     id: 248,
-    title: '해피타임',
-    genre: 'etc',
-    image: "https://w.namu.la/s/e2d2973218a8b6d7a91ce7ad6bde46932de0e028c910ea77a7fa35fc1edd219d2decc0da27e47e957994ec2d4e107ee23556b6f0d8cbe424f8e83576efe42eff4ff8aa9abb9ae57055d917ed621d4fd3fb2d3403091e1f26044f7aaa026a9dc9",
-    tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
-      ['장르', ''],
-      ['테마', ''],
-      ['시스템', ''],
-    ]
-  },
-  {
-    id: 249,
     title: '504',
     genre: 'etc',
-    image: "https://ww.namu.la/s/a6624e18f1b81b023b653d17c8b77af30eb453a389aa599fec052aef5db43473531043ddf9cc9b39db3276d76cac4ee70b4779ac6cdd4c4ab48597d91ea34a0b0e7cf1fb620e10be8180dba58b2fde6df86c321a51cd24a9c0d83bb4a457f0268163a2a699f22e00765e042051f886ff",
+    image: "https://cf.geekdo-images.com/P2-jw7YCLqx1gqE-9Wprlw__itemrep/img/kP237KXqALuwLq8tNNPgUdcF7lY=/fit-in/246x300/filters:strip_icc()/pic2570515.jpg",
     tableData: [
       ['디자이너', '프리드만 프리제'],
       ['개발사', '2F-Spiele'],
@@ -4230,23 +4111,6 @@ export const BOADRGAMEDATA = [
       ['장르', '전략'],
       ['테마', '동물, 도시 건설, 경제, 탐험, 농사, 산업화, 여행, 경주, 영역 건설, 교통'],
       ['시스템', '지역 영향력 및 확장, 지역 봉쇄, 지역 이동, 경매, 상품 투기, 길 놓기, 주사위 굴림, 격자칸 이동, 물건 이동, 헥사맵 영향력, 조립식 보드, 주식, 포인트간 이동, 셋 콜렉션, 타일 놓기, 다이렉트 공격, 다양한 플레이어 능력'],
-    ]
-  },
-  {
-    id: 250,
-    title: '파이럿 큐브',
-    genre: 'etc',
-    image: "",
-    tableData: [
-      ['디자이너', ''],
-      ['개발사', ''],
-      ['발매년', ''],
-      ['인원', ''],
-      ['플레이 시간', ''],
-      ['연령', ''],
-      ['장르', ''],
-      ['테마', ''],
-      ['시스템', ''],
     ]
   },
 ]
