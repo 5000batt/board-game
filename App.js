@@ -9,8 +9,8 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import Search from './components/Search';
-import List_genre from './components/List_genre';
-import List_boardgame from './components/List_boardgame';
+import List_genre from './components/List_genreContainer';
+import List_boardgame from './components/List_boardgameContainer';
 import Likes from './components/Likes';
 import Details from './components/Details';
 

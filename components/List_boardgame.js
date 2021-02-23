@@ -25,18 +25,19 @@ const styles = StyleSheet.create({
   },
 });
 
-const List = ({ route, navigation }) => {
+const List = ({ route, navigation, boardgame }) => {
 
-  // console.log("--List_boardgame");
-  // console.log(route.params);
 
   const { genre } = route.params;
+  // console.log("--genre");
   // console.log(genre);
 
-  let list = BOADRGAMEDATA;
+  const list = boardgame;
+  // console.log("--list");
   // console.log(list);
 
   const items = list.filter(item => item.genre == genre);
+  // console.log("--items")
   // console.log(items)
 
   return (

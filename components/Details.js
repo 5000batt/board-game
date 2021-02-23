@@ -1,5 +1,5 @@
-import React from 'react';
-import { StyleSheet, View } from 'react-native';
+import React, { useCallback, useEffect, useState } from 'react';
+import { StyleSheet, View, ProgressBarAndroid } from 'react-native';
 import { Table, Rows } from 'react-native-table-component';
 import { Card, Button, Icon } from 'react-native-elements';
 import { useDispatch, useSelector } from 'react-redux';
@@ -7,7 +7,9 @@ import { addAction } from '../redux/actions';
 import { removeAction } from '../redux/actions';
 import { ScrollView } from 'react-native-gesture-handler';
 
-import { BOADRGAMEDATA } from '../shared/list_boardgame';
+import api from '../api/list'
+
+// import { BOADRGAMEDATA } from '../shared/list_boardgame';
 
 const Details = ({ route }) => {
 
@@ -19,13 +21,9 @@ const Details = ({ route }) => {
   const { title } = route.params;
   
   // console.log(id);
-  // console.log(genre);
   // console.log(title);
-
-  let list = BOADRGAMEDATA;
-
-  const items = list.filter(item => item.id == id)[0];
-  // console.log(items.id);
+  const [item, setItem] = useState(null);
+  console.log(item);
 
   const dispatch = useDispatch();
 
@@ -33,7 +31,7 @@ const Details = ({ route }) => {
   // console.log("--actions--");
   // console.log(actions);
 
-  const isExistedAction = actions.filter(item => item.id == items.id && item.genre == items.genre).length > 0 ? true : false;
+  const isExistedAction = actions.filter(item => item.id == id).length > 0 ? true : false;
   // console.log("--isExistedAction--");
   // console.log(isExistedAction);
 
@@ -43,6 +41,17 @@ const Details = ({ route }) => {
     text: { margin: 6 }
   })
 
+  const getDetails = useCallback(async () => {
+    const result = await api.get(id);
+    // console.log("--Details result.data")
+    // console.log(result.data);
+    setItem(result.data);
+  }, [])
+
+  useEffect(() => {
+    getDetails();
+  }, []);
+
   return (
     <ScrollView>
       <View
@@ -51,6 +60,8 @@ const Details = ({ route }) => {
           justifyContent: "center",
           alignItems: "center"
         }}>
+        { !item && <ProgressBarAndroid /> }  
+        { item && 
         <Card
           containerStyle={{width:'100%'}}
         >
@@ -64,25 +75,26 @@ const Details = ({ route }) => {
               />
               :
               <Button
-                onPress={()=>{dispatch(addAction(items))}}
+                onPress={()=>{dispatch(addAction(item))}}
                 icon={<Icon name='heart-outline' type='ionicon' color='#ffffff' />}
                 buttonStyle={{borderRadius: 0, marginLeft: 0, marginRight: 0, marginBottom: 0, backgroundColor:"#CCCCFF"}}
               />
           }
           <Card.Divider/>
           <Card.Image 
-            source={{uri: items.image}} 
+            source={{uri: item.image}} 
             style={{height:500, width: '100%'}}
           />
           <Card.Divider/>
           <View style={StyleSheet.container}>
             <Table borderStyle={{borderWidth: 2, borderColor: '#CCCCFF'}}>
-              <Rows data={items.tableData} textStyle={styles.text} />
+              <Rows data={item.tableData} textStyle={styles.text} />
             </Table>
           </View>
           <Card.Divider/>
           
         </Card>
+        }
       </View>
     </ScrollView>
   )

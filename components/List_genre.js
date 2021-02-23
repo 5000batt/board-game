@@ -2,9 +2,9 @@ import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
 import { FlatGrid } from 'react-native-super-grid';
 
-import { GENREDATA } from '../shared/list_genre';
-
 import { Card } from 'react-native-elements';
+
+// import { GENREDATA } from '../shared/list_genre';
 
 const styles = StyleSheet.create({
   gridView: {
@@ -25,12 +25,15 @@ const styles = StyleSheet.create({
   },
 });
 
-const List = ({ navigation }) => {
+const List_genre = ({ navigation, genre }) => {
   
+  // console.log("---");
+  // console.log(genre);
+
   return (
     <FlatGrid
       itemDimension={130}
-      data={GENREDATA}
+      data={genre}
       style={styles.gridView}
       spacing={10}
       renderItem={({ item }) => (
@@ -45,4 +48,4 @@ const List = ({ navigation }) => {
     />
   );
 }
-export default List;
+export default List_genre;

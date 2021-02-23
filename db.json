@@ -1,0 +1,4210 @@
+{
+  "genre": [
+    {
+      "id": 1,
+      "title": "전쟁/전투",
+      "genre": "battle",
+      "image": "https://lh3.googleusercontent.com/-mYMnn4Sp0yo/XBzRxjLz2eI/AAAAAAAHKOA/XFyNJGzw-SsQ9d8IqUcs0EBhNOmRb2QBgCHMYCw/s0/5f5faac52cd6589460bf912e2bca38a225dde2c1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "판타지/호러",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/6pidElOs2dZ-VomYCBrpmg__imagepage/img/7SWLnfqEGG1Ukw56HwBL6h3qpFA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1595321.jpg"
+    },
+    {
+      "id": 3,
+      "title": "SF",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__itemrep/img/DBzrnh_ZSypfwdfZXVOvCGBf1ig=/fit-in/246x300/filters:strip_icc()/pic5261714.jpg"
+    },
+    {
+      "id": 4,
+      "title": "만화",
+      "genre": "cartoon",
+      "image": "https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__itemrep/img/UnyZksyoMMyDktHj5nWWKh-N4Qc=/fit-in/246x300/filters:strip_icc()/pic1430769.jpg"
+    },
+    {
+      "id": 5,
+      "title": "탐험/모험",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__itemrep/img/tF5lpPY_XFdmd6znFn1GmuUgObs=/fit-in/246x300/filters:strip_icc()/pic4597095.jpg"
+    },
+    {
+      "id": 6,
+      "title": "정치",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/p-k_CqUvJzTcMMz4ms7f_Q__itemrep/img/E3Vpa_gyxiffeqhbe6xHSzoqWAI=/fit-in/246x300/filters:strip_icc()/pic3499166.jpg"
+    },
+    {
+      "id": 7,
+      "title": "경제/경영",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__itemrep/img/gSigdzXaUWvudQ0vJjSbs-mXaRk=/fit-in/246x300/filters:strip_icc()/pic5100947.jpg"
+    },
+    {
+      "id": 8,
+      "title": "퍼즐",
+      "genre": "puzzle",
+      "image": "https://cf.geekdo-images.com/R1BmYXFbv-7UyNWQEb6PUg__itemrep/img/KncWyi4BmFW_VdQShZFufhD6TXQ=/fit-in/246x300/filters:strip_icc()/pic2773940.jpg"
+    },
+    {
+      "id": 9,
+      "title": "추리",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/CDdF4xOQJsNK0gX8-tBdCQ__itemrep/img/_YdCCKiPRSPuqsUh8Bt2qYfNTO8=/fit-in/246x300/filters:strip_icc()/pic3066125.jpg"
+    },
+    {
+      "id": 10,
+      "title": "문명/중세",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__itemrep/img/yTcqoZKFqXfzC7zcRQrtIaAIwZI=/fit-in/246x300/filters:strip_icc()/pic798666.jpg"
+    },
+    {
+      "id": 11,
+      "title": "서부시대",
+      "genre": "western",
+      "image": "https://cf.geekdo-images.com/-dMcNKE82PFSTnNOwNJd1g__itemrep/img/qEITcDjD9i22wi46Zbgb6axuS3U=/fit-in/246x300/filters:strip_icc()/pic2241574.jpg"
+    },
+    {
+      "id": 12,
+      "title": "레이싱",
+      "genre": "racing",
+      "image": "https://cf.geekdo-images.com/ScuaQBHRYnsqrwSxSdEdIw__itemrep/img/M4VAiKG4O6gK3RnhznDm-ibIeaA=/fit-in/246x300/filters:strip_icc()/pic519914.jpg"
+    },
+    {
+      "id": 13,
+      "title": "음악/미술",
+      "genre": "art",
+      "image": "https://cf.geekdo-images.com/DCVRR-zA7Jy9wjuZudTZ8w__itemrep/img/sQyFmT1SVqOaw1MJZgRxKKQE_uE=/fit-in/246x300/filters:strip_icc()/pic714398.jpg"
+    },
+    {
+      "id": 14,
+      "title": "추상전략게임",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/b0M435GTcUIJgcZ-vwDmCQ__itemrep/img/8w1ENzi1GEGPmPWmqwjG2ffNe6I=/fit-in/246x300/filters:strip_icc()/pic243834.jpg"
+    },
+    {
+      "id": 15,
+      "title": "기타",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/IHYBF2QWcZwlYfH4doj06Q__itemrep/img/gGuMcBjqTxmxGa9OI3T9U_69tWU=/fit-in/246x300/filters:strip_icc()/pic1494028.jpg"
+    }
+  ],
+  "boardgame": [
+    {
+      "id": 1,
+      "title": "강철의 늑대들",
+      "genre": "battle",
+      "image": "https://lh3.googleusercontent.com/-mYMnn4Sp0yo/XBzRxjLz2eI/AAAAAAAHKOA/XFyNJGzw-SsQ9d8IqUcs0EBhNOmRb2QBgCHMYCw/s0/5f5faac52cd6589460bf912e2bca38a225dde2c1.jpg",
+      "tableData": [
+          ["디자이너", "Stephen C. Jackson, Brien J. Miller"],
+          ["개발사", "Compass Games"],
+          ["발매년", "2010"],
+          ["인원", "1 명"],
+          ["플레이 시간", "3000 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "항해, 워게임, 2차 대전"],
+          ["시스템", "지역 분쟁, 치트 뽑기, 주사위 굴림, 포인트간 이동, 유닛 정보 숨김, 시뮬레이션"]
+      ]
+    },
+    {
+      "id": 2,
+      "title": "군인장기",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/c1IradhSWO0-mLYET_L0QA__itemrep/img/E0fT1aYLtQPoGt_mWEtIPtyZHSs=/fit-in/246x300/filters:strip_icc()/pic864077.jpg",  
+      "tableData": [
+          ["디자이너", "니시구치 에이스케"],
+          ["개발사", "퍼블릭 도메인"],
+          ["발매년", "1910"],
+          ["인원", "2~3 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "10세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상전략"],
+          ["시스템", "포인트간 이동, 유닛정보 숨김"]
+      ]
+    },
+    {
+      "id": 3,
+      "title": "눈 덮힌 좁은 땅(A Few Acres of Snow)",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/JcrBT921aDP9XTdDyKM_8g__itemrep/img/rJ7FOxHlADZHFjnRob7P1gTmH1E=/fit-in/246x300/filters:strip_icc()/pic905905.jpg",
+      "tableData": [
+          ["디자이너", "Martin Wallace"],
+          ["개발사", "Treefrog Games"],
+          ["발매년", "2011"],
+          ["인원", "2 명"],
+          ["플레이 시간", "60~120 분"],
+          ["연령", "14세 이상"],
+          ["장르", "전략게임, 워게임"],
+          ["테마", "합리주의 시대, 프렌치 인디언 전쟁, 카드게임, 영역 건설, 워게임"],
+          ["시스템", "지역 영향력 및 확장, 카드 드래프트, 덱 빌딩, 핸드 관리, 포인트 간 이동"]
+      ]
+    },
+    {
+      "id": 4,
+      "title": "디플로메시",
+      "genre": "battle",
+      "image": "https://lh3.googleusercontent.com/-tLslMJeIT9I/XAOPgIBSGiI/AAAAAAAGnzc/OuO0bxjp0bMbHKEhoi83vCVig_eSJOkFwCHMYCw/s0/0688557795ea971d680a8074a357f78b0abfad02.jpg",
+      "tableData": [
+          ["디자이너", "Allan B. Calhamer"],
+          ["개발사", "아발론 힐"],
+          ["발매년", "1959"],
+          ["인원", "2~7 명"],
+          ["플레이 시간", "360 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "협상, 정치, 빈 체제, 워게임"],
+          ["시스템", "지역 영향력 및 확장, 지역 이동, 플레이어 탈락, 동시액션선택]"]
+      ]
+    },
+    {
+      "id": 5,
+      "title": "리스크",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__itemrep/img/9F-zB7QO9QubnP8-64HnA60AbB8=/fit-in/246x300/filters:strip_icc()/pic4916782.jpg",
+      "tableData": [
+          ["디자이너", "Albert Lamorisse Michael I. Levin"],
+          ["개발사", "Parker Brothers"],
+          ["발매년", "1959"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족게임, 워게임"],
+          ["테마", "협상, 영역 건설, 워게임"],
+          ["시스템", "지역 영향력 및 확장, 지역 이동, 주사위 굴림, 연합, 플레이어 탈락, 셋 콜렉션]"]
+      ]
+    },
+    {
+      "id": 6,
+      "title": "루트",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep/img/sQgkl-_hydBVvQHAMLt2Zk_3dwI=/fit-in/246x300/filters:strip_icc()/pic4254509.jpg",
+      "tableData": [
+          ["디자이너", "Cole Wehrle"],
+          ["개발사", "Leder games"],
+          ["발매년", "2018"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "90~120 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략"],
+          ["테마", "동물, 판타지"],
+          ["시스템", "주사위 굴림, 지역 통제 및 영향력, 지역 이동, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 7,
+      "title": "매누버",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/pqjIbe4kdIy4jbAzcbTX8A__itemrep/img/9MPs3SUUkb1QDdY87jO9Y9eVWRs=/fit-in/246x300/filters:strip_icc()/pic309433.jpg",
+      "tableData": [
+          ["디자이너", "Jeff Horger"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2008"],
+          ["인원", "2 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "워게임"],
+          ["테마", "나폴레옹 전쟁, 워게임"],
+          ["시스템", "카드운용 전투, 주사위 굴림, 격자칸 이동, 핸드 관리, 조립형 보드, 다양한 플레이어 능력"]
+      ]
+    },
+    {
+      "id": 8,
+      "title": "메모아 44",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/chfLNSL0l7afCA5go9pAtA__itemrep/img/--2Q8-fe8yqY54fGnubDdGgkW-g=/fit-in/246x300/filters:strip_icc()/pic43663.jpg",
+      "tableData": [
+          ["디자이너", "리처드 보그"],
+          ["개발사", "Days of Wonder"],
+          ["발매년", "2004"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30~60 분"],
+          ["연령", "8세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 제2차 세계대전"],
+          ["시스템", "지역 영향력 및 확장, 카드 운용 전투, 주사위 굴림, 격자칸 이동, 핸드 관리, 조립형 보드, 시뮬레이션"]
+      ]
+    },
+    {
+      "id": 9,
+      "title": "메크 대 미니언",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__itemrep/img/httjWYSnwrB_d1pPomIftQATHMc=/fit-in/246x300/filters:strip_icc()/pic3184103.jpg",
+      "tableData": [
+          ["디자이너", "Chris Cantrell, Rick Ernst, Stone Librande, Prashant Saraswat, Nathan Tiras"],
+          ["개발사", "Riot Games"],
+          ["발매년", "2016"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "60~90 분"],
+          ["연령", "14세 이상"],
+          ["장르", "전략, 테마게임"],
+          ["테마", "판타지, 전투, 미니어쳐, 비디오게임 테마"],
+          ["시스템", "행동 및 이동 예약, 카드 드래프트, 주사위 굴림, 협력게임, 조립형 보드, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 10,
+      "title": "바르바로사: 키예프 에서 로스토프로, 1941",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/pE6OL_PasiltqUisDnub-w__itemrep/img/HX2xMn9EOS_5nTTFG_QJaoThq1A=/fit-in/246x300/filters:strip_icc()/pic1156752.jpg",
+      "tableData": [
+          ["디자이너", "Tony Curtis Vance von Borries"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2008"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "240 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 제2차 세계대전"],
+          ["시스템", "주사위 굴림, 헥사맵 영향력, 시뮬레이션"]
+      ]
+    },
+    {
+      "id": 11,
+      "title": "반지의 제왕: 대결",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/y9fm5_x9oJ4nM-W-9WdKig__itemrep/img/lKxrY6A159dg757UyhQHgXIzAGM=/fit-in/246x300/filters:strip_icc()/pic5510866.png",
+      "tableData": [
+          ["디자이너", "Reiner Knizia"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2002"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "소설 기반, 영화 기반, 모험, 협잡, 추리, 판타지"],
+          ["시스템", "지역 이동, 핸드 관리, 유닛정보 숨김, 동시 액션 선택, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 12,
+      "title": "배틀 크라이",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/TCgIFgzl_kVUJuhfZuMxgg__itemrep/img/RgE70mwLZLEzTgoFZNBHd4LmMJA=/fit-in/246x300/filters:strip_icc()/pic21060.jpg",
+      "tableData": [
+          ["디자이너", "Richard Borg"],
+          ["개발사", "아발론 힐"],
+          ["발매년", "2000"],
+          ["인원", "2 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "10세 이상"],
+          ["장르", "워게임"],
+          ["테마", "남북전쟁, 워게임"],
+          ["시스템", "주사위 굴림, 핸드 관리, 조립형 보드"]
+      ]
+    },
+    {
+      "id": 13,
+      "title": "스코틀랜드의 망치 (해머오브스콧)",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/o_A6wRI02aiADxlP0WDEZQ__itemrep/img/plMbOZ8O6bTqZlFRJC-Xcp449PM=/fit-in/246x300/filters:strip_icc()/pic623710.jpg",
+      "tableData": [
+          ["디자이너", "Tom Dalgliesh Jerry Taylor"],
+          ["개발사", "Columbia Games"],
+          ["발매년", "2002"],
+          ["인원", "2 명"],
+          ["플레이 시간", "120~180 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "중세, 워게임"],
+          ["시스템", "지역 이동, 지역 분쟁, 카드 운용 전투, 주사위 굴림, 핸드 관리, 유닛 정보 숨김, 동시 액션 선택"]
+      ]
+    },
+    {
+      "id": 14,
+      "title": "승리와 비극",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/P-ziFYUMpJfGqCArOX39kQ__itemrep/img/niGOpGGsJA4uEHRYVlQBgP3Cl6Y=/fit-in/246x300/filters:strip_icc()/pic1049643.jpg",
+      "tableData": [
+          ["디자이너", "Craig Besinque"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2015"],
+          ["인원", "3 명"],
+          ["플레이 시간", "240 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "경제, 협상, 정치, 영역 건설, 워게임, 2차 대전"],
+          ["시스템", "주사위 굴림, 지역 이동, 지역 영향력 및 확장, 카드 운용 전투, 핸드 관리, 유닛 정보 숨김"]
+      ]
+    },
+    {
+      "id": 15,
+      "title": "썬더볼트 아파치 리더",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/0vil2dh2Kvs64hneMDWfyA__itemrep/img/pPcOlihb04jSraKxSGuvQdsoXaQ=/fit-in/246x300/filters:strip_icc()/pic1296959.jpg",
+      "tableData": [
+          ["디자이너", "Dan Verssen"],
+          ["개발사", "DVG"],
+          ["발매년", "2012"],
+          ["인원", "1 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "항공, 현대전, 워게임"],
+          ["시스템", "지역 이동, 핸드 관리, 시뮬레이션"]
+      ]
+    },
+    {
+      "id": 16,
+      "title": "영광의 길 (패스오브글로리)",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc()/pic4490515.jpg",
+      "tableData": [
+          ["디자이너", "Ted Raicer"],
+          ["개발사", "GMT Games"],
+          ["발매년", "1999"],
+          ["인원", "2 명"],
+          ["플레이 시간", "480 분"],
+          ["연령", "14세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 제1차 세계대전"],
+          ["시스템", "카드 운용 전투, 주사위 굴림, 포인트간 이동"]
+      ]
+    },
+    {
+      "id": 17,
+      "title": "월드 앳 워",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/o9gjjgu37WqNSUd3sZsb-g__itemrep/img/1ddhIY4G-4xl0MUC_1cFpw4Xaac=/fit-in/246x300/filters:strip_icc()/pic34304.jpg",
+      "tableData": [
+          ["디자이너", "Bruce Harper"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2003"],
+          ["인원", "1~8 명"],
+          ["플레이 시간", "1440~2880 분"],
+          ["연령", "14세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 제2차 세계대전"],
+          ["시스템", "헥사맵 영향력"]
+      ]
+    },
+    {
+      "id": 18,
+      "title": "일러전쟁",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/NGfTesrWmzJpLU2LQY8Xcw__itemrep/img/d457QgPriUrPyXuMoZPObFMp3OU=/fit-in/246x300/filters:strip_icc()/pic622076.jpg",
+      "tableData": [
+          ["디자이너", "黒田 幸弘(Yukihiro Kuroda)"],
+          ["개발사", "Epoch"],
+          ["발매년", "1981"],
+          ["인원", "1~2 명"],
+          ["플레이 시간", "240 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 러일전쟁"],
+          ["시스템", "헥사맵 영향력"]
+      ]
+    },
+    {
+      "id": 19,
+      "title": "처녀 여왕",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/-YgoNoqHXqA4N_4qaxUUeQ__itemrep/img/FhqqROjDXtvZrLehbQhSi4KIwKU=/fit-in/246x300/filters:strip_icc()/pic1276971.jpg",
+      "tableData": [
+          ["디자이너", "Ed Beach"],
+          ["개발사", "GMT Games, Spielworxx"],
+          ["발매년", "2012"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "420 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략, 전쟁게임"],
+          ["테마", "협상, 파이크와 총, 정치, 종교, 르네상스, 전쟁 게임"],
+          ["시스템", "캠페인, 카드 운용 전투, 주사위 굴림, 파트너쉽, 포인트간 이동, 단계 순서 변화, 플레이어별 특수 능력]"]
+      ]
+    },
+    {
+      "id": 20,
+      "title": "컴뱃 커멘더 시리즈",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/uKaL10FK-u9wfYyK6MQaNg__itemrep/img/okcmGsWimV6HE4MY68NLsY7e4ZU=/fit-in/246x300/filters:strip_icc()/pic992459.jpg",
+      "tableData": [
+          ["디자이너", "Chad Jensen"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2006"],
+          ["인원", "2 명"],
+          ["플레이 시간", "60~180 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 제2차 세계대전"],
+          ["시스템", "카드 운용 전투, 헥사맵 영향력, 시뮬레이션, 가변적 단계순서"]
+      ]
+    },
+    {
+      "id": 21,
+      "title": "코바야카와",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/bmkZSLcuR4G0tPYI9pob-g__itemrep/img/gGQRxJQYD3e9fM2VxPwlF4z1P7s=/fit-in/246x300/filters:strip_icc()/pic2299549.jpg",
+      "tableData": [
+          ["디자이너", "佐々木隼(Jun Sasaki)"],
+          ["개발사", "Superlude Éditions"],
+          ["발매년", "2013"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "9세 이상"],
+          ["장르", "파티, 가족게임"],
+          ["테마", "카드, 추리, 정치게임"],
+          ["시스템", "베팅, 도박"]
+      ]
+    },
+    {
+      "id": 22,
+      "title": "필드 커맨더 : 나폴레옹",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/5YkSEEutoR_z6DztagbF8w__itemrep/img/Dp8oQsGUIKpqaMp5TCjSrA4-CEw=/fit-in/246x300/filters:strip_icc()/pic1063957.jpg",
+      "tableData": [
+          ["디자이너", "Dan Verssen"],
+          ["개발사", "DVG"],
+          ["발매년", "2011"],
+          ["인원", "1 명"],
+          ["플레이 시간", "180 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 나폴레옹 전쟁"],
+          ["시스템", "지역이동, 주사위 굴림"]
+      ]
+    },
+    {
+      "id": 23,
+      "title": "하이브",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__itemrep/img/SdQ5at_SaQCPbs1QES2KfeUKqaQ=/fit-in/246x300/filters:strip_icc()/pic791151.jpg",
+      "tableData": [
+          ["디자이너", "John Yianni"],
+          ["개발사", "Gen42 Games"],
+          ["발매년", "2001"],
+          ["인원", "2 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "9세 이상"],
+          ["장르", "추상 게임"],
+          ["테마", "추상 전략, 동물"],
+          ["시스템", "격자칸 이동, 타일 배치"]
+      ]
+    },
+    {
+      "id": 24,
+      "title": "호넷 리더",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/E-0NXJvzN_Q94gctxkCXZg__itemrep/img/_9IyV_65vIADd3sXrxHO-kqEp98=/fit-in/246x300/filters:strip_icc()/pic650893.jpg",
+      "tableData": [
+          ["디자이너", "Dan Verssen"],
+          ["개발사", "DVG"],
+          ["발매년", "2010"],
+          ["인원", "1 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "항공, 현대전, 워게임"],
+          ["시스템", "카드 드래프트, 시뮬레이션"]
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Axis and Allies 시리즈",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__itemrep/img/NfcWlfpNPWd9-AKDLRFHK8GZ-xI=/fit-in/246x300/filters:strip_icc()/pic24006.jpg",
+      "tableData": [
+          ["디자이너", "Larry Harris, Jr."],
+          ["개발사", "Milton Bradley"],
+          ["발매년", "1981"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "180 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 경제, 제2차 세계대전"],
+          ["시스템", "지역 이동, 주사위 굴림, 연합"]
+      ]
+    },
+    {
+      "id": 26,
+      "title": "커맨드앤컬러스 에인션트",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/qcASDsV-0eNBVipfPhxs7A__itemrep/img/MjWft3eEMzkIkw22BbalbhnFYls=/fit-in/246x300/filters:strip_icc()/pic132447.jpg",
+      "tableData": [
+          ["디자이너", "Richard Borg"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2006"],
+          ["인원", "2 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "고대, 워게임"],
+          ["시스템", "카드 운용 전투, 주사위 굴림, 핸드 관리, 헥사맵 영향력, 조립형 보드"]
+      ]
+    },
+    {
+      "id": 27,
+      "title": "커맨드앤컬러스 나폴레오닉",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/eVEF5fs8D22b0Bwj17mNgQ__itemrep/img/lta1kpJrgc80zkCbo_b9GmJfb0U=/fit-in/246x300/filters:strip_icc()/pic837162.jpg",
+      "tableData": [
+          ["디자이너", "Richard Borg"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2010"],
+          ["인원", "2 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임"],
+          ["테마", "나폴레옹 전투, 워게임"],
+          ["시스템", "카드 운용 전투, 주사위 굴림, 핸드 관리, 헥사맵 영향력, 조립형 보드"]
+      ]
+    },
+    {
+      "id": 28,
+      "title": "WW2: 바르바로사 투 베를린",
+      "genre": "battle",
+      "image": "https://cf.geekdo-images.com/Amzxm9Xw-Q1vVJjOa7LEmw__itemrep/img/Ej9FRLZmVxLy0L3NIJMyIoaFi5Y=/fit-in/246x300/filters:strip_icc()/pic152334.jpg",
+      "tableData": [
+          ["디자이너", "Ted Raicer"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2002"],
+          ["인원", "2 명"],
+          ["플레이 시간", "420 분"],
+          ["연령", "14세 이상"],
+          ["장르", "워게임"],
+          ["테마", "워게임, 제2차 세계대전"],
+          ["시스템", "카드 운용 전투, 포인트간 이동"]
+      ]
+    },
+    {
+      "id": 29,
+      "title": "광기의 저택",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/JtjGOgkaIxnLUeoV56cWFQ__itemrep/img/qzTngxEVy61D4H90k6DiLWM9cV4=/fit-in/246x300/filters:strip_icc()/pic814011.jpg",
+      "tableData": [
+          ["디자이너", "Corey Konieczka"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2011"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "13세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "크툴루 신화, 모험, 탐험, 판타지, 전투, 공포, 미니어쳐, 미스터리, 퍼즐"],
+          ["시스템", "지역 이동, 주사위 굴림, 핸드 관리, 조립형 보드, 연합, 롤플레잉, 물건 이동, 다양한 플레이어 능력"]
+      ]
+    },
+    {
+      "id": 30,
+      "title": "광기의 저택 2판",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__itemrep/img/G_-z236LOfeZMfomDg5oPNJvyrg=/fit-in/246x300/filters:strip_icc()/pic3118622.jpg",  
+      "tableData": [
+          ["디자이너", "Nikki Valens"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2016"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "60~360 분"],
+          ["연령", "13세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "크툴루 신화, 모험, 탐험, 판타지, 전투, 공포, 미니어쳐, 미스터리, 퍼즐"],
+          ["시스템", "지역 이동, 주사위 굴림, 핸드 관리, 조립형 보드, 연합, 롤플레잉, 물건 이동, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 31,
+      "title": "글룸헤이븐",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__itemrep/img/0IdBRA_G-ZdrNaxI4Z1LPQMZD0I=/fit-in/246x300/filters:strip_icc()/pic2437871.jpg",
+      "tableData": [
+          ["디자이너", "Isaac Childres"],
+          ["개발사", "Cephalofair Games, Hobby World"],
+          ["발매년", "2017"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "60~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "모험, 경제, 판타지, 전투"],
+          ["시스템", "협력 게임, 격자칸 이동, 핸드 관리, 조립형 보드, 동시 액션 선택, 플레이어 간 능력 차별화]"]
+      ]
+    },
+    {
+      "id": 32,
+      "title": "다크 소울: 더 보드 게임",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/mHQMnDL317AKXCt9LojYxw__itemrep/img/HY7iPIpoZEAD-nK8lHEpkqYp0-w=/fit-in/246x300/filters:strip_icc()/pic3784353.jpg",
+      "tableData": [
+          ["디자이너", "David Carl, Alex Hall, Mat Hart, Richard Loxam, Thomas Lishman"],
+          ["개발사", "Steamforged Games Ltd"],
+          ["발매년", "2017"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "90~120 분"],
+          ["연령", "14세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 33,
+      "title": "던전 앤 드래곤 어드벤쳐 시스템 보드 게임",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/6pidElOs2dZ-VomYCBrpmg__imagepage/img/7SWLnfqEGG1Ukw56HwBL6h3qpFA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1595321.jpg",
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", "Wizards of the Coast LLC/Wizkid"],
+          ["발매년", "2010"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "14세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "모험, 전투, 판타지"],
+          ["시스템", "협력 게임, 격자칸 이동, 핸드 관리, 조립형 보드, 동시 액션 선택, 플레이어 간 능력 차별화"]
+      ]
+    },
+    {
+      "id": 34,
+      "title": "데드 오브 윈터",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__itemrep/img/Tc76KEZmrLgCrsvhQAW36iv7x9E=/fit-in/246x300/filters:strip_icc()/pic3016500.jpg",
+      "tableData": [
+          ["디자이너", "Jonathan Gilmour Issac Vega"],
+          ["개발사", "Plaid Hat Games"],
+          ["발매년", "2014"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "120~240 분"],
+          ["연령", "14세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "좀비 아포칼립스, 협잡, 호러"],
+          ["시스템", "연합, 주사위 굴림, 교환 액션 포인트 제공 시스템, 핸드 관리, 지역 이동, 스토리텔링, 롤플레잉, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 35,
+      "title": "도라스레",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/ViUGzQGN1YdhRoN21PB3nw__itemrep/img/UNgKiPdrHamhTw-ZTHZDwj0Q34k=/fit-in/246x300/filters:strip_icc()/pic2317622.jpg",
+      "tableData": [
+          ["디자이너", "KTR"],
+          ["개발사", "GIANT HOBBY"],
+          ["발매년", "2014"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "10세 이상"],
+          ["장르", "주사위 전략"],
+          ["테마", "판타지, 모험, 전투"],
+          ["시스템", "협력, 주사위 굴림, 롤플레잉, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 36,
+      "title": "드래곤파이어",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/ETvzoSRh-UuJJbdSt3ZiCA__itemrep/img/8B8xgHwPVio-eN-m344436xco74=/fit-in/246x300/filters:strip_icc()/pic4022104.jpg",
+      "tableData": [
+          ["디자이너", "IRandall N. Bills"],
+          ["개발사", "Catalyst Game Labs"],
+          ["발매년", "2017"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "60~90 분"],
+          ["연령", "13세 이상"],
+          ["장르", "테마 게임, 전략 게임"],
+          ["테마", "모험, 판타지, 전투"],
+          ["시스템", "협력 게임, 덱 빌딩, 카드 드래프팅, 핸드 관리, 롤플레잉, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 37,
+      "title": "디 아더스: 세븐 신즈",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/5VrDj4hKFp-jqyl8Fpwjjw__itemrep/img/uIdhyb0li2ggeK_dftsHfC-3j1A=/fit-in/246x300/filters:strip_icc()/pic2642988.jpg",
+      "tableData": [
+          ["디자이너", "에릭 M. 랭"],
+          ["개발사", "Cool Mini or Not"],
+          ["발매년", "2016"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "14세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "판타지, 전투, 공포"],
+          ["시스템", "지영 영향력 및 확장, 주사위 굴림, 조립형 보드, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 38,
+      "title": "룬에이지",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/h_uE_Lzxu-xQxgbiZ98Vzg__itemrep/img/DPbcqtmdF3B0irSs0GIK8ixIb44=/fit-in/246x300/filters:strip_icc()/pic973931.jpg",
+      "tableData": [
+          ["디자이너", "Corey Konieczka"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2011"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략, 테마 게임"],
+          ["테마", "판타지, 카드 게임"],
+          ["시스템", "덱 빌딩, 협력, 주사위 굴림, 핸드 관리, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 39,
+      "title": "매시브 다크니스",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/4gH_fX2BQPViWLe9pNfSKg__itemrep/img/IoxPC3N2syOgaIwe7b_0Aj_GlOs=/fit-in/246x300/filters:strip_icc()/pic3687923.jpg",
+      "tableData": [
+          ["디자이너", "Raphaël Guiton"],
+          ["개발사", "Cool Mini or Not"],
+          ["발매년", "2017년 예정"],
+          ["인원", "1~6 명"],
+          ["플레이 시간", ""],
+          ["연령", ""],
+          ["장르", ""],
+          ["테마", "모험, 탐험, 판타지, 전투, 미니어쳐"],
+          ["시스템", "협력, 주사위 굴림, 조립형 보드, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 40,
+      "title": "메이지 나이트",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__itemrep/img/6OmGo3bidk3ma7U1v-oq_2pEJZI=/fit-in/246x300/filters:strip_icc()/pic1083380.jpg",
+      "tableData": [
+          ["디자이너", "블라다 츠바틸"],
+          ["개발사", "WizKids"],
+          ["발매년", "2011"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "150 분"],
+          ["연령", "14세 이상"],
+          ["장르", "전략, 테마 게임"],
+          ["테마", "모험, 전투, 탐험, 판타지"],
+          ["시스템", "카드 드래프트, 협력, 덱 빌딩, 주사위 굴림, 격자칸 이동, 핸드 관리, 조립식 보드, 역할 연기, 타일 놓기, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 41,
+      "title": "먼치킨",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__itemrep/img/2MRtjy32fdzTBDCvUk73dA-ZtJk=/fit-in/246x300/filters:strip_icc()/pic1871016.jpg",
+      "tableData": [
+          ["디자이너", "Steve Jackson"],
+          ["개발사", "Steve Jackson Games"],
+          ["발매년", "2001"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "60~120 분"],
+          ["연령", "10세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "카드 게임, 판타지, 전투, 유머, TRPG 패러디"],
+          ["시스템", "카드 드래프트, 주사위 굴림, 핸드 관리, 다양한 플레이어 능력, 다이렉트 공격]"]
+      ]
+    },
+    {
+      "id": 42,
+      "title": "반지의 제왕: 듀얼",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/IHW5qUuiJwlSWQmXc2hMQA__itemrep/img/UU9aGgzKlA04Z1r0CnFa1Xyo3_Q=/fit-in/246x300/filters:strip_icc()/pic658637.jpg",
+      "tableData": [
+          ["디자이너", "Peter Neugebauer"],
+          ["개발사", "KOSMOS"],
+          ["발매년", "2002"],
+          ["인원", "2 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임, 전략"],
+          ["테마", "소설 기반, 판타지, 전투"],
+          ["시스템", "핸드 관리"]
+      ]
+    },
+    {
+      "id": 43,
+      "title": "배틀로어",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/cAH5iJ9gQ7aAj4iwUJyvUg__itemrep/img/AjzKJ-NBRjPouregFTh4YVq0VyM=/fit-in/246x300/filters:strip_icc()/pic145116.jpg",
+      "tableData": [
+          ["디자이너", "Richard Borg"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2006"],
+          ["인원", "2 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "워 게임, 테마 게임"],
+          ["테마", "판타지, 중세, 미니어쳐, 워 게임"],
+          ["시스템", "카드 운용 전투, 주사위 굴림, 격자칸 이동, 핸드 관리, 조립형 보드, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 44,
+      "title": "블러드 바운드",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/ZnoorbruJqquV0NBTk86_w__itemrep/img/yZmTGNl-BLyysyJVNYn1szTLyxQ=/fit-in/246x300/filters:strip_icc()/pic3564143.jpg",
+      "tableData": [
+          ["디자이너", "Kalle Krenzer"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2013"],
+          ["인원", "6~12 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "14세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "협잡, 추리, 판타지, 호러, 협상"],
+          ["시스템", "연합, 롤플레잉, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 45,
+      "title": "블러드 레이지",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__itemrep/img/ZSJhCapvtPoiIQZ1XdfO-qgUuFY=/fit-in/246x300/filters:strip_icc()/pic2439223.jpg",
+      "tableData": [
+          ["디자이너", "Eric M. Lang"],
+          ["개발사", "Cool Mini or Not"],
+          ["발매년", "2015"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "60~90 분"],
+          ["연령", "13세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "판타지, 전투, 미니어쳐, 신화"],
+          ["시스템", "액션 포인트 지급, 영역 확장, 영역 이동, 카드 드래프트, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 46,
+      "title": "블러드본: 더 카드 게임",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/zczRMJvEEGhqLGwxxOQQuw__itemrep/img/A3HOmUPHvl_8zYhZWxMglX_8cAY=/fit-in/246x300/filters:strip_icc()/pic3297526.jpg",
+      "tableData": [
+          ["디자이너", "Eric M. Lang, Sean Chancey"],
+          ["개발사", "CMON Limited"],
+          ["발매년", "2015"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "30~45 분"],
+          ["연령", "14세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 47,
+      "title": "블레이드 론도",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/H0kL_uYEfUJEazm3oDGNOw__itemrep/img/4YYi4qlTiICa36CUVXsO20jm-d4=/fit-in/246x300/filters:strip_icc()/pic4732913.jpg",
+      "tableData": [
+          ["디자이너", "Pawn"],
+          ["개발사", "Domina games"],
+          ["발매년", "2017"],
+          ["인원", "1~2 명"],
+          ["플레이 시간", "10~20 분"],
+          ["연령", "12세 이상"],
+          ["장르", "LCG"],
+          ["테마", "판타지, 미소녀, 카드"],
+          ["시스템", "LCG, 덱빌딩"]
+      ]
+    },
+    {
+      "id": 48,
+      "title": "소드 앤 소서리",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/FNVnu-vB8WjyQTf63Ssvig__itemrep/img/wZRuBv2Rvg0ZTyEU_m-laCY9IOU=/fit-in/246x300/filters:strip_icc()/pic2673763.jpg",
+      "tableData": [
+          ["디자이너", "Simone Romano, Nunzio Surace"],
+          ["개발사", "Ares Games, Gremlin Project"],
+          ["발매년", "2017"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "60~90 분"],
+          ["연령", "12세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 49,
+      "title": "스몰 월드",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep/img/vxZGxHhrtnOMxPM38WNIu-tfYmI=/fit-in/246x300/filters:strip_icc()/pic428828.jpg",
+      "tableData": [
+          ["디자이너", "Philippe Keyaerts"],
+          ["개발사", "Days of Wonder"],
+          ["발매년", "2009"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "40~80 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 전략"],
+          ["테마", "판타지, 전투, 영역 건설"],
+          ["시스템", "영역 이동, 주사위 굴림, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 50,
+      "title": "스타 렐름",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/EsJqPL5CB_TMt0MYL-lnVg__itemrep/img/dxhJELqcs6kDXA_SrvcaIjX5N_Q=/fit-in/246x300/filters:strip_icc()/pic1903816.jpg",
+      "tableData": [
+          ["디자이너", "Robert Dougherty Darwin Kastle"],
+          ["개발사", "White Wizard Games"],
+          ["발매년", "2014"],
+          ["인원", "2 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 전투 , SF"],
+          ["시스템", "덱 빌딩, 핸드 관리, 카드 드래프트, 다이렉트 공격"]
+      ]
+    },
+    {
+      "id": 51,
+      "title": "아브라카...왓?",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/ExKZ4I1R5sx-F65Gj-wDFA__itemrep/img/HqNNo6nbDxMSJWF5xfWbXQwRKkY=/fit-in/246x300/filters:strip_icc()/pic2428651.png",
+      "tableData": [
+          ["디자이너", "Gary Kim"],
+          ["개발사", "코리아보드게임즈"],
+          ["발매년", "2014"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "20~30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "추리, 판타지"],
+          ["시스템", "기억력, 운 시험하기"]
+      ]
+    },
+    {
+      "id": 52,
+      "title": "아컴호러",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__itemrep/img/d7sT40CRGgKcClC_UjTlanbRrUU=/fit-in/246x300/filters:strip_icc()/pic175966.jpg",
+      "tableData": [
+          ["디자이너", "Richard Launius Kevin Wilson"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2005"],
+          ["인원", "1~8 명"],
+          ["플레이 시간", "120~240 분"],
+          ["연령", "12세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "소설 기반, 모험, 판타지, 전투, 호러"],
+          ["시스템", "핸드 관리, 역할 분담, 주사위 굴림, 지점 간 이동, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 53,
+      "title": "악마성의 마차",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/i8P6A9IZZZB0L4dna1qAqw__itemrep/img/KHVwr09OTuykxNE4WQq9KsAusDQ=/fit-in/246x300/filters:strip_icc()/pic153683.jpg",
+      "tableData": [
+          ["디자이너", "Michael Palm, Lukas Zach"],
+          ["개발사", "Adlung-Spiele"],
+          ["발매년", "2006"],
+          ["인원", "3~10 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "12세 이상"],
+          ["장르", "파티 게임, 전략"],
+          ["테마", "협잡, 카드 게임, 추리"],
+          ["시스템", "핸드 관리"]
+      ]
+    },
+    {
+      "id": 54,
+      "title": "언덕 위 집의 배신",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__itemrep/img/_iR9fdW4a3BsMh296ljKJj_EYOo=/fit-in/246x300/filters:strip_icc()/pic5146864.png",
+      "tableData": [
+          ["디자이너", "Rob Daviau, Bruce Glassco Bill McQuillan, Mike Selinker, Teeuwynn Woodruff"],
+          ["개발사", "Avalon Hill Games, Inc."],
+          ["발매년", "2004"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "12세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "모험, 공포, 탐험, 미니어쳐"],
+          ["시스템", "협력, 주사위 굴림, 조립식 보드, 플레이어 제거, 롤플레잉, 스트리텔링, 연합, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 55,
+      "title": "엘드리치 호러",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__itemrep/img/EQReG95qMc561VugTP8CvqO9zKE=/fit-in/246x300/filters:strip_icc()/pic1872452.jpg",
+      "tableData": [
+          ["디자이너", "Corey Konieczka Nikki Valens"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2013"],
+          ["인원", "1~8 명"],
+          ["플레이 시간", "120~240 분"],
+          ["연령", "14세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "소설 기반, 모험, 판타지, 전투, 호러"],
+          ["시스템", "협력, 주사위 굴림, 롤플레잉, 핸드 관리, 포인트간 이동, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 56,
+      "title": "와글와글 던전",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/2siWfg0Z4Vs89CWzA_j0NA__itemrep/img/_8B5d8ZGvukZyOapC1GGvZcLgow=/fit-in/246x300/filters:strip_icc()/pic2593145.jpg",
+      "tableData": [
+          ["디자이너", "榎　智洋(Tomohiro enoki)"],
+          ["개발사", "榎乃家 (ENOYA)"],
+          ["발매년", "2014"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", "협잡, 카드 게임, 탐험, 판타지"],
+          ["시스템", "핸드 관리"]
+      ]
+    },
+    {
+      "id": 57,
+      "title": "왕좌의 게임 (게임오브쓰론)",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/Gr3qfzoK-428kv1M9WUG1Q__itemrep/img/LkUDB9ISbVerrYmsug-HjyLvzY8=/fit-in/246x300/filters:strip_icc()/pic1222116.jpg",
+      "tableData": [
+          ["디자이너", "Christian T. Petersen"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2003"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "180 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "소설 기반, 워 게임, 협잡, 판타지, 협상, 정치"],
+          ["시스템", "지역 영향력 및 확장, 지역 이동, 플레이어 탈락, 경매, 동시 액션 선택, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 58,
+      "title": "웨스테로스의 전투",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/8THvj65P8JTqfvreVioXkg__itemrep/img/26EM47yg8KUQIx2Aw0qtDKrlP8c=/fit-in/246x300/filters:strip_icc()/pic711013.jpg",
+      "tableData": [
+          ["디자이너", "Robert A. Kouba"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2010"],
+          ["인원", "2 명"],
+          ["플레이 시간", "60~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워 게임, 테마 게임"],
+          ["테마", "소설 기반, 워 게임, 판타지, 전투, 중세"],
+          ["시스템", "카드 운용 전투, 주사위 굴림, 핸드 관리, 조립형 보드, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 59,
+      "title": "월드 오브 워크래프트: 더 보드 게임",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/G18hq7ONuqIyeGgU0Zlorw__itemrep/img/yh0J0ejBLfB7rCRWqgwJNWJ5OjE=/fit-in/246x300/filters:strip_icc()/pic756989.jpg",
+      "tableData": [
+          ["디자이너", "Christian T. Petersen"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2005"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "180 분"],
+          ["연령", "12세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 60,
+      "title": "좀비사이드",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/ZqjfzvtaTIT5FYp1D2CfKw__itemrep/img/lXWYSxxNsi4RGF-SFjIm7iF89cw=/fit-in/246x300/filters:strip_icc()/pic1196191.jpg",
+      "tableData": [
+          ["디자이너", "Raphael Guiton, Jean-Baptiste Lullien, Nicolas Raoult"],
+          ["개발사", "CMON Limited."],
+          ["발매년", "2012"],
+          ["인원", "1~6 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "14세 이상"],
+          ["장르", "카드 운영 게임"],
+          ["테마", "좀비, 미니어쳐, 호러"],
+          ["시스템", "주사위, 모듈 보드, 협동, 미니어쳐"]
+      ]
+    },
+    {
+      "id": 61,
+      "title": "카멜롯의 그림자",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__itemrep/img/Z6Zac8NvuJQN5jBl3Z7uppanUbc=/fit-in/246x300/filters:strip_icc()/pic70547.jpg",
+      "tableData": [
+          ["디자이너", "Bruno Cathala Serge Laget"],
+          ["개발사", "Days of wonder"],
+          ["발매년", "2005"],
+          ["인원", "3~7 명"],
+          ["플레이 시간", "60~80 분"],
+          ["연령", "10세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "모험, 추리, 판타지, 중세, 신화"],
+          ["시스템", "협력 게임, 연합 게임, 핸드 관리, 플레이어 탈락, 셋 컬렉션, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 62,
+      "title": "카후나",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/UdhhVlmQihMbvlNSvY1lUA__itemrep/img/amzlBPY_0_eUZ0hTvEraOzO_dTU=/fit-in/246x300/filters:strip_icc()/pic2606165.jpg",
+      "tableData": [
+          ["디자이너", "Günter Cornett"],
+          ["개발사", "KOSMOS"],
+          ["발매년", "1998"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30~40 분"],
+          ["연령", "10세 이상"],
+          ["장르", "추상 전략"],
+          ["테마", ""],
+          ["시스템", "지역 영향력 및 확장, 카드 드래프트, 핸드 관리, 길 놓기, 다이렉트 공격"]
+      ]
+    },
+    {
+      "id": 63,
+      "title": "콜로설 아레나",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/SsmaQGmmqdcBmyJDd041YQ__itemrep/img/CDZwJdl-GXspB5Pa4K7SDM56lZw=/fit-in/246x300/filters:strip_icc()/pic1680709.jpg",
+      "tableData": [
+          ["디자이너", "라이너 크니지아"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "1997"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임, 전략"],
+          ["테마", "카드 게임, 판타지, 신화"],
+          ["시스템", "배팅, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 64,
+      "title": "크툴루 워즈",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/AUd4nmguSljr9qvkUCF2XQ__itemrep/img/EYf3G1UAEXAJWnXYSQPeQg9nlug=/fit-in/246x300/filters:strip_icc()/pic3527761.jpg",
+      "tableData": [
+          ["디자이너", "Sandy Petersen"],
+          ["개발사", "Green Eye Games"],
+          ["발매년", "2014"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "60~90 분"],
+          ["연령", "15세 이상"],
+          ["장르", "영향력 전략"],
+          ["테마", "크틀루, 전략 게임, 판타지, 워 게임, 비대칭 게임"],
+          ["시스템", "카드 드래프트, 셋 콜렉션, 다양한 플레이어 능력, 가변적 단계 순서]"]
+      ]
+    },
+    {
+      "id": 65,
+      "title": "크툴루 죽음마저 죽으리니",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/e8D09pfFsUsoX1D81EeoZg__itemrep/img/Ki4B-y6Am9t18ErzhjSw_L8tKDY=/fit-in/246x300/filters:strip_icc()/pic4705171.jpg",
+      "tableData": [
+          ["디자이너", "로버트 다비에, 에릭 M. 랭"],
+          ["개발사", "Cool Mini or Not"],
+          ["발매년", "2019"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "90~120 분"],
+          ["연령", "14세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "크툴루, 미니어처, 호러, 판타지"],
+          ["시스템", "주사위 굴림, 조립형 보드, 협동, 미니어처, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 66,
+      "title": "탈리스만",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/PxQnAcYv74J-dJW_s6CHMA__itemrep/img/oQL-pnrvc9xC4fU4hZy7NzEETlU=/fit-in/246x300/filters:strip_icc()/pic332870.jpg",
+      "tableData": [
+          ["디자이너", "John Goodenough Robert Harris"],
+          ["개발사", "Games Workshop Fantasy Flight Games"],
+          ["발매년", "1983"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "13세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "모험, 탐험, 판타지, 전투"],
+          ["시스템", "주사위 굴림, 롤플레잉, 주사위 이동, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 67,
+      "title": "테라 미스티카",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__itemrep/img/pKM9lklmQLXJx2xta9eR5NSezec=/fit-in/246x300/filters:strip_icc()/pic5375624.jpg",
+      "tableData": [
+          ["디자이너", "Jens Drögemüller Helge Ostertag"],
+          ["개발사", "Feuerland Spiele"],
+          ["발매년", "2012"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "60~150 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "문명, 경제, 판타지, 테라포밍"],
+          ["시스템", "일꾼 배치, 개척을 통한 영역 확장, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 68,
+      "title": "패스파인더 어드벤처 카드 게임",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/oilW_2LuTedEdM0R2y3_MA__itemrep/img/hiE5HfP6pCf7j9gUN1Oh-LdyFgI=/fit-in/246x300/filters:strip_icc()/pic1775517.jpg",
+      "tableData": [
+          ["디자이너", "Mike Selinker Chad Brown Tanis O\"Connor Paul Peterson Gaby Weidling"],
+          ["개발사", "Paizo"],
+          ["발매년", "2013"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "13세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "모험, 카드 게임, 판타지, 전투"],
+          ["시스템", "협력, 덱 빌딩, 주사위 굴림, 핸드 관리, 롤플레잉"]
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Ascension",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/DP20jf4R3RcsjJUwwV1vCw__itemrep/img/ezQYyK1UP5fEvxDi_-sNDAeOCv0=/fit-in/246x300/filters:strip_icc()/pic2382123.jpg",
+      "tableData": [
+          ["디자이너", "John Fiorillo, Justin Gary"],
+          ["개발사", "Stone Blade Entertainment"],
+          ["발매년", "2010"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 판타지"],
+          ["시스템", "카드 드래프트, 덱 빌딩, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Aeon\"s End:Legacy",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/quoCefZvHWeaf31_8HvFSA__itemrep/img/iNGv1VcSpRzJLytBWv2BIFJYsks=/fit-in/246x300/filters:strip_icc()/pic3979852.jpg",
+      "tableData": [
+          ["디자이너", "Kevin Riley, Nick Little"],
+          ["개발사", "Indie Boards & Cards, Portal Games, SD Games"],
+          ["발매년", "2019"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "45~90 분"],
+          ["연령", "14세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 판타지, SF"],
+          ["시스템", "덱 빌딩, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Elder Sign",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/wNCSCl961fMzDUhwetfjTg__itemrep/img/NZUZmeX5k7vw_-9ChzLHO4x3T_E=/fit-in/246x300/filters:strip_icc()/pic1236119.jpg",
+      "tableData": [
+          ["디자이너", "Richard Launius Kevin Wilson"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2011"],
+          ["인원", "1~8  명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "13세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "소설 기반, 카드 게임 모험, 주사위, 전투, 공포"],
+          ["시스템", "협력 게임, 주사위 굴림, 조립형 보드, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Thud!",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/VpuFXDfm_Or77KTwJZCp_Q__itemrep/img/MoJYWFFuf5qb-s2OTmUl94VTM1k=/fit-in/246x300/filters:strip_icc()/pic237521.jpg",
+      "tableData": [
+          ["디자이너", "Trevor Truran"],
+          ["개발사", "The Cunning Artificer"],
+          ["발매년", "2002"],
+          ["인원", "2 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "8세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략, 소설 기반, 판타지"],
+          ["시스템", "다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Warhammer Quest",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/R_AD0CQfaLhXx_KNHssXow__itemrep/img/_epew70TvyYoguq73SoaQXElI84=/fit-in/246x300/filters:strip_icc()/pic355859.jpg",
+      "tableData": [
+          ["디자이너", "Andy Jones"],
+          ["개발사", "Games Workshop Ltd."],
+          ["발매년", "1995"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "12세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 74,
+      "title": "5분 던전",
+      "genre": "fantasyhorror",
+      "image": "https://cf.geekdo-images.com/fQOVD0Sc0FXZRZPdNc7VwA__itemrep/img/zZjhywgi1Cp_z6kYKVoIj3ED-U4=/fit-in/246x300/filters:strip_icc()/pic3370214.jpg",
+      "tableData": [
+          ["디자이너", "Connor Reid"],
+          ["개발사", "Spin Master"],
+          ["발매년", "2018"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "5~30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, RPG"],
+          ["테마", "던전 탐험"],
+          ["시스템", "핸드 관리"]
+      ]
+    },
+    {
+      "id": 75,
+      "title": "가이아 프로젝트",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__itemrep/img/MNyaVUlEsVQmbv3nObPl0SEd_TI=/fit-in/246x300/filters:strip_icc()/pic5375625.png",
+      "tableData": [
+          ["디자이너", "Jens Drögemüller Helge Ostertag"],
+          ["개발사", "Feuerland Spiele"],
+          ["발매년", "2017"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "60~150 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "문명, 경제, 판타지, 테라포밍"],
+          ["시스템", "개척을 통한 영역 확장, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Neuroshima Hex! 3.0",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/8KB-cVXjNmYA6xuw-lo6eg__itemrep/img/aAh6Cw6TAabHzHHsky8zr3SRzbI=/fit-in/246x300/filters:strip_icc()/pic1844819.jpg",  
+      "tableData": [
+          ["디자이너", "Michał Oracz"],
+          ["개발사", "Portal Games"],
+          ["발매년", "2006"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "13세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 77,
+      "title": "레이스 포 더 갤럭시",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__itemrep/img/DBzrnh_ZSypfwdfZXVOvCGBf1ig=/fit-in/246x300/filters:strip_icc()/pic5261714.jpg",
+      "tableData": [
+          ["디자이너", "Thomas Lehmann"],
+          ["개발사", "RIO GRANDE GAMES"],
+          ["발매년", "2007"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30~60 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 문명, 경제, SF, 우주 탐험"],
+          ["시스템", "핸드 관리, 동시 액션 선책, 가변적 단계 순서, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 78,
+      "title": "렐릭",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/xNkEajmpE3GudzP5xxOgCQ__itemrep/img/-IVpE0qQYbEd4k-FjxpjoPp1ovc=/fit-in/246x300/filters:strip_icc()/pic1405986.jpg",
+      "tableData": [
+          ["디자이너", "John Goodenough"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2013"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "180 분"],
+          ["연령", "14세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "워해머 40k, 우주 탐험, 모험, 탐험, SF"],
+          ["시스템", "주사위 굴림, 주사위 이동, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 79,
+      "title": "배틀스타 갤럭티카: 더 보드 게임",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/5Q2w2rFJiFI_uV89KP6ECg__itemrep/img/2w_lWsJ_MHRfN7uJBMgcXm1aIbQ=/fit-in/246x300/filters:strip_icc()/pic354500.jpg",
+      "tableData": [
+          ["디자이너", "Corey Konieczka"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2008"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "120~240 분"],
+          ["연령", "10세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "드라마 기반, 협잡, 추리, 정치, SF, 우주 탐험, 스파이"],
+          ["시스템", "지역 이동, 주사위 굴림, 핸드 관리, 연합, 롤플레잉, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 80,
+      "title": "스타워즈: 리벨리온",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__itemrep/img/p6KKXu7b7J6METCTYTIx4tKNqAA=/fit-in/246x300/filters:strip_icc()/pic4325841.jpg",
+      "tableData": [
+          ["디자이너", "Corey Konieczka"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2016"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "240 분"],
+          ["연령", "14세 이상"],
+          ["장르", "전략 게임, 테마 게임"],
+          ["테마", "영화 기반, TV 기반, 라디오, SF"],
+          ["시스템", "지역 이동, 주사위 굴림, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 81,
+      "title": "스타크래프트 보드게임",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/tXwlK5uyyxaMzXG65NZ3Xg__itemrep/img/V018z4LA2ZdSRcgGeFM9WaZgHz8=/fit-in/246x300/filters:strip_icc()/pic265704.jpg",
+      "tableData": [
+          ["디자이너", "Corey Konieczka, Christian T. Petersen"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2007"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "180~240 분"],
+          ["연령", "14세 이상"],
+          ["장르", "전략, 테마 게임"],
+          ["테마", "비디오 게임 테마, 문명, 전투, 미니어쳐, SF, 우주 탐험, 영역 건설, 워 게임"],
+          ["시스템", "지역 영향력 및 확장, 지역 이동, 덱 빌딩, 조립형 보드, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 82,
+      "title": "아리스테이아!",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/Tre1B7gmGFMNfNi6XsgkBQ__itemrep/img/3osoPvANpBsm3Ciu62tpo0Wvm-w=/fit-in/246x300/filters:strip_icc()/pic3667786.jpg",
+      "tableData": [
+          ["디자이너", "Alberto Abal, Jesús Fuster, David Rosillo"],
+          ["개발사", "코르부스 벨리"],
+          ["발매년", "2017"],
+          ["인원", "2 명"],
+          ["플레이 시간", "60~90 분"],
+          ["연령", "14세 이상"],
+          ["장르", "보드 게임"],
+          ["테마", "사이언스 픽션, 스포츠, 미니어처, 전투"],
+          ["시스템", "주사위 굴림, 지역 영향력 및 확장, 덱 빌딩, 액션 포인트 지급 시스템, 다양한 플레이어 능력, 격자칸 이동, 핸드 관리]"]
+      ]
+    },
+    {
+      "id": 83,
+      "title": "안드로이드: 넷러너",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__itemrep/img/Nz7z5Qk3fZ3R6IM14pDRg1D8XKE=/fit-in/246x300/filters:strip_icc()/pic3738560.jpg",
+      "tableData": [
+          ["디자이너", "Lukas Litzsinger"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2012"],
+          ["인원", "2 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "14세 이상"],
+          ["장르", "LCG"],
+          ["테마", "SF, 협잡, 카드 게임"],
+          ["시스템", "액션 포인트 제공, 핸드 관리, 유닛 정보 숨김, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 84,
+      "title": "크라이 하복",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/OaKLFUgTVdUYvGxLT5QjsQ__itemrep/img/jzj-u8F9jqwB4AxoENc3WufsIn8=/fit-in/246x300/filters:strip_icc()/pic3090929.jpg",
+      "tableData": [
+          ["디자이너", "Grant Rodiek Michał Oracz Michał Walczak"],
+          ["개발사", "Portal Games"],
+          ["발매년", "2016"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "90~120 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략"],
+          ["테마", "전투, 미니어쳐, SF, 워 게임"],
+          ["시스템", "지역 영향력 및 확장, 지역 이동, 덱 빌딩, 핸드 관리, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 85,
+      "title": "테라포밍 마스",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep/img/IwUOQfhP5c0KcRJBY4X_hi3LpsY=/fit-in/246x300/filters:strip_icc()/pic3536616.jpg",
+      "tableData": [
+          ["디자이너", "Jacob Fryxelius"],
+          ["개발사", "FryxGames"],
+          ["발매년", "2016"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "90~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "SF, 경제, 산업, 제조, 영토 건설, 환경"],
+          ["시스템", "카드 드래프트, 타일 놓기, 다양한 플레이어 능력, 핸드 관리]"]
+      ]
+    },
+    {
+      "id": 86,
+      "title": "황혼의 제국",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/4CEaXqehBHS4JCPGMDfnsg__itemrep/img/Ki9kSsXY3LsBdGLaFTKM4qrmJlI=/fit-in/246x300/filters:strip_icc()/pic857.jpg",
+      "tableData": [
+          ["디자이너", "Christian T. Petersen, Bill Heagy"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "1997"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "240 분"],
+          ["연령", "12세 이상"],
+          ["장르", "테마"],
+          ["테마", "SF, 워 게임, 문명, 미니어쳐, 우주 탐험, 협상, 정치"],
+          ["시스템", "주사위 굴림, 헥스 카운터, 조립 보드, 타일 배치, 플레이어별 특수 능력, 투표]"]
+      ]
+    },
+    {
+      "id": 87,
+      "title": "이클립스",
+      "genre": "sf",
+      "image": "https://cf.geekdo-images.com/cnFppsVNOSTJ-W3APQFuTg__itemrep/img/3U1E1lUUSqbaZXENQ9meKj2xHXs=/fit-in/246x300/filters:strip_icc()/pic1974056.jpg",
+      "tableData": [
+          ["디자이너", "Touko Tahkokallio"],
+          ["개발사", "Lautapelit.fi"],
+          ["발매년", "2011"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "60~200 분"],
+          ["연령", "14세 이상"],
+          ["장르", "전략"],
+          ["테마", "문명, 전투, SF, 우주 탐험, 워 게임"],
+          ["시스템", "지역 영향력 및 확장, 주사위 굴림, 격자칸 이동, 조립형 보드, 플레이어 탈락, 타일 놓기, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 88,
+      "title": "다이스 마스터",
+      "genre": "cartoon",
+      "image": "https://cf.geekdo-images.com/B1Q__UaxPpu4ltyqLN3mfA__itemrep/img/OIUolTm0MwgWNaSZ278ZdyM6Fig=/fit-in/246x300/filters:strip_icc()/pic1997078.jpg",
+      "tableData": [
+          ["디자이너", "Mike Elliott, Eric M. Lang"],
+          ["개발사", "WizKids"],
+          ["발매년", "2014"],
+          ["인원", "2 명"],
+          ["플레이 시간", "15~60 분"],
+          ["연령", "14세 이상"],
+          ["장르", "Customizable"],
+          ["테마", "컬렉터블 컴포넌트, 전투, 만화책 기반, 전투"],
+          ["시스템", "다이스풀 빌딩, 주사위 굴림, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Legendary: A Marvel Deck Building Game",
+      "genre": "cartoon",
+      "image": "https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__itemrep/img/UnyZksyoMMyDktHj5nWWKh-N4Qc=/fit-in/246x300/filters:strip_icc()/pic1430769.jpg",  
+      "tableData": [
+          ["디자이너", "Devin Low"],
+          ["개발사", "Upper Deck Entertainment"],
+          ["발매년", "2012"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "14세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "카드 게임, 만화책 기반"],
+          ["시스템", "덱 빌딩, 협력 게임"]
+      ]
+    },
+    {
+      "id": 90,
+      "title": "마블 히어로즈 전략 보드게임",
+      "genre": "cartoon",
+      "image": "https://cf.geekdo-images.com/R1mvwHKSCWstSCvPc0555g__itemrep/img/vwdm6ZIikeCsj4HygPUS_g6ylBw=/fit-in/246x300/filters:strip_icc()/pic150626.jpg",
+      "tableData": [
+          ["디자이너", "Roberto Di Meglio, Marco Maggi, Francesco Nepitello, Salvatore Pierucci"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2006"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "만화책 기반, 전투, 미니어쳐"],
+          ["시스템", "액션 포인트 지급 시스템, 주사위 굴림, 핸드 관리, 포인트간 이동, 셋 콜렉션, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 91,
+      "title": "나이아가라",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/1cbJG7-MeFI8Vg6a0v3X3g__itemrep/img/EXOgBsQ_MHzCN-4d2WwrTn_2ras=/fit-in/246x300/filters:strip_icc()/pic180873.jpg",
+      "tableData": [
+          ["디자이너", "Thomas Liesching"],
+          ["개발사", "Zoch Verlag"],
+          ["발매년", "2004"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "30~45 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 어린이 게임"],
+          ["테마", "탐험, 모험"],
+          ["시스템", "핸드 관리, 물건 이동, 셋 콜렉션, 동시 액션 선택, 입체 보드"]
+      ]
+    },
+    {
+      "id": 92,
+      "title": "로빈슨 크루소:저주받은 섬의 모험",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/FbFnaTx3aT5dM18K_bR_Pg__itemrep/img/spcA9lqJ28nt3L9-PDqc2taxFX4=/fit-in/246x300/filters:strip_icc()/pic3165731.jpg",  
+      "tableData": [
+          ["디자이너", "Ignacy Trzewiczek"],
+          ["개발사", "Potal games"],
+          ["발매년", "2012"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "90~180 분"],
+          ["연령", "14세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "모험, 탐험, 소설 기반"],
+          ["시스템", "협력 게임, 주사위 굴림, 조립형 보드, 동시 액션 선택, 타일 놓기, 일꾼 배치, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 93,
+      "title": "로스트 시티",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__itemrep/img/tF5lpPY_XFdmd6znFn1GmuUgObs=/fit-in/246x300/filters:strip_icc()/pic4597095.jpg",
+      "tableData": [
+          ["디자이너", "Reiner Knizia"],
+          ["개발사", "Kosmos"],
+          ["발매년", "1999"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "모험, 카드"],
+          ["시스템", "핸드 관리, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 94,
+      "title": "마르코 폴로의 발자취",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/n1G7_aWToLAAB7Mqt8iwyA__itemrep/img/s9K3rKDZGoiqUj8buH9EJv_Nbqg=/fit-in/246x300/filters:strip_icc()/pic2461346.png",
+      "tableData": [
+          ["디자이너", "Daniele Tascini, Simone Luciani"],
+          ["개발사", "Hans im Glück"],
+          ["발매년", "2015"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "40~100 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "주사위, 경제, 중세, 여행"],
+          ["시스템", "카드 드래프트, 주사위 굴림, 포인트 간 이동, 셋 콜렉션, 다양한 플레이어 능력, 일꾼 배치]"]
+      ]
+    },
+    {
+      "id": 95,
+      "title": "세레니시마",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/JDu-gDsxSSL49NPK7tfipg__itemrep/img/0I_h_Pa_GLgeBSiRoUGXYzCb-lQ=/fit-in/246x300/filters:strip_icc()/pic322925.jpg",
+      "tableData": [
+          ["디자이너", "Dominique Ehrhard, Duccio Vitale"],
+          ["개발사", "Eurogames"],
+          ["발매년", "1996"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "경제, 항해, 르네상스"],
+          ["시스템", "물건 이동, 교환"]
+      ]
+    },
+    {
+      "id": 96,
+      "title": "셀레스티아",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/VddNmZyVWsxyebeGbu4-dg__itemrep/img/2JGKcrP7Bqz24kSFWnp2A1qPcik=/fit-in/246x300/filters:strip_icc()/pic2577990.jpg",
+      "tableData": [
+          ["디자이너", "Aaron Weissblum, Gaetan Noir"],
+          ["개발사", "BlackRock Games"],
+          ["발매년", "2018"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "전략"],
+          ["테마", "모험, 탐험"],
+          ["시스템", "핸드 관리, 블러핑"]
+      ]
+    },
+    {
+      "id": 97,
+      "title": "아티팩트",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/XBA9WNA3WXUpqHy6y1KQxg__itemrep/img/znnd9J_ZkgfmVoxL-cHa-Nx4hNE=/fit-in/246x300/filters:strip_icc()/pic1698945.jpg",
+      "tableData": [
+          ["디자이너", "Jeffrey D. Allers, Bernd Eisenstein"],
+          ["개발사", "white goblin games"],
+          ["발매년", "2013"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "12세 이상"],
+          ["장르", ""],
+          ["테마", "모험, 고대, 탐험"],
+          ["시스템", "핸드 관리, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 98,
+      "title": "암흑의 복도",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/GFIDR8JqZletddix8obk5A__itemrep/img/cGIlwk2W7GV5nm5fRtnbR-Qgq0U=/fit-in/246x300/filters:strip_icc()/pic163508.jpg",
+      "tableData": [
+          ["디자이너", "Friedemann Friese"],
+          ["개발사", "2F-Spiele"],
+          ["발매년", "2003"],
+          ["인원", "2~7 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "공포, 경주"],
+          ["시스템", "격자칸 이동, 조립형 보드"]
+      ]
+    },
+    {
+      "id": 99,
+      "title": "엘데니아",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/wE7riC79L9fJOXHRD_kEng__itemrep/img/epyb65P1dWTvFtRlIociNyzgcLk=/fit-in/246x300/filters:strip_icc()/pic4048583.jpg",
+      "tableData": [
+          ["디자이너", "윤영진"],
+          ["개발사", "Adventure Gate"],
+          ["발매년", "2018"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30~60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 모험"],
+          ["시스템", "덱 빌딩, 핸드 관리, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 100,
+      "title": "엘픈랜드",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/Ea4jN5Ko5bPrXrU_AYhhzg__itemrep/img/0bAzhEyN_OwxaxY4bIHzA56dgTU=/fit-in/246x300/filters:strip_icc()/pic1798136.jpg",
+      "tableData": [
+          ["디자이너", "Alan R. Moon"],
+          ["개발사", "Amigo"],
+          ["발매년", "1998"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "판타지, 여행"],
+          ["시스템", "카드 드래프트, 핸드 관리, 포인트 간 이동, 길 놓기"]
+      ]
+    },
+    {
+      "id": 101,
+      "title": "티칼",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/ajU3xzGDUKihjNdvjCR1Hw__itemrep/img/-X5aWuzrNAnFb4gr2GqBzWkCca0=/fit-in/246x300/filters:strip_icc()/pic3328391.jpg",
+      "tableData": [
+          ["디자이너", "Wolfgang Kramer, Michael Kiesling"],
+          ["개발사", "Rio Grande Games"],
+          ["발매년", "1999"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "13세 이상"],
+          ["장르", "유로 게임, 전략 게임"],
+          ["테마", "탐험, 모험, 영역 개척"],
+          ["시스템", "액션 포인트 지급 시스템, 지역 영향력 및 확장, 경매, 격자칸 이동, 셋 콜렉션, 타일 배치"]
+      ]
+    },
+    {
+      "id": 102,
+      "title": "평온한 한 해",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/xwuEeZ2ibHUwPQHfGKuGww__itemrep/img/GJV703551pBTnERwYtzeFsrTAGs=/fit-in/246x300/filters:strip_icc()/pic1768982.jpg",
+      "tableData": [
+          ["디자이너", "Avery Alder"],
+          ["개발사", "Buried Without Ceremony"],
+          ["발매년", "2013"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "180 분"],
+          ["연령", "8세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "카드 게임, 프린트 & 플레이"],
+          ["시스템", "카드 드래프트, 스토리텔링"]
+      ]
+    },
+    {
+      "id": 103,
+      "title": "포비든 아일랜드",
+      "genre": "adventure",
+      "image": "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__itemrep/img/6pTx2AK0L_a39_rsORJ_cs-qExw=/fit-in/246x300/filters:strip_icc()/pic646458.jpg",
+      "tableData": [
+          ["디자이너", "Matt Leacock"],
+          ["개발사", "Gamewright"],
+          ["발매년", "2010"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "모험, 카드 게임"],
+          ["시스템", "액션 포인트 지급 시스템, 협력 게임, 격자칸 이동, 핸드 관리, 조립형 보드, 물건 이동, 셋 콜렉션, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 104,
+      "title": "1960: 대통령 만들기",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/p-k_CqUvJzTcMMz4ms7f_Q__itemrep/img/E3Vpa_gyxiffeqhbe6xHSzoqWAI=/fit-in/246x300/filters:strip_icc()/pic3499166.jpg",
+      "tableData": [
+          ["디자이너", "Christian Leonhard, Jason Matthews"],
+          ["개발사", "Z-MAN Games"],
+          ["발매년", "2007"],
+          ["인원", "2 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "정치, 미국 대통령 선거"],
+          ["시스템", "지역 영향력 및 확장, 카드 운용 전투, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 105,
+      "title": "라비린스",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/Acd8VhTI7yrwGAYNLReurA__itemrep/img/MXmC1Cpsx45dbenzGSRX9EwwBVo=/fit-in/246x300/filters:strip_icc()/pic859584.jpg",  
+      "tableData": [
+          ["디자이너", "Volko Ruhnke"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2010"],
+          ["인원", "1~2 명"],
+          ["플레이 시간", "180 분"],
+          ["연령", "12세 이상"],
+          ["장르", "워게임, 전략"],
+          ["테마", "워게임, 현대전, 정치, 종교"],
+          ["시스템", "지역 영향력 및 확장, 카드 운용 전투, 주사위 굴림, 핸드 관리, 포인트 간 이동, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 106,
+      "title": "사무라이",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/o9-sNXmFS_TLAb7ZlZ4dRA__itemrep/img/Evwjg6ChJ8s6EWojY2wnYeToedU=/fit-in/246x300/filters:strip_icc()/pic3211873.jpg",
+      "tableData": [
+          ["디자이너", "라이너 크니지아"],
+          ["개발사", "Hans im Glück Verlags-GmbH"],
+          ["발매년", "1998"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30~60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략"],
+          ["테마", "중세, 추상 전략"],
+          ["시스템", "지역 영향력 및 확장, 핸드 관리, 셋 콜렉션, 타일 놓기"]
+      ]
+    },
+    {
+      "id": 107,
+      "title": "에이지 오브 르네상스",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/KkdMeKchkDyBBJvvHbh8IQ__itemrep/img/Hx9TIo41V6gTZh65qb1nRBEVSpI=/fit-in/246x300/filters:strip_icc()/pic87721.jpg",
+      "tableData": [
+          ["디자이너", "Don Greenwood Jared Scarborough"],
+          ["개발사", "아발론 힐"],
+          ["발매년", "1996"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "360 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "문명, 경제, 중세, 르네상스"],
+          ["시스템", "지역 이동, 경매"]
+      ]
+    },
+    {
+      "id": 108,
+      "title": "일루미나티",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/yZMNzDObqcij0PTvTS7MJw__itemrep/img/R62jO_XcfPxFfBOSf3aOFsLqdKM=/fit-in/246x300/filters:strip_icc()/pic55406.jpg",
+      "tableData": [
+          ["디자이너", "Steve Jackson"],
+          ["개발사", "Steve Jackson Games"],
+          ["발매년", "1982"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "60~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "테마 게임, 전략"],
+          ["테마", "소설 기반, 카드 게임, 정치"],
+          ["시스템", "카드 드래프트, 주사위 굴림, 길 놓기, 타일 놓기, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 109,
+      "title": "황혼의 투쟁",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__itemrep/img/WMsXl-Wa8q2n9_lJH536Mhi2COc=/fit-in/246x300/filters:strip_icc()/pic3530661.jpg",
+      "tableData": [
+          ["디자이너", "Ananda Gupta Jason Matthews"],
+          ["개발사", "GMT Games"],
+          ["발매년", "2005"],
+          ["인원", "2 명"],
+          ["플레이 시간", "180 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략, 워게임"],
+          ["테마", "현대전, 정치, 워게임"],
+          ["시스템", "동시 액션 선택, 주사위 굴림, 지역 영향력 및 확장, 카드 운용 전투, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Nuclear war",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/POs_qrc4JPAmqhbx4JRBuQ__itemrep/img/kNfzbVlq5QzreaX7syqdarMb_Aw=/fit-in/246x300/filters:strip_icc()/pic1488707.jpg",
+      "tableData": [
+          ["디자이너", "Douglas Malewicki"],
+          ["개발사", "Flying Buffalo, Inc."],
+          ["발매년", "1965"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "테마 게임"],
+          ["테마", "현대전, 카드 게임, 협상, 정치"],
+          ["시스템", "행동 및 이동 예약, 다이렉트 공격"]
+      ]
+    },
+    {
+      "id": 111,
+      "title": "디 마허",
+      "genre": "politics",
+      "image": "https://cf.geekdo-images.com/rpwCZAjYLD940NWwP3SRoA__itemrep/img/66VYYgqwBJGOxsh_8sLaBYROeCU=/fit-in/246x300/filters:strip_icc()/pic4718279.jpg",
+      "tableData": [
+          ["디자이너", "Karl-Heinz Schmiel"],
+          ["개발사", "Hans im Glück, Moskito Spiele"],
+          ["발매년", "1986"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "240 분"],
+          ["연령", "14세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 112,
+      "title": "갤러리스트",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc()/pic2503200.png",
+      "tableData": [
+          ["디자이너", "Vital Lacerda"],
+          ["개발사", "Eagle-Gryphon Games"],
+          ["발매년", "2015"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "60~150 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "경제"],
+          ["시스템", "상품 투자 및 수집, 일꾼 배치"]
+      ]
+    },
+    {
+      "id": 114,
+      "title": "더 시티",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/sSuL2M_3ukm0Nj3Z2jGaUA__itemrep/img/KVtGsaLQ92ERV7UDNZFvGpvBQCA=/fit-in/246x300/filters:strip_icc()/pic4495514.png",
+      "tableData": [
+          ["디자이너", "Thomas Lehmann"],
+          ["개발사", "Eagle-Gryphon Games"],
+          ["발매년", "2011"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "35 분"],
+          ["연령", "8세 이상"],
+          ["장르", "도시 건설"],
+          ["테마", "도시 건설"],
+          ["시스템", "점수 관리, 엔진 빌딩"]
+      ]
+    },
+    {
+      "id": 115,
+      "title": "러시안 레일로드",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/B0oEVgeqs4_rT8oyb1_Juw__itemrep/img/ARQ1kCprox-ADp_ScEsciRTA0XI=/fit-in/246x300/filters:strip_icc()/pic1772936.jpg",
+      "tableData": [
+          ["디자이너", "Helmut Ohley, Leonhard Orgler"],
+          ["개발사", "Hans im Glück Z-MAN"],
+          ["발매년", "2013"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "90~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "산업화, 경제, 경영, 철도"],
+          ["시스템", "일꾼 배치"]
+      ]
+    },
+    {
+      "id": 116,
+      "title": "르아브르",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/mU-YdL_-3Fm4RvNv-y5WJg__itemrep/img/S96y7VpVbumkP34PLawnVN28588=/fit-in/246x300/filters:strip_icc()/pic3330230.jpg",
+      "tableData": [
+          ["디자이너", "Uwe Rosenberg"],
+          ["개발사", "룩아웃 게임즈"],
+          ["발매년", "2008"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "100~200 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "도시 건설, 경제, 산업, 항해"],
+          ["시스템", "일꾼 배치"]
+      ]
+    },
+    {
+      "id": 117,
+      "title": "마닐라",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/dU0cm4_NP8QiQqiXP9Jclw__itemrep/img/5mayidbe9ohp9gOSWNLRE3YbvGM=/fit-in/246x300/filters:strip_icc()/pic902372.jpg",
+      "tableData": [
+          ["디자이너", "Franz-Benno Delonge"],
+          ["개발사", "Zoch Verlag"],
+          ["발매년", "2005"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "60~120 분"],
+          ["연령", "101세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "항해, 해적, 무역"],
+          ["시스템", "경매, 배팅, 주사위 굴림, 일꾼 배치, 상품 투기"]
+      ]
+    },
+    {
+      "id": 118,
+      "title": "맨해튼 프로잭트 : 에너지 앰파이어",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/-aaspZ2Oq1VuAADvbUoeww__itemrep/img/GGXz0mGlOwGkeZM593tbLULye_Q=/fit-in/246x300/filters:strip_icc()/pic3048617.jpg",
+      "tableData": [
+          ["디자이너", "Tom Jolly, Luke Laurie"],
+          ["개발사", "miniongames"],
+          ["발매년", "2016"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "60~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "문명, 경제, 건설, 환경"],
+          ["시스템", "일꾼 배치, 주사위, 길 놓기"]
+      ]
+    },
+    {
+      "id": 119,
+      "title": "모노폴리",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__itemrep/img/8EP4ErNA709diOt6fUyJH30FtbU=/fit-in/246x300/filters:strip_icc()/pic5786795.jpg",
+      "tableData": [
+          ["디자이너", "Charles Darrow"],
+          ["개발사", "Parker Brothers"],
+          ["발매년", "1933"],
+          ["인원", "2~8 명"],
+          ["플레이 시간", "60~180 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "경제, 협상"],
+          ["시스템", "경매, 플레이어 탈락, 거래, 주사위 이동, 셋 콜렉션, 주식 거래]"]
+      ]
+    },
+    {
+      "id": 120,
+      "title": "모던 아트",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/wLto-xaabHwKQe_Bc4iD1Q__itemrep/img/50m6JYV9RIt0kXps9f100ockzHU=/fit-in/246x300/filters:strip_icc()/pic3458036.png",
+      "tableData": [
+          ["디자이너", "Reiner Knizia"],
+          ["개발사", "Pegasus Spiele"],
+          ["발매년", "1992"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략 게임, 카드 게임"],
+          ["테마", "경제, 경영"],
+          ["시스템", "경매, 상품 투기, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 121,
+      "title": "몸바사",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/VceWk5QVkgIp6rWDl5qHKQ__itemrep/img/A8devOPglJpDntW9QWkSwU5RBog=/fit-in/246x300/filters:strip_icc()/pic2611318.jpg",
+      "tableData": [
+          ["디자이너", "Alexander Pfister"],
+          ["개발사", "eggertspiele"],
+          ["발매년", "2016"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "75~150 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "경제, 경영"],
+          ["시스템", "행동 및 이동 예약, 지역 영향력 및 확장, 카드 드래프트, 덱 빌딩, 핸드 관리, 동시 액션 선택, 주식 거래, 일꾼 배치, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 122,
+      "title": "미니빌",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/_lI2eUDHfesfe5SswJiFAg__itemrep/img/URlylIljrUdRlmOiZjB7U-me8Og=/fit-in/246x300/filters:strip_icc()/pic4783831.png",
+      "tableData": [
+          ["디자이너", "菅沼正夫 (Masao Suganuma)"],
+          ["개발사", "Grounding Inc"],
+          ["발매년", "2012"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "7세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "카드 게임, 도시 건설, 주사위"],
+          ["시스템", "카드 드래프트, 주사위 굴림"]
+      ]
+    },
+    {
+      "id": 123,
+      "title": "번레이트",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/lzW2e64kLOUVBYSYUD3Y5w__itemrep/img/E01OblDwpXESP1fnGVmckP9dPr0=/fit-in/246x300/filters:strip_icc()/pic643192.jpg",
+      "tableData": [
+          ["디자이너", "Rich Koehler"],
+          ["개발사", "Cool Studio"],
+          ["발매년", "2002"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 경제"],
+          ["시스템", "카드 드래프트, 핸드 관리, 다이렉트 공격"]
+      ]
+    },
+    {
+      "id": 124,
+      "title": "보난자",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/hTK_hi_S0RvDRuZKyNEgvQ__itemrep/img/NGVqZM341ulIEqvIpwyDn7kEGXw=/fit-in/246x300/filters:strip_icc()/pic69366.jpg",
+      "tableData": [
+          ["디자이너", "우베 로젠버그"],
+          ["개발사", "아미고"],
+          ["발매년", "1997"],
+          ["인원", "2~7 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "13세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "카드 게임, 농업, 협상"],
+          ["시스템", "핸드 관리, 셋 콜렉션, 거래"]
+      ]
+    },
+    {
+      "id": 125,
+      "title": "부루마불",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/e0qe3sXkyHom5otAvaiE8g__itemrep/img/13F7OHW64LhyOnlhG-BN969i9a4=/fit-in/246x300/filters:strip_icc()/pic594969.jpg",
+      "tableData": [
+          ["디자이너", "이상배"],
+          ["개발사", "부루마불씨앗사"],
+          ["발매년", "1982"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", "주사위 이동, 플레이어 탈락, 거래]"]
+      ]
+    },
+    {
+      "id": 126,
+      "title": "부자만들기",
+      "genre": "economic",
+      "image": "http://image.auction.co.kr/itemimage/13/2e/6b/132e6bbe11.jpg",
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", ""],
+          ["발매년", ""],
+          ["인원", ""],
+          ["플레이 시간", ""],
+          ["연령", ""],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 127,
+      "title": "상트페테르부르크",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/Yoidfpvt2eACASYUpbmsyg__itemrep/img/d9g-e-W1jxRQfZ4clDkgLEvJqM8=/fit-in/246x300/filters:strip_icc()/pic246360.jpg",
+      "tableData": [
+          ["디자이너", "Bernd Brunnhofer"],
+          ["개발사", "Rio Grande Games"],
+          ["발매년", "2004"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "45~60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "합리주의 시대, 카드 게임, 경제, 경영"],
+          ["시스템", "카드 드래프트, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 128,
+      "title": "산후안",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/kiD03bslLpN_0Qe1LJ8OGg__itemrep/img/sW_yt7M1ZhWWPELnZHyzQ2Wjqs4=/fit-in/246x300/filters:strip_icc()/pic174174.jpg",
+      "tableData": [
+          ["디자이너", "Andreas Seyfarth"],
+          ["개발사", "alea"],
+          ["발매년", "2004"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "45~60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 도시 건설, 경제"],
+          ["시스템", "핸드 관리, 셋 콜렉션, 가변적 단계 순서"]
+      ]
+    },
+    {
+      "id": 129,
+      "title": "아그리콜라",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__itemrep/img/DzC9cA0TNmWUO7WLdl4-uFHfO_k=/fit-in/246x300/filters:strip_icc()/pic831744.jpg",
+      "tableData": [
+          ["디자이너", "우베 로젠버그"],
+          ["개발사", "룩아웃 게임즈"],
+          ["발매년", "2007"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "100~200 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "동물, 경제, 농사"],
+          ["시스템", "일꾼 배치, 지역 봉쇄, 카드 드래프트, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 130,
+      "title": "어콰이어",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/3C--kJRhi6kTPHsr9dNaWw__itemrep/img/aE-ZVu4dhOshCpADGYkO68Kewd0=/fit-in/246x300/filters:strip_icc()/pic3299296.jpg",
+      "tableData": [
+          ["디자이너", "Sid Sackson"],
+          ["개발사", "3M, Avalon Hill"],
+          ["발매년", "1964"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "경제"],
+          ["시스템", "타일 배치, 핸드 관리, 주식 거래"]
+      ]
+    },
+    {
+      "id": 131,
+      "title": "에이지 오브 스팀",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__itemrep/img/0BOxVVY3gwGXtU92EUU0EaW6yew=/fit-in/246x300/filters:strip_icc()/pic4557340.png",
+      "tableData": [
+          ["디자이너", "Martin Wallace"],
+          ["개발사", "Eagle-Gryphon Games"],
+          ["발매년", "2002"],
+          ["인원", "1~6 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "경제, 철도, 운송"],
+          ["시스템", "경매, 길 놓기, 주사위 굴림, 타일 배치"]
+      ]
+    },
+    {
+      "id": 132,
+      "title": "오딘을 위한 잔치(한글판 발매명 : 오딘을 위하여)",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__itemrep/img/IRX2-uakhv7gHZPJNmtDbWFpjLg=/fit-in/246x300/filters:strip_icc()/pic3146943.png",
+      "tableData": [
+          ["디자이너", "Uwe Rosenberg"],
+          ["개발사", "Feuerland Spiele"],
+          ["발매년", "2016"],
+          ["인원", "1~4 명"],
+          ["플레이 시간", "30~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 133,
+      "title": "인생게임",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/c4S2XDRb_DCYCAV-ZAzDpg__itemrep/img/3NPhqG3Emz0QukNRqVFBb_hsYQk=/fit-in/246x300/filters:strip_icc()/pic288405.jpg",
+      "tableData": [
+          ["디자이너", "Reuben Klamer, Bill Markham"],
+          ["개발사", "Milton Bradley"],
+          ["발매년", "1960"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "경제, 어린이 게임"],
+          ["시스템", "주사위 이동, 시뮬레이션"]
+      ]
+    },
+    {
+      "id": 134,
+      "title": "인생역전",
+      "genre": "economic",
+      "image": "http://img4.tmon.kr/cdn3/deals/2019/07/23/2280474162/2280474162_front_c583b93b97.jpg",
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", ""],
+          ["발매년", ""],
+          ["인원", ""],
+          ["플레이 시간", ""],
+          ["연령", ""],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 135,
+      "title": "자이푸르",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__itemrep/img/gSigdzXaUWvudQ0vJjSbs-mXaRk=/fit-in/246x300/filters:strip_icc()/pic5100947.jpg",
+      "tableData": [
+          ["디자이너", "Sébastien Pauchon"],
+          ["개발사", "GameWorks SàRL"],
+          ["발매년", "2009"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "12세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "동물, 테마 게임"],
+          ["시스템", "카드 드래프트, 핸드 관리, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 136,
+      "title": "지하철 노선 골든게임",
+      "genre": "economic",
+      "image": "http://image.auction.co.kr/itemimage/1b/ae/74/1bae748a91.jpg",
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", ""],
+          ["발매년", ""],
+          ["인원", ""],
+          ["플레이 시간", ""],
+          ["연령", ""],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 137,
+      "title": "카탄",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg",
+      "tableData": [
+          ["디자이너", "Klaus Teuber"],
+          ["개발사", "Kosmos"],
+          ["발매년", "1995"],
+          ["인원", "3~4 명"],
+          ["플레이 시간", "60~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "가족 게임, 전략"],
+          ["테마", "협상"],
+          ["시스템", "주사위 굴림, 조립형 보드, 핸드 관리, 길 놓기, 거래"]
+      ]
+    },
+    {
+      "id": 138,
+      "title": "테라포밍 마스",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep/img/IwUOQfhP5c0KcRJBY4X_hi3LpsY=/fit-in/246x300/filters:strip_icc()/pic3536616.jpg",
+      "tableData": [
+          ["디자이너", "Jacob Fryxelius"],
+          ["개발사", "FryxGames"],
+          ["발매년", "2016"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "90~120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "SF, 경제, 산업, 제조, 영토 건설, 환경"],
+          ["시스템", "카드 드래프트, 타일 놓기, 다양한 플레이어 능력, 핸드 관리]"]
+      ]
+    },
+    {
+      "id": 139,
+      "title": "티켓 투 라이드",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__itemrep/img/iiTIuTtuneM3tbDCjALecsgyizA=/fit-in/246x300/filters:strip_icc()/pic38668.jpg",
+      "tableData": [
+          ["디자이너", "Alan R. Moon"],
+          ["개발사", "Days of Wonder"],
+          ["발매년", "2004"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "30~60 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "기차, 여행"],
+          ["시스템", "카드 드래프트, 길 놓기, 핸드 관리, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 140,
+      "title": "파워 그리드",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__itemrep/img/LsqKzcnoaVUlSUmLxFE8dwxFndk=/fit-in/246x300/filters:strip_icc()/pic4459753.jpg",
+      "tableData": [
+          ["디자이너", "Friedemann Friese"],
+          ["개발사", "2F-Spiele"],
+          ["발매년", "2004"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "경제, 건설, 공장"],
+          ["시스템", "경매, 길 놓기"]
+      ]
+    },
+    {
+      "id": 141,
+      "title": "푸에르토 리코",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep/img/YDEozo5DfKYdDp8xi2mAfoV2qWk=/fit-in/246x300/filters:strip_icc()/pic158548.jpg",
+      "tableData": [
+          ["디자이너", "Andreas Seyfarth"],
+          ["개발사", "Alea"],
+          ["발매년", "2002"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "90~150 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "도시 건설, 경제, 농사"],
+          ["시스템", "가변적 단계 순서"]
+      ]
+    },
+    {
+      "id": 142,
+      "title": "카베르나: 동굴 속 농부들",
+      "genre": "economic",
+      "image": "https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__itemrep/img/8tBInJIElBaiYVJ-gngzWmrSrsw=/fit-in/246x300/filters:strip_icc()/pic1790789.jpg",
+      "tableData": [
+          ["디자이너", "우베 로젠버그"],
+          ["개발사", "룩아웃 게임즈"],
+          ["발매년", "2013"],
+          ["인원", "1~7 명"],
+          ["플레이 시간", "30~210 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "동물, 경제, 판타지, 농경"],
+          ["시스템", "일꾼 배치, 타일 놓기"]
+      ]
+    },
+    {
+      "id": 143,
+      "title": "호텔왕게임",
+      "genre": "economic",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-_mVoupeZxWldrKKz61JB5PwzAJtvCf0lA&usqp=CAU",
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", ""],
+          ["발매년", ""],
+          ["인원", ""],
+          ["플레이 시간", ""],
+          ["연령", ""],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 144,
+      "title": "러시아워 시리즈",
+      "genre": "puzzle",
+      "image": "https://www.koreaboardgames.com/upload/uploaded/prd/165971481993630.png",
+      "tableData": [
+          ["디자이너", "노부유키 요시가하라"],
+          ["개발사", "Binary Arts"],
+          ["발매년", "1970년대"],
+          ["인원", "1 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", "퍼즐, 교통"],
+          ["시스템", "포인트간 이동"]
+      ]
+    },
+    {
+      "id": 145,
+      "title": "어메이징 라비린스",
+      "genre": "puzzle",
+      "image": "https://cf.geekdo-images.com/R1BmYXFbv-7UyNWQEb6PUg__itemrep/img/KncWyi4BmFW_VdQShZFufhD6TXQ=/fit-in/246x300/filters:strip_icc()/pic2773940.jpg",  
+      "tableData": [
+          ["디자이너", "Max J. Kobbert"],
+          ["개발사", "Ravensburger"],
+          ["발매년", "1986"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 어린이 게임"],
+          ["테마", "마법, 판티지, 퍼즐"],
+          ["시스템", "조립형 보드, 포인트간 이동, 길 놓기, 타일 배치"]
+      ]
+    },
+    {
+      "id": 146,
+      "title": "경찰과 도둑",
+      "genre": "detective",
+      "image": "http://boardlife.co.kr/wys2/file_attach/2016/05/27/1464343741-33.jpg",
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", ""],
+          ["발매년", ""],
+          ["인원", ""],
+          ["플레이 시간", ""],
+          ["연령", ""],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 147,
+      "title": "다빈치 코드",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/3Jcus6QkEVnUMNHD2aaQXQ__itemrep/img/77dCGlm9wzn6JIEaIMKUvniptho=/fit-in/246x300/filters:strip_icc()/pic1273407.jpg",  
+      "tableData": [
+          ["디자이너", "스즈키 히로아키(鈴木博昭), 와카스기 에이지(若杉栄二)"],
+          ["개발사", "Gakken"],
+          ["발매년", "2002"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "8세 이상"],
+          ["장르", "추상"],
+          ["테마", "추리"],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 148,
+      "title": "단간론파: 초고교급 늑대인간",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/BLIwHkRq0RsJUD_zIysRXw__itemrep/img/jWk7rFFnwkgjkwMgbGx1ECjhub4=/fit-in/246x300/filters:strip_icc()/pic2433697.png",
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", "Arclight"],
+          ["발매년", "2013"],
+          ["인원", "5~17 명"],
+          ["플레이 시간", "10~60 분"],
+          ["연령", "12세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "협잡, 카드 게임, 추리, 마피아, 파티 게임, 비디오 게임 기반"],
+          ["시스템", "연기, 협력 게임, 연합, 플레이어 탈락, 롤플레잉, 투표, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 149,
+      "title": "듀크",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/dDFcB5lodNZxzxfWsTJtUg__itemrep/img/1GZ60UMu87ZqGHTDquNZvY6nQ60=/fit-in/246x300/filters:strip_icc()/pic1688903.jpg",
+      "tableData": [
+          ["디자이너", "Jeremy Holcomb Stephen McLaughlin"],
+          ["개발사", "Catalyst Game Labs"],
+          ["발매년", "2013"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "13세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략, 중세"],
+          ["시스템", "격자칸 이동, 타일 배치"]
+      ]
+    },
+    {
+      "id": 150,
+      "title": "딕싯",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/uSgzS-SClISqDkYRCdUq6g__itemrep/img/j3CoT2bYnzVIqtyE3vENknvc30g=/fit-in/246x300/filters:strip_icc()/pic3483909.jpg",
+      "tableData": [
+          ["디자이너", "Jean-Louis Roubira"],
+          ["개발사", "Libellud"],
+          ["발매년", "2008"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "6세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "카드 게임, 유머, 파티 게임"],
+          ["시스템", "동시 액션 선택, 투표, 스토리텔링"]
+      ]
+    },
+    {
+      "id": 151,
+      "title": "루미큐브",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__itemrep/img/x4GW0OJaN-pV8-K_b4RTSFioW6U=/fit-in/246x300/filters:strip_icc()/pic2286966.jpg",
+      "tableData": [
+          ["디자이너", "Ephraim Hertzano"],
+          ["개발사", "Lemada Light Industry"],
+          ["발매년", "1977"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "숫자, 카드 게임"],
+          ["시스템", "셋 콜렉션, 타일 배치"]
+      ]
+    },
+    {
+      "id": 152,
+      "title": "레지스탕스 아발론",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__itemrep/img/KtGX_JFWNUXci7H5zs7GjS0QrQk=/fit-in/246x300/filters:strip_icc()/pic1398895.jpg",
+      "tableData": [
+          ["디자이너", "Don Eskridge"],
+          ["개발사", "Indie Boards & Cards"],
+          ["발매년", "2012"],
+          ["인원", "5~10 명"],
+          ["플레이 시간", "15~30 분"],
+          ["연령", "13세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "협잡, 카드 게임, 추리, 판타지, 중세, 협상, 파티 게임"],
+          ["시스템", "기억력, 연합, 동시 액션 선택, 다양한 플레이어 능력, 투표]"]
+      ]
+    },
+    {
+      "id": 153,
+      "title": "레지스탕스 쿠",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__itemrep/img/QRw3T5XGsrRs-QKCSpzwE7nFqOg=/fit-in/246x300/filters:strip_icc()/pic2016054.jpg",
+      "tableData": [
+          ["디자이너", "Rikki Tahta"],
+          ["개발사", "Indie Boards & Cards"],
+          ["발매년", "2012"],
+          ["인원", "1~6 명"],
+          ["플레이 시간", "15~20 분"],
+          ["연령", "13세 이상"],
+          ["장르", "추리, 블러핑"],
+          ["테마", "디스토피아, 정치"],
+          ["시스템", "추리, 의심, 확인, 핸드 관리, 재물 관리, 다양한 카드 능력"]
+      ]
+    },
+    {
+      "id": 154,
+      "title": "미스터 잭",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/CDdF4xOQJsNK0gX8-tBdCQ__itemrep/img/_YdCCKiPRSPuqsUh8Bt2qYfNTO8=/fit-in/246x300/filters:strip_icc()/pic3066125.jpg",
+      "tableData": [
+          ["디자이너", "Bruno Cathala, Ludovic Maublanc"],
+          ["개발사", "Hurrican"],
+          ["발매년", "2006"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "9세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "추리, 살인, 미스테리"],
+          ["시스템", "격자칸 이동, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 155,
+      "title": "배틀십",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/oWcB33sfig9QF_KBEv7iLQ__itemrep/img/zcDS5maPgMDc_FwLaqHhmpqhAWE=/fit-in/246x300/filters:strip_icc()/pic2439783.png",
+      "tableData": [
+          ["디자이너", "Clifford Von Wickler"],
+          ["개발사", "Milton Bradley"],
+          ["발매년", "1931"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "어린이 게임"],
+          ["테마", "어린이 게임, 추리, 해양, 워 게임"],
+          ["시스템", "유닛 정보 숨김"]
+      ]
+    },
+    {
+      "id": 156,
+      "title": "십삼지신",
+      "genre": "detective",
+      "image": "https://shopping-phinf.pstatic.net/main_2403218/24032185875.20200904024345.jpg?type=f640",
+      "tableData": [
+          ["디자이너", "황지남"],
+          ["개발사", "TEACHERMALL"],
+          ["발매년", "2016"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "7세 이상"],
+          ["장르", "수학 보드 게임"],
+          ["테마", "카드 게임, 추리 게임"],
+          ["시스템", "전략, 추리, 심리"]
+      ]
+    },
+    {
+      "id": 157,
+      "title": "쉐도우 헌터",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/xpoq2m7I5yEUGq5FRnccFg__itemrep/img/vfEjzroK7IS0J3oktDv4LOI3WB0=/fit-in/246x300/filters:strip_icc()/pic5988901.jpg",
+      "tableData": [
+          ["디자이너", "池田 康隆 (Yasutaka Ikeda)"],
+          ["개발사", "지맨 게임즈"],
+          ["발매년", "2005"],
+          ["인원", "4~8 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "13세 이상"],
+          ["장르", "파티 게임, 테마 게임"],
+          ["테마", "모험, 협잡, 카드 게임, 추리, 공포, 파티 게임"],
+          ["시스템", "주사위 굴림, 연합, 플레이어 탈락, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 158,
+      "title": "스코틀랜드 야드",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/NbHZjHmQcA5_TenhVJtJ3w__itemrep/img/fMk4d7BpMMAXSjQiR9E3NlBeZoM=/fit-in/246x300/filters:strip_icc()/pic4527702.jpg",
+      "tableData": [
+          ["디자이너", "Manfred Burggraf"],
+          ["개발사", "Ravensburger"],
+          ["발매년", "1983"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "추리, 여행"],
+          ["시스템", "연합, 포인트 간 이동, 유닛 정보 숨김"]
+      ]
+    },
+    {
+      "id": 159,
+      "title": "시크릿 히틀러",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__itemrep/img/EQ1jwjZYnucHSizVlzHE8DiyEQI=/fit-in/246x300/filters:strip_icc()/pic5164305.jpg",
+      "tableData": [
+          ["디자이너", "Mike Boxleiter, Tommy Maranges, Max Temkin"],
+          ["개발사", "Goat Wolf & Cabbage"],
+          ["발매년", "2016"],
+          ["인원", "5~10 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "13세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "협잡, 카드 게임, 파티 게임, 정치, 프린트&플레이, 2차 세계대전"],
+          ["시스템", "연합, 플레이어 탈락, 투표"]
+      ]
+    },
+    {
+      "id": 160,
+      "title": "연금술 아카데미",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/ztNshEv3Fsm46HCJaEOFPw__itemrep/img/fgFxHXp815uaLr-wVObbguDdjfI=/fit-in/246x300/filters:strip_icc()/pic2241156.png",
+      "tableData": [
+          ["디자이너", "Matúš Kotry"],
+          ["개발사", "Czech Games Edition"],
+          ["발매년", "2014"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "추리, 판타지"],
+          ["시스템", "액션 포인트 지급 시스템, 카드 드래프트, 핸드 관리, 일꾼 배치"]
+      ]
+    },
+    {
+      "id": 161,
+      "title": "이웃집 몬스터",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/5LsS58GuWL_8sTFKqROnrg__itemrep/img/4qiDgkycJxfSSMXxbLWTmHnnt-M=/fit-in/246x300/filters:strip_icc()/pic2620938.jpg",
+      "tableData": [
+          ["디자이너", "Pesu Nabeno"],
+          ["개발사", "코리아보드게임즈"],
+          ["발매년", "2015"],
+          ["인원", "3~8 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 파티 게임"],
+          ["테마", "협잡, 추리, 카드 게임"],
+          ["시스템", "핸드 관리"]
+      ]
+    },
+    {
+      "id": 162,
+      "title": "참극RoopeR",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/fsUCwhRp_5knh6eY8EduTw__itemrep/img/ijLwzP7xiyuZcemNZsnIxji0NLc=/fit-in/246x300/filters:strip_icc()/pic2046290.png",
+      "tableData": [
+          ["디자이너", "Tragedy RoopeR, BakaFire"],
+          ["개발사", "BakaFire Party"],
+          ["발매년", "2011"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "13세 이상"],
+          ["장르", "테마 게임, 전략"],
+          ["테마", "협잡, 추리, 미스테리"],
+          ["시스템", "격자칸 이동, 기억력, 협력 게임"]
+      ]
+    },
+    {
+      "id": 163,
+      "title": "코드네임",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__itemrep/img/e8zw8YQvQB8q8zfWkHQ48Ls920g=/fit-in/246x300/filters:strip_icc()/pic2582929.jpg",
+      "tableData": [
+          ["디자이너", "Vlaada Chvátil"],
+          ["개발사", "Czech Games Edition"],
+          ["발매년", "2015"],
+          ["인원", "2~8 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "14세 이상"],
+          ["장르", "가족 게임, 파티 게임"],
+          ["테마", "카드 게임, 추리, 팀워크, 스파이, 첩보, 낱말 게임"],
+          ["시스템", "기억력, 연합, 패턴 인식, 운 시험하기"]
+      ]
+    },
+    {
+      "id": 164,
+      "title": "클루",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/owlmDA10KegcwPaapY5auw__itemrep/img/l389R4AqZbn89WSROMFpvBb11fo=/fit-in/246x300/filters:strip_icc()/pic5146918.png",
+      "tableData": [
+          ["디자이너", "Anthony E. Pratt"],
+          ["개발사", "Parker Brothers"],
+          ["발매년", "1949"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "협잡, 추리, TV테마, 미스터리"],
+          ["시스템", "격자칸 이동, 핸드 관리, 기억력, 종이와 연필, 주사위 이동"]
+      ]
+    },
+    {
+      "id": 165,
+      "title": "타뷸라의 늑대",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/OKdZfHaYMrSLvLujea1fyg__itemrep/img/Wi1hT_CmdkICT_VSzmpyFFNc2gU=/fit-in/246x300/filters:strip_icc()/pic5544868.png",
+      "tableData": [
+          ["디자이너", "Domenico Di Giorgio"],
+          ["개발사", "디브이 기오치"],
+          ["발매년", "2001"],
+          ["인원", "8~24 명"],
+          ["플레이 시간", "20~40 분"],
+          ["연령", "8세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "협잡, 추리, 호러, 살인과 미스테리, 협상, 파티 게임"],
+          ["시스템", "연합, 역할 연기, 다양한 플레이어 능력, 투표]"]
+      ]
+    },
+    {
+      "id": 166,
+      "title": "톱 시크릿 스파이",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/dTrLw84p0NUyaMnYkqmxew__itemrep/img/9fy0o_wdn3XrzyMOrll7a-VrpOg=/fit-in/246x300/filters:strip_icc()/pic3989541.png",
+      "tableData": [
+          ["디자이너", "Wolfgang Kramer"],
+          ["개발사", "Ravensburger Rio Grande Games"],
+          ["발매년", "1984"],
+          ["인원", "2~7 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "블러핑, 첩자, 비밀요원, 추리"],
+          ["시스템", "주사위 이동"]
+      ]
+    },
+    {
+      "id": 167,
+      "title": "하나비",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__itemrep/img/-8TE91boynDg5reWQGyIkc7Wx6I=/fit-in/246x300/filters:strip_icc()/pic2007286.jpg",
+      "tableData": [
+          ["디자이너", "Antoine Bauza"],
+          ["개발사", "Abacus Spiele"],
+          ["발매년", "2010"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "25 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "카드 게임, 추리, 기억력"],
+          ["시스템", "협력 게임, 핸드 관리, 기억력, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 168,
+      "title": "한밤의 늑대인간",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__itemrep/img/qv0WkrvyQumuNtJry2pjodxjZ5k=/fit-in/246x300/filters:strip_icc()/pic1809823.jpg",
+      "tableData": [
+          ["디자이너", "Ted Alspach, Akihisa Okui"],
+          ["개발사", "Bezier Games, Inc."],
+          ["발매년", "2014"],
+          ["인원", "3~10 명"],
+          ["플레이 시간", "10 분"],
+          ["연령", "8세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "협잡, 카드 게임, 추리, 호러, 파티 게임"],
+          ["시스템", "역할 연기, 투표, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 169,
+      "title": "화이트채플에서 온 편지",
+      "genre": "detective",
+      "image": "https://cf.geekdo-images.com/H3G1t-oIjN9gEVVI21FoVg__itemrep/img/5ARXTgT-m-cjWOcaxGX9KMXMbxM=/fit-in/246x300/filters:strip_icc()/pic1545654.jpg",
+      "tableData": [
+          ["디자이너", "Gabriele Mari, Gianluca Santopietro"],
+          ["개발사", "Giochi Uniti"],
+          ["발매년", "2011"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "120 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략, 테마 게임"],
+          ["테마", "협잡, 추리, 미스테리, 빈 체제"],
+          ["시스템", "기억력, 연합, 포인트간 이동, 유닛 정보 숨김"]
+      ]
+    },
+    {
+      "id": 170,
+      "title": "7 원더스",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__itemrep/img/F__zhk-OFDgFcMBysW2JlcYJADw=/fit-in/246x300/filters:strip_icc()/pic860217.jpg",
+      "tableData": [
+          ["디자이너", "Antoine Bauza"],
+          ["개발사", "Repos Production"],
+          ["발매년", "2010"],
+          ["인원", "2~7 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "10세 이상"],
+          ["장르", "패밀리, 전략"],
+          ["테마", "고대, 도시 건설, 문명"],
+          ["시스템", "가변적 단계 순서, 카드 드래프트, 셋 콜렉션, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 171,
+      "title": "7 원더스: 듀얼",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/WzNs1mA_o22ZWTR8fkLP2g__itemrep/img/sDjIG76VOwrlySbj_5rdnAaWO_0=/fit-in/246x300/filters:strip_icc()/pic3376065.jpg",  
+      "tableData": [
+          ["디자이너", "Antoine Bauza, Bruno Cathala"],
+          ["개발사", "Repos Production"],
+          ["발매년", "2015"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30~40 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략, 테마 게임"],
+          ["테마", "고대, 문명, 도시 건설"],
+          ["시스템", "셋 컬렉션, 카드 드래프트"]
+      ]
+    },
+    {
+      "id": 172,
+      "title": "길로틴",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/9gdaUHNTcgv8RhFhG0kzBw__itemrep/img/wm72DEGPGFwhRyerV6E4eb58Pvc=/fit-in/246x300/filters:strip_icc()/pic143139.jpg",
+      "tableData": [
+          ["디자이너", "Paul Peterson"],
+          ["개발사", "위자드 오브 더 코스트"],
+          ["발매년", "1998"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "12세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "카드 게임, 유머, 프랑스 대혁명"],
+          ["시스템", "핸드 관리"]
+      ]
+    },
+    {
+      "id": 173,
+      "title": "달무티",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/LVCXyZpkL6rPsouhWV3noA__itemrep/img/Up5zJVWnPlSAaWUrPzwZhT2pjo4=/fit-in/246x300/filters:strip_icc()/pic711236.jpg",
+      "tableData": [
+          ["디자이너", "Richard Gafield"],
+          ["개발사", "위저드 오브 더 코스트 / 아미고"],
+          ["발매년", "1995"],
+          ["인원", "4~8 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "8세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "카드 게임, 중세"],
+          ["시스템", "핸드 관리, 클라이밍"]
+      ]
+    },
+    {
+      "id": 174,
+      "title": "도미니언",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__itemrep/img/_QiaiFj-LGZoqdatE-wVqNaYWx8=/fit-in/246x300/filters:strip_icc()/pic394356.jpg",
+      "tableData": [
+          ["디자이너", "Donald X. Vaccarino"],
+          ["개발사", "Rio Grande Games"],
+          ["발매년", "2008"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 중세"],
+          ["시스템", "카드 드래프트, 덱 빌딩, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 175,
+      "title": "러브레터",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__itemrep/img/SJxpAXjBIPEj9m6hHZYeTbz9wzc=/fit-in/246x300/filters:strip_icc()/pic1401448.jpg",
+      "tableData": [
+          ["디자이너", "カナイ セイジ (Seiji Kanai)"],
+          ["개발사", "カナイ製作所(Kanai Factory)"],
+          ["발매년", "2012"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "협잡, 카드 게임, 추리, 르네상스 시대"],
+          ["시스템", "핸드 관리, 플레이어 탈락]"]
+      ]
+    },
+    {
+      "id": 176,
+      "title": "문명",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__itemrep/img/yTcqoZKFqXfzC7zcRQrtIaAIwZI=/fit-in/246x300/filters:strip_icc()/pic798666.jpg",
+      "tableData": [
+          ["디자이너", "Kevin Wilson"],
+          ["개발사", "Fantasy Flight Games"],
+          ["발매년", "2010"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "120~240 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "문명, 협상, 탐험, 도시 건설, PC 게임 테마"],
+          ["시스템", "카드 드래프트, 덱 빌딩, 교환, 핸드 관리, 격자칸 이동, 조립형 보드판, 가위바위보, 동시 액션 선택, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 177,
+      "title": "빌리지",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/5FBIAvZi3Sw8dvmfwwJTjg__itemrep/img/ZuFvXxXEHgC9urtWSMEgdDI_yFo=/fit-in/246x300/filters:strip_icc()/pic2760568.jpg",
+      "tableData": [
+          ["디자이너", "Inka Brand, Markus Brand"],
+          ["개발사", "eggertspiele Pegasus Spiele"],
+          ["발매년", "2011"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "60~90 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "농경, 중세"],
+          ["시스템", "셋 콜렉션, 일꾼 배치"]
+      ]
+    },
+    {
+      "id": 178,
+      "title": "석기시대",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__itemrep/img/vApiI-gvXtwafEriPc4jDVJ1ajA=/fit-in/246x300/filters:strip_icc()/pic1632539.jpg",
+      "tableData": [
+          ["디자이너", "Bernd Brunnhofer"],
+          ["개발사", "Hans im Glück Verlags-GmbH"],
+          ["발매년", "2008"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "60~90 분"],
+          ["연령", "13세 이상"],
+          ["장르", "가족 게임, 전략"],
+          ["테마", "주사위, 선사시대"],
+          ["시스템", "일꾼 배치, 주사위 굴림, 셋 컬렉션"]
+      ]
+    },
+    {
+      "id": 179,
+      "title": "스플렌더",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/rwOMxx4q5yuElIvo-1-OFw__itemrep/img/NaQx3XWoNAOMDGl4AXf4nxlhHo0=/fit-in/246x300/filters:strip_icc()/pic1904079.jpg",
+      "tableData": [
+          ["디자이너", "Marc André"],
+          ["개발사", "Space Cowboys"],
+          ["발매년", "2014"],
+          ["인원", "2 ~ 4명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족게임"],
+          ["테마", "카드게임, 경제, 르네상스 시대"],
+          ["시스템", "카드드래프트, 셋콜렉션"]
+      ]
+    },
+    {
+      "id": 180,
+      "title": "시타델",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__itemrep/img/NVAwUCUVc6QWNKZNUBiIMg2nk8A=/fit-in/246x300/filters:strip_icc()/pic3239104.jpg",
+      "tableData": [
+          ["디자이너", "Bruno Faidutti"],
+          ["개발사", "MultiSim"],
+          ["발매년", "2000"],
+          ["인원", "2~8 명"],
+          ["플레이 시간", "20~60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임, 전략"],
+          ["테마", "협잡, 카드 게임, 도시 건설, 판타지, 중세시대"],
+          ["시스템", "카드 드래프트, 셋 콜렉션, 다양한 플레이어 능력, 가변적 단계 순서]"]
+      ]
+    },
+    {
+      "id": 181,
+      "title": "쓰루 디 에이지스",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/3piN3YX4WmBRuIvbEG2Ygg__itemrep/img/DKZbeW87bMXJoELGFrPjWj73V_o=/fit-in/246x300/filters:strip_icc()/pic236169.jpg",
+      "tableData": [
+          ["디자이너", "블라다 츠바틸"],
+          ["개발사", "Czech Board Games"],
+          ["발매년", "2006"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "240 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "문명, 경제"],
+          ["시스템", "액션 포인트 지급, 경매, 카드 드래프트, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 182,
+      "title": "알함브라",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__itemrep/img/7RUFLxeNec7dSbH0d_t77bFj3mo=/fit-in/246x300/filters:strip_icc()/pic4893652.jpg",
+      "tableData": [
+          ["디자이너", "Dirk Henn"],
+          ["개발사", "Queen Games"],
+          ["발매년", "2003"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "45~60 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 전략"],
+          ["테마", "아라비아, 도시 건설, 중세"],
+          ["시스템", "카드 드래프트, 핸드 관리, 셋 콜렉션, 타일 배치"]
+      ]
+    },
+    {
+      "id": 183,
+      "title": "인트리게",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/l8ki305GFjjmrRworLUzLw__itemrep/img/ZwVmxLGZQX0LtbDMJmv9PuezzXY=/fit-in/246x300/filters:strip_icc()/pic182825.jpg",
+      "tableData": [
+          ["디자이너", "Stefan Dorra"],
+          ["개발사", "F.X. Schmid"],
+          ["발매년", "1994"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "협상, 르네상스 시대"],
+          ["시스템", "지역 영향력 및 확장, 경매"]
+      ]
+    },
+    {
+      "id": 184,
+      "title": "장미전쟁",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/vfFy_HLiBNLxptwxFDMmDg__itemrep/img/FMkDszZPNDb7aNdi5lgw194-OkI=/fit-in/246x300/filters:strip_icc()/pic2855891.jpg",
+      "tableData": [
+          ["디자이너", "Dirk Henn"],
+          ["개발사", "Kosmos"],
+          ["발매년", "1992"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "10세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략, 중세"],
+          ["시스템", "격자칸 이동, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 185,
+      "title": "카르카손",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__itemrep/img/sT0kjr-Klona2rygvD8kURJgqdU=/fit-in/246x300/filters:strip_icc()/pic2337577.jpg",
+      "tableData": [
+          ["디자이너", "Klaus-Jürgen Wrede"],
+          ["개발사", "Hans im Glück Verlags-GmbH"],
+          ["발매년", "2000"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "30~45 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "중세, 영토 건설"],
+          ["시스템", "지역 영향력 및 확장, 타일 배치"]
+      ]
+    },
+    {
+      "id": 186,
+      "title": "케일러스",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/yC7nOSc1x5PT-oNnh6TEcQ__itemrep/img/jVFZ85jsjJHQUXlImoDptZcENP8=/fit-in/246x300/filters:strip_icc()/pic1638795.jpg",
+      "tableData": [
+          ["디자이너", "William Attia"],
+          ["개발사", "Ystari Games"],
+          ["발매년", "2005"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "60~150 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략"],
+          ["테마", "도시 건설, 경제, 중세"],
+          ["시스템", "일꾼 배치"]
+      ]
+    },
+    {
+      "id": 187,
+      "title": "킹덤 빌더",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__itemrep/img/ryZkPwqIt2kkAVb69yW9uXe6RlQ=/fit-in/246x300/filters:strip_icc()/pic1152359.jpg",
+      "tableData": [
+          ["디자이너", "Donald X. Vaccarino)"],
+          ["개발사", "Queen Games"],
+          ["발매년", "2011"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 전략 게임"],
+          ["테마", "중세, 영역 싸움"],
+          ["시스템", "지역 영향력 및 확장, 지역 봉쇄, 조립형 보드, 길 놓기"]
+      ]
+    },
+    {
+      "id": 188,
+      "title": "토레스",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/517PEREXQ2MuE-9-_W1UFw__itemrep/img/E7XEuVrg3uP89q56EZD9tgyT09Q=/fit-in/246x300/filters:strip_icc()/pic156051.jpg",
+      "tableData": [
+          ["디자이너", "Wolfgang Kramer, Michael Kiesling"],
+          ["개발사", "HUCH! & friends"],
+          ["발매년", "1999"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "12세 이상"],
+          ["장르", "추상, 전략"],
+          ["테마", "중세, 추상 전략"],
+          ["시스템", "액션 포인트 지급 시스템, 지역 영향력 및 확장, 지역 봉쇄, 격자칸 이동, 핸드 관리, 타일 배치"]
+      ]
+    },
+    {
+      "id": 189,
+      "title": "티그리스와 유프라테스",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/soAzNVWglCdVBacNjoCTJw__itemrep/img/y9QPelut6bx9GapoVqea8GqtKXQ=/fit-in/246x300/filters:strip_icc()/pic2338267.jpg",
+      "tableData": [
+          ["디자이너", "Reiner Knizia"],
+          ["개발사", "Euro Classics"],
+          ["발매년", "1997"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "추상 전략 게임, 고대, 영역 개척"],
+          ["시스템", "지역 영향력 및 확장, 핸드 관리, 셋 콜렉션, 타일 배치"]
+      ]
+    },
+    {
+      "id": 190,
+      "title": "피렌체의 제후",
+      "genre": "civilization",
+      "image": "https://cf.geekdo-images.com/yshiqrUPxndthguBgp3NKw__itemrep/img/KwS32GL61dQmjsYPkgdUGOY95B4=/fit-in/246x300/filters:strip_icc()/pic1306997.jpg",
+      "tableData": [
+          ["디자이너", "Wolfgang Kramer, Richard Ulrich, Jens Christoph Ulrich"],
+          ["개발사", "Rio Grande Games"],
+          ["발매년", "2000"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "75~100 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략 게임"],
+          ["테마", "도시 건설, 르네상스"],
+          ["시스템", "경매, 타일 배치"]
+      ]
+    },
+    {
+      "id": 191,
+      "title": "와이어트 어프",
+      "genre": "western",
+      "image": "https://cf.geekdo-images.com/-dMcNKE82PFSTnNOwNJd1g__itemrep/img/qEITcDjD9i22wi46Zbgb6axuS3U=/fit-in/246x300/filters:strip_icc()/pic2241574.jpg",
+      "tableData": [
+          ["디자이너", "Richard Borg, Mike Fitzgerald"],
+          ["개발사", "Ghenos Games, Maldito Games, Stonemaier Games"],
+          ["발매년", "2001"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30~45 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "미국 서부 개척 시대, 카드 게임"],
+          ["시스템", "핸드 관리, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 192,
+      "title": "뱅",
+      "genre": "western",
+      "image": "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__itemrep/img/odOgplfH-u2pzHgbhhDQF0aIsmA=/fit-in/246x300/filters:strip_icc()/pic1170986.jpg",  
+      "tableData": [
+          ["디자이너", "Emiliano Sciarra"],
+          ["개발사", "디브이 기오치"],
+          ["발매년", "2002"],
+          ["인원", "4~7 명"],
+          ["플레이 시간", "20~40 분"],
+          ["연령", "8세 이상"],
+          ["장르", "보드 게임"],
+          ["테마", "미국 서부 시대, 협잡, 카드 게임, 추리, 전투"],
+          ["시스템", "핸드 관리, 연합, 플레이어 탈락, 직접 공격, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 193,
+      "title": "콜트 익스프레스",
+      "genre": "western",
+      "image": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__itemrep/img/TvYm-n4tYlxtLfE2iU-aBDeRC5I=/fit-in/246x300/filters:strip_icc()/pic2869710.jpg",
+      "tableData": [
+          ["디자이너", "Christophe Raimbault"],
+          ["개발사", "Ludonaute"],
+          ["발매년", "2014"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "30~40 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족, 파티 게임"],
+          ["테마", "미국 서부, 전투, 열차"],
+          ["시스템", "행동 및 이동 예약, 핸드 관리, 기억력, 조립식 보드, 다이렉트 공격, 다양한 플레이어 능력]"]
+      ]
+    },
+    {
+      "id": 194,
+      "title": "카멜 업",
+      "genre": "racing",
+      "image": "https://cf.geekdo-images.com/1ph2jVOD1MudR1fK1nkwwA__itemrep/img/x5pEGB463NY3DOzCUC7wfU0itrI=/fit-in/246x300/filters:strip_icc()/pic2031446.png",
+      "tableData": [
+          ["디자이너", "Steffen Bogen"],
+          ["개발사", "eggertspiele"],
+          ["발매년", "2014"],
+          ["인원", "2~8 명"],
+          ["플레이 시간", "20~30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "동물, 주사위, 레이싱"],
+          ["시스템", "베팅, 주사위 굴림, 주사위 이동"]
+      ]
+    },
+    {
+      "id": 195,
+      "title": "캔트 스탑",
+      "genre": "racing",
+      "image": "https://cf.geekdo-images.com/JZpo3AnyFH4TqxKWFSFKGQ__itemrep/img/vMxp96HH6m6Tqo9mI-8xKnDfNiU=/fit-in/246x300/filters:strip_icc()/pic1046518.jpg",  
+      "tableData": [
+          ["디자이너", "Sid Sackson"],
+          ["개발사", "시드 잭슨 게임즈"],
+          ["발매년", "1980"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "9세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "레이싱, 주사위"],
+          ["시스템", "주사위 굴림, 운 시험하기"]
+      ]
+    },
+    {
+      "id": 196,
+      "title": "토끼와 거북이",
+      "genre": "racing",
+      "image": "https://cf.geekdo-images.com/rX7uZ5UCbVV61tNCTnZTmg__itemrep/img/dB038UcJ8wSKv2LA1ku3ch3-VLE=/fit-in/246x300/filters:strip_icc()/pic275126.jpg",
+      "tableData": [
+          ["디자이너", "David Parlett"],
+          ["개발사", "Rio Grande Games"],
+          ["발매년", "1973"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "레이싱, 동물"],
+          ["시스템", "핸드 관리, 포인트 간 이동, 주사위 굴림"]
+      ]
+    },
+    {
+      "id": 197,
+      "title": "포뮬러 D",
+      "genre": "racing",
+      "image": "https://cf.geekdo-images.com/ScuaQBHRYnsqrwSxSdEdIw__itemrep/img/M4VAiKG4O6gK3RnhznDm-ibIeaA=/fit-in/246x300/filters:strip_icc()/pic519914.jpg",
+      "tableData": [
+          ["디자이너", "Laurent Lavaur, Eric Randall"],
+          ["개발사", "Asmodee"],
+          ["발매년", "2008"],
+          ["인원", "2~10 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", "레이싱, 스포츠"],
+          ["시스템", "주사위 굴림 이동"]
+      ]
+    },
+    {
+      "id": 198,
+      "title": "프레스코",
+      "genre": "art",
+      "image": "https://cf.geekdo-images.com/DCVRR-zA7Jy9wjuZudTZ8w__itemrep/img/sQyFmT1SVqOaw1MJZgRxKKQE_uE=/fit-in/246x300/filters:strip_icc()/pic714398.jpg",
+      "tableData": [
+          ["디자이너", "Marco Ruskowski, Marcel Süßelbeck, Wolfgang Panning"],
+          ["개발사", "Queen Games"],
+          ["발매년", "2010"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임, 전략 게임"],
+          ["테마", "르네상스 시대, 프레스코, 미술"],
+          ["시스템", "행동 및 이동 예약, 격자칸 이동, 셋 콜렉션, 동시 액션 선택, 일꾼 배치"]
+      ]
+    },
+    {
+      "id": 199,
+      "title": "드본",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/A-6gi-KVQ4ShlhgXU3dRwg__itemrep/img/mMFDoSxZoevKUOWInbx6GCwSjys=/fit-in/246x300/filters:strip_icc()/pic3324136.jpg",
+      "tableData": [
+          ["디자이너", "Kris Burm"],
+          ["개발사", "GIPF Project"],
+          ["발매년", "2001"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "9세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략 게임"],
+          ["시스템", "격자칸 이동"]
+      ]
+    },
+    {
+      "id": 200,
+      "title": "렉시오",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/b7kwY1aWpdYgMxzcY2GHLg__itemrep/img/tYmSFiEfMg1JHW1DFaTcXnVkFko=/fit-in/246x300/filters:strip_icc()/pic1539491.png",
+      "tableData": [
+          ["디자이너", "Thomas H. Jung"],
+          ["개발사", "Dagoy, UBO CnC"],
+          ["발매년", "2004"],
+          ["인원", "3~5 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 201,
+      "title": "오델로",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/b0M435GTcUIJgcZ-vwDmCQ__itemrep/img/8w1ENzi1GEGPmPWmqwjG2ffNe6I=/fit-in/246x300/filters:strip_icc()/pic243834.jpg",
+      "tableData": [
+          ["디자이너", "John W. Mollett, Lewis Waterman"],
+          ["개발사", "A/S Informa Forlag, ABRA"],
+          ["발매년", "1883"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 202,
+      "title": "블로커스",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/96YA5wUJDxtPkmPxemr5Qg__itemrep/img/bAT-4VVj_PaCupAHL5nCjxhBqhM=/fit-in/246x300/filters:strip_icc()/pic2197702.jpg",
+      "tableData": [
+          ["디자이너", "Bernard Tavitian"],
+          ["개발사", "Sekkoia"],
+          ["발매년", "2000"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "4세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략 게임, 영역 건설"],
+          ["시스템", "영역 봉쇄, 타일 배치, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 203,
+      "title": "아발론",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/UzH1jAlqYUH9VEq2Wtvzjw__itemrep/img/6-Y9M20VQ73LL_d8zG0PGz9_Rh0=/fit-in/246x300/filters:strip_icc()/pic5253079.jpg",
+      "tableData": [
+          ["디자이너", "Michel Lalet, Laurent Levi"],
+          ["개발사", "Abalone Games"],
+          ["발매년", "1987"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "7세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략"],
+          ["시스템", "격자칸 이동"]
+      ]
+    },
+    {
+      "id": 204,
+      "title": "켈티스",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/GnKS0zE-EkuYfCrEUIlfzA__itemrep/img/DyayUfNRjWzAQWJYztn8FAL6H04=/fit-in/246x300/filters:strip_icc()/pic382457.jpg",
+      "tableData": [
+          ["디자이너", "Reiner Knizia"],
+          ["개발사", "KOSMOS"],
+          ["발매년", "2008"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "10세 이상"],
+          ["장르", "가족 게임, 카드 게임"],
+          ["테마", "켈트"],
+          ["시스템", "핸드 관리, 포인트간 이동, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 205,
+      "title": "쿼리도",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/I1YNAhee09mryaqfEo8MwA__itemrep/img/9zmEmuXEhZhPTsRW47oDE8vMuAc=/fit-in/246x300/filters:strip_icc()/pic3488232.jpg",
+      "tableData": [
+          ["디자이너", "Mirko Marchesi"],
+          ["개발사", "Gigamic"],
+          ["발매년", "1997"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "8세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략, 미로"],
+          ["시스템", "격자칸 이동"]
+      ]
+    },
+    {
+      "id": 206,
+      "title": "쿼클",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__itemrep/img/NT_ZcUmqsFuTFrGQbybvmPsl1dY=/fit-in/246x300/filters:strip_icc()/pic309353.jpg",
+      "tableData": [
+          ["디자이너", "Susan McKinley Ross"],
+          ["개발사", "MindWare"],
+          ["발매년", "2006"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "660 분"],
+          ["연령", "6세 이상"],
+          ["장르", "추상 게임, 가족 게임"],
+          ["테마", "추상 전략"],
+          ["시스템", "핸드 관리, 패턴 빌딩, 타일 배치"]
+      ]
+    },
+    {
+      "id": 207,
+      "title": "펜타고",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/9KVNLxKZ6KG3neyUQ-aVAw__itemrep/img/JEF6dWGtTxGvV3mcerozqJsxNRM=/fit-in/246x300/filters:strip_icc()/pic917351.jpg",
+      "tableData": [
+          ["디자이너", "Tomas Flodén"],
+          ["개발사", "Mindtwister"],
+          ["발매년", "2005"],
+          ["인원", "2 명"],
+          ["플레이 시간", "5 분"],
+          ["연령", "8세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략"],
+          ["시스템", "패텅 빌딩, 패턴 인식"]
+      ]
+    },
+    {
+      "id": 208,
+      "title": "픽셀",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/x0H1Ga9NQ0JSDQT8Jjy8EA__itemrep/img/GMMD7HkX7bi6Q9asAxU_MFwY3fA=/fit-in/246x300/filters:strip_icc()/pic590712.jpg",
+      "tableData": [
+          ["디자이너", "Ariel Laden"],
+          ["개발사", "Educa Korea, Educational Insights, Oya, Productief BV"],
+          ["발매년", "2007"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "7세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 209,
+      "title": "헥스",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/ehz5m7YEfrNjgEHGb6w3PA__itemrep/img/33qfcDWNARI6Rfmmz1X-3j5XnqA=/fit-in/246x300/filters:strip_icc()/pic1374500.jpg",
+      "tableData": [
+          ["디자이너", "Piet Hein, John Nash"],
+          ["개발사", " 3M, ABRA, Four Generations"],
+          ["발매년", "1942"],
+          ["인원", "2 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 210,
+      "title": "TREXO",
+      "genre": "abstractstrategy",
+      "image": "https://cf.geekdo-images.com/LXUZExXlx_cjFjTvpN12Kw__itemrep/img/3SMyCLvPW6iuBAxues3cfmuhIYM=/fit-in/246x300/filters:strip_icc()/pic3138475.jpg",
+      "tableData": [
+          ["디자이너", "Jan Åke Hansson"],
+          ["개발사", "förlAgo AB"],
+          ["발매년", "2015"],
+          ["인원", "2 명"],
+          ["플레이 시간", "10~20 분"],
+          ["연령", "7세 이상"],
+          ["장르", "추상 게임, 전략 게임"],
+          ["테마", "추상"],
+          ["시스템", "패턴 빌딩, 타일 배치"]
+      ]
+    },
+    {
+      "id": 211,
+      "title": "가이스터",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/HP_ICbDPrcXf-3iKjZuwFg__itemrep/img/EHs9luPm1zFz4Lybmn2qsfzRVU8=/fit-in/246x300/filters:strip_icc()/pic5873500.png",
+      "tableData": [
+          ["디자이너", "Alex Randolph"],
+          ["개발사", "Drei Magier Spiele"],
+          ["발매년", "1980"],
+          ["인원", "2 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "6세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "협잡, 공포, 어린이 게임"],
+          ["시스템", "격자칸 이동, 유닛 정보 숨김"]
+      ]
+    },
+    {
+      "id": 212,
+      "title": "도둑잡기",
+      "genre": "etc",
+      "image": "http://image.yes24.com/goods/3564192/L",  
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", ""],
+          ["발매년", ""],
+          ["인원", ""],
+          ["플레이 시간", ""],
+          ["연령", ""],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 213,
+      "title": "계급투쟁",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/Vd9VjXKa55PpNeeICp5giA__itemrep/img/VB6IfIVJLsJWTvpL_z_QXyc-sPU=/fit-in/246x300/filters:strip_icc()/pic56251.jpg",
+      "tableData": [
+          ["디자이너", "Bertell Ollman"],
+          ["개발사", "The Avalon Hill Game Co, Class Struggle, Inc., Didacta, Metracon, Mondadori Giochi"],
+          ["발매년", "1978"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "90 분"],
+          ["연령", "12세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 214,
+      "title": "그랜드 슬램",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/A1jaJH5u91AMEFGxI6UNKQ__itemrep/img/XJVTTsPY2jvehhXhTQ0PJzhXwqc=/fit-in/246x300/filters:strip_icc()/pic2201896.jpg",
+      "tableData": [
+          ["디자이너", "Ariel Seoane"],
+          ["개발사", "코리아보드게임즈"],
+          ["발매년", "2014"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", "카드 게임, 테니스"],
+          ["시스템", "카드 드래프트, 핸드 관리, 시뮬레이션"]
+      ]
+    },
+    {
+      "id": 216,
+      "title": "다이아몬드",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/pjyf0CWeKd7gDhU6E9oR_Q__itemrep/img/KE4vK002o0S1pKFdoZYjbRZxfcE=/fit-in/246x300/filters:strip_icc()/pic210777.jpg",
+      "tableData": [
+          ["디자이너", "Bruno Faidutti, Alan R. Moon"],
+          ["개발사", "IELLO"],
+          ["발매년", "2005"],
+          ["인원", "3~8 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "협잡, 모험"],
+          ["시스템", "운 시험하기, 동시 액션 선택"]
+      ]
+    },
+    {
+      "id": 218,
+      "title": "도레미",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/h4JbN-AV5QdwMTOoFk4aLQ__itemrep/img/_RXOYlx5EW9UCPejL4YtEIdtcLk=/fit-in/246x300/filters:strip_icc()/pic2291168.jpg",
+      "tableData": [
+          ["디자이너", "송대은"],
+          ["개발사", "Deinko Games"],
+          ["발매년", "2014"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", "카드 게임, 리얼 타임"],
+          ["시스템", "패턴 인식"]
+      ]
+    },
+    {
+      "id": 220,
+      "title": "동방사쟁록",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/2GpJ8NGiyNLcDi_-XB75MA__itemrep/img/S2DEtb0mZh1kV0ovJoxd4mxKQ7A=/fit-in/246x300/filters:strip_icc()/pic969687.jpg",
+      "tableData": [
+          ["디자이너", "Donald X. Vaccarino"],
+          ["개발사", "Hobby Japan"],
+          ["발매년", "2011"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", "카드 게임, 판타지, 게임 테마"],
+          ["시스템", "카드 드래프트, 덱 빌딩, 핸드 관리"]
+      ]
+    },
+    {
+      "id": 221,
+      "title": "동물장기",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/f5OJxZqACne-dbLs0LJjRg__itemrep/img/GfyJGUPJYItCKOteT3QEMZ86fO0=/fit-in/246x300/filters:strip_icc()/pic567151.jpg",
+      "tableData": [
+          ["디자이너", "키타오 마도카(北尾まどか)"],
+          ["개발사", "일본프로여자쇼기협회(LPSA)"],
+          ["발매년", "2008"],
+          ["인원", "2 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "4세 이상"],
+          ["장르", "추상"],
+          ["테마", "추상 전략, 동물, 어린이 게임"],
+          ["시스템", "격자칸 이동"]
+      ]
+    },
+    {
+      "id": 222,
+      "title": "라스베이거스",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/aQJ0HRKx2mobP0g3FCeR_Q__itemrep/img/9vJIc03rFs_bh6gBLHERw01s3Ds=/fit-in/246x300/filters:strip_icc()/pic1261796.jpg",
+      "tableData": [
+          ["디자이너", "Rüdiger Dorn"],
+          ["개발사", "alea"],
+          ["발매년", "2012"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "13세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "주사위"],
+          ["시스템", "지역 영향력 및 확장, 주사위 굴림"]
+      ]
+    },
+    {
+      "id": 223,
+      "title": "로보 77",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/3BBUXNm-ft9dPlK2JNdrcQ__itemrep/img/KhqEMv82Eqd56_wzeRSSEdIarw8=/fit-in/246x300/filters:strip_icc()/pic3989549.png",
+      "tableData": [
+          ["디자이너", "Thomas Pauli"],
+          ["개발사", "AMIGO Spiel"],
+          ["발매년", "1993"],
+          ["인원", "2~8 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 파티 게임"],
+          ["테마", "카드 게임"],
+          ["시스템", "플레이어 탈락]"]
+      ]
+    },
+    {
+      "id": 224,
+      "title": "벌룬컵",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/YHPPsc22emFVr-eXHPd_BA__itemrep/img/J7O2pEy_ME-aC4hR4fO-q7DVOdg=/fit-in/246x300/filters:strip_icc()/pic63292.jpg",
+      "tableData": [
+          ["디자이너", "Stephen Glenn"],
+          ["개발사", "KOSMOS"],
+          ["발매년", "2003"],
+          ["인원", "2 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "부유 및 비행, 카드 게임"],
+          ["시스템", "핸드 관리, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 225,
+      "title": "블러프",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/kdz6i8xM0VA_jka0PM5olA__itemrep/img/3w0pMnMTRbaVbXxdCVam-wTFoT0=/fit-in/246x300/filters:strip_icc()/pic3945944.jpg",
+      "tableData": [
+          ["디자이너", "Richard Borg"],
+          ["개발사", "Ravensburger"],
+          ["발매년", "1993"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "12세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "블러핑, 파티 게임"],
+          ["시스템", "베팅, 주사위 굴림, 직접 공격"]
+      ]
+    },
+    {
+      "id": 226,
+      "title": "빌라 팔레티",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/RIl9xfBG7mGFNhWVLCrTlA__itemrep/img/890KkC9o0VsXQa1pH2xNVt0z1hA=/fit-in/246x300/filters:strip_icc()/pic168173.jpg",
+      "tableData": [
+          ["디자이너", "Bill Payne"],
+          ["개발사", "Zoch Verlag"],
+          ["발매년", "2001"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 어린이 게임, 파티 게임"],
+          ["테마", "건축"],
+          ["시스템", "주사위 굴림, 패턴 빌딩"]
+      ]
+    },
+    {
+      "id": 227,
+      "title": "사이쓰(Scythe)",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__itemrep/img/RVh5N-_HcMziJ3M6Q1eLTlj8XIQ=/fit-in/246x300/filters:strip_icc()/pic3163924.jpg",
+      "tableData": [
+          ["디자이너", "Jamey Stegmaier, Jakub Rozalski"],
+          ["개발사", "Stonemaier Games"],
+          ["발매년", "2016"],
+          ["인원", "1~5 명"],
+          ["플레이 시간", "90~115 분"],
+          ["연령", "14세 이상"],
+          ["장르", "전략"],
+          ["테마", "경제, 농경, 전투, 영역 건설, 스팀 펑크"],
+          ["시스템", "다양한 플레이어 능력, 지역 영향력 및 확장, 동시 액션 선택, 격자칸 이동]"]
+      ]
+    },
+    {
+      "id": 228,
+      "title": "아임 더 보스",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/apSWtxrC9oG-rBSg0Gheag__itemrep/img/paa0CmGUyVN3Sto6A4VOttJbrw4=/fit-in/246x300/filters:strip_icc()/pic130807.jpg",
+      "tableData": [
+          ["디자이너", "Sid Sackson"],
+          ["개발사", "Schmidt Spiele"],
+          ["발매년", "1994"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "12세 이상"],
+          ["장르", "전략, 가족 게임"],
+          ["테마", "협상"],
+          ["시스템", "주사위 굴림, 핸드 관리, 주사위 이동, 셋 콜렉션, 직접 공격"]
+      ]
+    },
+    {
+      "id": 229,
+      "title": "야찌",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/dp-pJkUemCjhrwi9QItrPA__itemrep/img/um-kb7NmyEy9YrdOT8aF62QW2TU=/fit-in/246x300/filters:strip_icc()/pic378237.jpg",
+      "tableData": [
+          ["디자이너", "Edwin S. Lowe"],
+          ["개발사", "Lowe Company"],
+          ["발매년", "1956"],
+          ["인원", "2~10 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "6세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "어린이 게임, 주사위"],
+          ["시스템", "주사위 굴림, 종이와 연필, 가위바위보, 운 시험하기, 셋 콜렉션"]
+      ]
+    },
+    {
+      "id": 230,
+      "title": "옛날 옛적에",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/IHYBF2QWcZwlYfH4doj06Q__itemrep/img/gGuMcBjqTxmxGa9OI3T9U_69tWU=/fit-in/246x300/filters:strip_icc()/pic1494028.jpg",
+      "tableData": [
+          ["디자이너", "Richard Lambert, Andrew Rilstone, James Wallis"],
+          ["개발사", "Atlas Games"],
+          ["발매년", "1993"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "8세 이상"],
+          ["장르", "가족 게임, 테마 게임"],
+          ["테마", "카드 게임, 유머, 파티 게임, 리얼 타임"],
+          ["시스템", "핸드 관리, 스토리텔링, 투표"]
+      ]
+    },
+    {
+      "id": 231,
+      "title": "우노",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/SU-OL7XWn7BOiSYevyTThw__itemrep/img/x8QFLzHoiduG0Egt5rtqdBeApTI=/fit-in/246x300/filters:strip_icc()/pic981505.jpg",
+      "tableData": [
+          ["디자이너", "Merle Robbins"],
+          ["개발사", "마텔"],
+          ["발매년", "1971"],
+          ["인원", "2~10 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "6세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "카드 게임, 숫자"],
+          ["시스템", "핸드 관리"]
+      ]
+    },
+    {
+      "id": 232,
+      "title": "사이언시아",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/tA2TzwvsJiT7TD5FgjCNPw__itemrep/img/udAt8_s9a1KW0dKxnXDoaOi5V28=/fit-in/246x300/filters:strip_icc()/pic4314574.png",
+      "tableData": [
+          ["디자이너", "Evan Song"],
+          ["개발사", "BoardM Factory"],
+          ["발매년", "2019"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "과학"],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 233,
+      "title": "젝스님트",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/JFhLVSRFQ2mtWRNHgbZ3Wg__itemrep/img/3WuuxgYlgoEMP5-CUl6bakeKVts=/fit-in/246x300/filters:strip_icc()/pic2602138.jpg",
+      "tableData": [
+          ["디자이너", "Wolfgang Kramer"],
+          ["개발사", "AMIGO Spiel + Freizeit GmbH"],
+          ["발매년", "1994"],
+          ["인원", "2~10 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "13세 이상"],
+          ["장르", "가족 게임"],
+          ["테마", "카드 게임"],
+          ["시스템", "핸드 관리, 동시 액션 선택"]
+      ]
+    },
+    {
+      "id": 234,
+      "title": "젠가",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__itemrep/img/QKKA_oP2hMaXjTo2DpghOy4ylPw=/fit-in/246x300/filters:strip_icc()/pic5140451.jpg",
+      "tableData": [
+          ["디자이너", "Leslie Scott"],
+          ["개발사", "Barnes & Noble, Borras Plana S.A., Brädspel.se"],
+          ["발매년", "1983"],
+          ["인원", "1~8 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "6세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "행동 및 손재주, 파티 게임"],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 236,
+      "title": "참새작",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/64XnEhoewbAiSxNCXgII9w__itemrep/img/woRYDCGcx76PXHbpvMc0ItLJ4i4=/fit-in/246x300/filters:strip_icc()/pic4591244.jpg",
+      "tableData": [
+          ["디자이너", "Koji Malta, Takahiro Shinozaki"],
+          ["개발사", "Sugorokuya"],
+          ["발매년", "2018"],
+          ["인원", "2~5 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "6세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 237,
+      "title": "코요테",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/Snpz5Doc4fODNFI2L-WbkQ__itemrep/img/C-GDknXq_9FXaMyKeeB_f9Rvk18=/fit-in/246x300/filters:strip_icc()/pic33850.jpg",
+      "tableData": [
+          ["디자이너", "Spartaco Albertarelli"],
+          ["개발사", "AURUM, Inc."],
+          ["발매년", "2003"],
+          ["인원", "3~6 명"],
+          ["플레이 시간", "20~30 분"],
+          ["연령", "10세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 238,
+      "title": "코코너츠",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/sk1Bf6ijzmnhMuXOuLadNg__itemrep/img/MKJCY9y3feHRXv4Nt0y2JE-uqWY=/fit-in/246x300/filters:strip_icc()/pic5818708.jpg",
+      "tableData": [
+          ["디자이너", "Walter Schneider"],
+          ["개발사", "코리아보드게임즈"],
+          ["발매년", "2013"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "20 분"],
+          ["연령", "6세 이상"],
+          ["장르", "어린이 게임, 가족 게임"],
+          ["테마", "동작, 손재주, 어린이 게임"],
+          ["시스템", "운 시험하기"]
+      ]
+    },
+    {
+      "id": 239,
+      "title": "타임라인",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/Nz5xwdqSuxXvwmGYyOs7Vg__imagepage/img/kHBuHB65jnrcthyjZjU8z4uxewM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1387296.jpg",
+      "tableData": [
+          ["디자이너", "Frédéric Henry"],
+          ["개발사", "Asmodee"],
+          ["발매년", "2012"],
+          ["인원", "2~8 명"],
+          ["플레이 시간", "15 분"],
+          ["연령", "8세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "카드 게임, 교육, 지식"],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 240,
+      "title": "탄토 쿠오레",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/k6I3xK6AEB-crMT7xU7hrQ__itemrep/img/pnMmYYAh2ZG1xzdio-mlbxdmJW8=/fit-in/246x300/filters:strip_icc()/pic1751753.jpg",
+      "tableData": [
+          ["디자이너", "工藤雅之 (Masayuki Kudou)"],
+          ["개발사", "Arclight"],
+          ["발매년", "2009"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "13세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임, 성인"],
+          ["시스템", "액션 포인트 지급 시스템, 카드 드래프트, 덱 빌딩, 핸드 관리, 셋 콜렉션, 직접 공격"]
+      ]
+    },
+    {
+      "id": 241,
+      "title": "텔레스트레이션",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/oc3u6OQpJkf9TvDw4iI9xA__itemrep/img/f-hzQAafIdz-Po3uC_U4hZp-RnY=/fit-in/246x300/filters:strip_icc()/pic4991936.jpg",
+      "tableData": [
+          ["디자이너", ""],
+          ["개발사", "USAopoly"],
+          ["발매년", "2009"],
+          ["인원", "4~12 명"],
+          ["플레이 시간", "30 분"],
+          ["연령", "12세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "유머, 파티 게임"],
+          ["시스템", "그리기, 스토리텔링, 종이와 펜"]
+      ]
+    },
+    {
+      "id": 243,
+      "title": "트위스터",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/1ltUc6EUUAVF5ewlRy4hSA__itemrep/img/0ltihkgZpGfXINqIbRn3R1V9QZY=/fit-in/246x300/filters:strip_icc()/pic196428.jpg",
+      "tableData": [
+          ["디자이너", "Chuck Foley, Reyn Guyer, Neil W. Rabens"],
+          ["개발사", "Arrow Games Ltd"],
+          ["발매년", "1966"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "10 분"],
+          ["연령", "6세 이상"],
+          ["장르", "파티 게임"],
+          ["테마", "동작, 손재주, 아이들 게임, 파티 게임"],
+          ["시스템", "플레이어 탈락, 룰렛]"]
+      ]
+    },
+    {
+      "id": 244,
+      "title": "티츄",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/gz8_8iYP2SSGVAxpp7CwLg__itemrep/img/lnzwJvF8Ez8vuV_QBKXuvqiWcK8=/fit-in/246x300/filters:strip_icc()/pic5854968.png",
+      "tableData": [
+          ["디자이너", "Urs Hostettler"],
+          ["개발사", "Fata Morgana Spiele"],
+          ["발매년", "1991"],
+          ["인원", "3~10 명"],
+          ["플레이 시간", "60 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략"],
+          ["테마", "카드 게임"],
+          ["시스템", "배팅, 핸드 관리, 연합, 클라이밍"]
+      ]
+    },
+    {
+      "id": 245,
+      "title": "팬데믹",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep/img/wAMLbgihOl7dJDHnvqt7OXKEV-4=/fit-in/246x300/filters:strip_icc()/pic1534148.jpg",
+      "tableData": [
+          ["디자이너", "Matt Leacock"],
+          ["개발사", "Z-Man Games, Inc."],
+          ["발매년", "2008"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "45 분"],
+          ["연령", "8세 이상"],
+          ["장르", ""],
+          ["테마", ""],
+          ["시스템", ""]
+      ]
+    },
+    {
+      "id": 246,
+      "title": "피트",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/LkEPNu7bPTS1rVRU_Ba-Dg__itemrep/img/Btm5OS2x5mfCwL2o_2nsqn5ZCwE=/fit-in/246x300/filters:strip_icc()/pic423644.jpg",
+      "tableData": [
+          ["디자이너", "Edgar Cayce, Harry Gavitt, George S. Parker"],
+          ["개발사", "Parker Brothers"],
+          ["발매년", "1903"],
+          ["인원", "3~8 명"],
+          ["플레이 시간", "30~90 분"],
+          ["연령", "7세 이상"],
+          ["장르", "가족 게임, 파티 게임"],
+          ["테마", "카드 게임, 경제, 농경, 파티 게임, 실시간"],
+          ["시스템", "셋 콜렉션, 거래"]
+      ]
+    },
+    {
+      "id": 247,
+      "title": "할리갈리",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/kxYYgRlwM1NbHJHp62FLqg__itemrep/img/3FWBsUJVtQpFjtc_XanNbQPBZGQ=/fit-in/246x300/filters:strip_icc()/pic458934.jpg",
+      "tableData": [
+          ["디자이너", "Haim Shafir"],
+          ["개발사", "AMIGO Spiel"],
+          ["발매년", "1990"],
+          ["인원", "2~6 명"],
+          ["플레이 시간", "10 분"],
+          ["연령", "6세 이상"],
+          ["장르", "어린이 게임, 파티 게임"],
+          ["테마", "행동, 손재주, 카드 게임, 어린이 게임, 파티 게임, 리얼타임"],
+          ["시스템", "패턴 인식, 플레이어 탈락]"]
+      ]
+    },
+    {
+      "id": 248,
+      "title": "504",
+      "genre": "etc",
+      "image": "https://cf.geekdo-images.com/P2-jw7YCLqx1gqE-9Wprlw__itemrep/img/kP237KXqALuwLq8tNNPgUdcF7lY=/fit-in/246x300/filters:strip_icc()/pic2570515.jpg",
+      "tableData": [
+          ["디자이너", "프리드만 프리제"],
+          ["개발사", "2F-Spiele"],
+          ["발매년", "2015"],
+          ["인원", "2~4 명"],
+          ["플레이 시간", "30~120 분"],
+          ["연령", "10세 이상"],
+          ["장르", "전략"],
+          ["테마", "동물, 도시 건설, 경제, 탐험, 농사, 산업화, 여행, 경주, 영역 건설, 교통"],
+          ["시스템", "지역 영향력 및 확장, 지역 봉쇄, 지역 이동, 경매, 상품 투기, 길 놓기, 주사위 굴림, 격자칸 이동, 물건 이동, 헥사맵 영향력, 조립식 보드, 주식, 포인트간 이동, 셋 콜렉션, 타일 놓기, 다이렉트 공격, 다양한 플레이어 능력]"]
+      ]
+    }
+  ]
+}
