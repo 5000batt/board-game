@@ -5,11 +5,15 @@ function* addLike(action) {
   console.log("-- Saga: action.type --");
   console.log(action.type);
 
-  const result = yield call(api.post, action.payload);
-  console.log("-- Saga: api result --");
-  console.log(result.data);
+  try{
+    const result = yield call(api.post, action.payload);
+    console.log("-- Saga: api result --");
+    console.log(result.data);
 
-  yield put({type:"ADD_LIKE_SUCCEEDED", payload: action.payload});
+    yield put({type:"ADD_LIKE_SUCCEEDED", payload: action.payload});
+  } catch (error) {
+    yield put({type:"SHOW_ALERT", msg:error.message});
+  }
 }
 
 function* fetchLikes(action) {
