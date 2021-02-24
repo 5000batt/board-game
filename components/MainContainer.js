@@ -6,6 +6,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
+import Home from './Home'; 
 import Search from './Search';
 import List_genre from './List_genreContainer';
 import List_boardgame from './List_boardgameContainer';
@@ -19,12 +20,23 @@ import { Alert } from 'react-native'
 import { useDispatch, useSelector } from 'react-redux'
 
 const Tab = createBottomTabNavigator();
+const HomeStack = createStackNavigator();
 const ListStack = createStackNavigator();
 const SearchStack = createStackNavigator();
 const LikesStack = createStackNavigator();
 
+const HomeStackScreen = () => {
+  return (
+    <HomeStack.Navigator>
+      <HomeStack.Screen 
+        name="Home" 
+        component={Home} 
+        options={{title:"Home", headerTitleAlign:"center"}}
+      />
+    </HomeStack.Navigator>
+  )
+}
 const ListStackScreen = () => {
-
   return (
     <ListStack.Navigator>
       <ListStack.Screen 
@@ -50,7 +62,7 @@ const SearchStackScreen = () => {
   return (
     <SearchStack.Navigator>
       <SearchStack.Screen 
-        name="Home" 
+        name="Sea" 
         component={Search} 
         options={{title:"검색", headerTitleAlign:"center"}} 
       />
@@ -62,6 +74,7 @@ const SearchStackScreen = () => {
     </SearchStack.Navigator>
   )
 }
+
 const LikesStackScreen = () => {
   return (
     <LikesStack.Navigator>
@@ -89,6 +102,11 @@ const screenOptions = ({ route }) => ({
     let iconName;
 
     switch(route.name){
+      case 'Home':
+        iconName = focused
+          ? 'home'
+          : 'home-outline';
+        break;
       case 'Search':
         iconName = focused
           ? 'search'
@@ -138,8 +156,9 @@ export default function Main() {
     <SafeAreaProvider>
       <NavigationContainer>
         <Tab.Navigator screenOptions={screenOptions} tabBarOptions={tabBarOptions}>
-          <Tab.Screen name="Search" component={SearchStackScreen}/>
+          <Tab.Screen name="Home" component={HomeStackScreen}/>
           <Tab.Screen name="List" component={ListStackScreen}/>
+          <Tab.Screen name="Search" component={SearchStackScreen}/>
           <Tab.Screen name="Likes" component={LikesStackScreen}/>
         </Tab.Navigator>
       </NavigationContainer>
