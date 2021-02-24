@@ -32,7 +32,7 @@ const List_genre = ({ navigation, genre }) => {
 
   return (
     <FlatGrid
-      itemDimension={130}
+      itemDimension={100}
       data={genre}
       style={styles.gridView}
       spacing={10}

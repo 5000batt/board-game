@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import actions from './actions';
+import likes from './likes';
 
 const rootReducer = combineReducers({
-  actions,
+  likes,
 })
 
 export default rootReducer;

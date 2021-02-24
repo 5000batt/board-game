@@ -2,9 +2,10 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { StyleSheet, View, ProgressBarAndroid } from 'react-native';
 import { Table, Rows } from 'react-native-table-component';
 import { Card, Button, Icon } from 'react-native-elements';
+
 import { useDispatch, useSelector } from 'react-redux';
-import { addAction } from '../redux/actions';
-import { removeAction } from '../redux/actions';
+import { addLike, removeLike  } from '../redux/actions/likes';
+
 import { ScrollView } from 'react-native-gesture-handler';
 
 import api from '../api/list'
@@ -18,20 +19,18 @@ const Details = ({ route }) => {
   // console.log(route);
 
   const { id } = route.params;
-  const { title } = route.params;
   
   // console.log(id);
-  // console.log(title);
   const [item, setItem] = useState(null);
   console.log(item);
 
   const dispatch = useDispatch();
 
-  const actions = useSelector(state => state.actions);
-  // console.log("--actions--");
-  // console.log(actions);
+  const likes = useSelector(state => state.likes);
+  // console.log("--likes--");
+  // console.log(likes);
 
-  const isExistedAction = actions.filter(item => item.id == id).length > 0 ? true : false;
+  const isExistedAction = likes.filter(item => item.id == id).length > 0 ? true : false;
   // console.log("--isExistedAction--");
   // console.log(isExistedAction);
 
@@ -69,13 +68,13 @@ const Details = ({ route }) => {
             isExistedAction
               ?
               <Button
-                onPress={()=>{dispatch(removeAction(title))}}
+                onPress={()=>{dispatch(removeLike(id))}}
                 icon={<Icon name='heart' type='ionicon' color='#ffffff' />}
                 buttonStyle={{backgroundColor:"#CCCCFF"}}
               />
               :
               <Button
-                onPress={()=>{dispatch(addAction(item))}}
+                onPress={()=>{dispatch(addLike(item))}}
                 icon={<Icon name='heart-outline' type='ionicon' color='#ffffff' />}
                 buttonStyle={{borderRadius: 0, marginLeft: 0, marginRight: 0, marginBottom: 0, backgroundColor:"#CCCCFF"}}
               />
