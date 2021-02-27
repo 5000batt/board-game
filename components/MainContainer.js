@@ -6,7 +6,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
-import Home from './Home'; 
+import Home from './HomeContainer'; 
 import Search from './Search';
 import List_genre from './List_genreContainer';
 import List_boardgame from './List_boardgameContainer';
@@ -33,6 +33,11 @@ const HomeStackScreen = () => {
         component={Home} 
         options={{title:"Home", headerTitleAlign:"center"}}
       />
+      <HomeStack.Screen 
+        name="Details" 
+        component={Details} 
+        options={({ route }) => ({ title: route.params.title, headerTitleAlign:"center" })}  
+      />
     </HomeStack.Navigator>
   )
 }
@@ -58,18 +63,13 @@ const ListStackScreen = () => {
   )
 }
 
-const SearchStackScreen = () => {
+const Map = () => {
   return (
     <SearchStack.Navigator>
       <SearchStack.Screen 
-        name="Sea" 
-        component={Search} 
-        options={{title:"검색", headerTitleAlign:"center"}} 
-      />
-      <SearchStack.Screen 
-        name="Details" 
-        component={Details} 
-        options={({ route }) => ({ title: route.params.title, headerTitleAlign:"center" })}  
+        name="Map" 
+        component={Map} 
+        options={{title:"map", headerTitleAlign:"center"}} 
       />
     </SearchStack.Navigator>
   )
@@ -107,7 +107,7 @@ const screenOptions = ({ route }) => ({
           ? 'home'
           : 'home-outline';
         break;
-      case 'Search':
+      case 'Map':
         iconName = focused
           ? 'search'
           : 'search-outline';
@@ -134,13 +134,13 @@ export default function Main() {
   const dispatch = useDispatch();
 
   useEffect(()=>{
-    console.log("--main is mounted--")
+    // console.log("--main is mounted--")
     dispatch({type:"FETCH_LIKES"})
   })
 
   const alert = useSelector(state => state.alert)
-  console.log("--alert")
-  console.log(alert)
+  // console.log("--alert")
+  // console.log(alert)
 
   if(alert.isShow) {
     Alert.alert(
@@ -158,7 +158,7 @@ export default function Main() {
         <Tab.Navigator screenOptions={screenOptions} tabBarOptions={tabBarOptions}>
           <Tab.Screen name="Home" component={HomeStackScreen}/>
           <Tab.Screen name="List" component={ListStackScreen}/>
-          <Tab.Screen name="Search" component={SearchStackScreen}/>
+          <Tab.Screen name="Map" component={Map}/>
           <Tab.Screen name="Likes" component={LikesStackScreen}/>
         </Tab.Navigator>
       </NavigationContainer>
