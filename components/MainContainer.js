@@ -7,7 +7,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import Home from './HomeContainer'; 
-import Search from './Search';
+import Map from './Map';
 import List_genre from './List_genreContainer';
 import List_boardgame from './List_boardgameContainer';
 import Likes from './Likes';
@@ -22,7 +22,7 @@ import { useDispatch, useSelector } from 'react-redux'
 const Tab = createBottomTabNavigator();
 const HomeStack = createStackNavigator();
 const ListStack = createStackNavigator();
-const SearchStack = createStackNavigator();
+const MapStack = createStackNavigator();
 const LikesStack = createStackNavigator();
 
 const HomeStackScreen = () => {
@@ -63,15 +63,15 @@ const ListStackScreen = () => {
   )
 }
 
-const Map = () => {
+const MapStackScreen = () => {
   return (
-    <SearchStack.Navigator>
-      <SearchStack.Screen 
+    <MapStack.Navigator>
+      <MapStack.Screen 
         name="Map" 
         component={Map} 
         options={{title:"map", headerTitleAlign:"center"}} 
       />
-    </SearchStack.Navigator>
+    </MapStack.Navigator>
   )
 }
 
@@ -109,8 +109,8 @@ const screenOptions = ({ route }) => ({
         break;
       case 'Map':
         iconName = focused
-          ? 'search'
-          : 'search-outline';
+          ? 'map'
+          : 'map-outline';
         break;
       case 'List':
         iconName = focused
@@ -158,7 +158,7 @@ export default function Main() {
         <Tab.Navigator screenOptions={screenOptions} tabBarOptions={tabBarOptions}>
           <Tab.Screen name="Home" component={HomeStackScreen}/>
           <Tab.Screen name="List" component={ListStackScreen}/>
-          <Tab.Screen name="Map" component={Map}/>
+          <Tab.Screen name="Map" component={MapStackScreen}/>
           <Tab.Screen name="Likes" component={LikesStackScreen}/>
         </Tab.Navigator>
       </NavigationContainer>
