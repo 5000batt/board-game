@@ -1,8 +1,9 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import Home from './Home'
-import Search from './Search'
+import { Text } from 'react-native';
+import Home from './Home';
+import Search from './Search';
 
-import api from '../api/list'
+import api from '../api/list';
 
 const HomeContainer = ({ navigation }) => {
   const [ranking, setList] = useState([]);
@@ -32,8 +33,9 @@ const HomeContainer = ({ navigation }) => {
   
   return (
     <React.Fragment>
-      <Search navigation={navigation}></Search>
-      <Home navigation={navigation} ranking={ranking}></Home>
+        <Search navigation={navigation}></Search>
+        <Text style={{fontSize: 25, textAlign: 'center'}}>보드 게임 순위</Text>
+        <Home navigation={navigation} ranking={ranking}></Home>
     </React.Fragment>
   )
 }

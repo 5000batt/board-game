@@ -3,6 +3,7 @@ import { Text, View, StyleSheet } from 'react-native';
 import { FlatGrid } from 'react-native-super-grid';
 
 import { Card } from 'react-native-elements';
+import { FlatList } from 'react-native-gesture-handler';
 
 const styles = StyleSheet.create({
   gridView: {
@@ -27,6 +28,10 @@ const styles = StyleSheet.create({
 const Home = ({ navigation, ranking }) => {
 
   return (
+    // <View>
+    //   <View style={{flex: 1, justifyContent: "center", alignItems: "center"}}>
+    //     <Text>보드 게임 순위</Text>
+    //   </View>
       <FlatGrid
         itemDimension={400}
         horizontal={true}
@@ -44,6 +49,7 @@ const Home = ({ navigation, ranking }) => {
           </View>
         )}
       />
+    // </View>
 
   );
 }

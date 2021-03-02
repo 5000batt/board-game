@@ -7,7 +7,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import Home from './HomeContainer'; 
-import Map from './Map';
+import Map from './MapContainer';
 import List_genre from './List_genreContainer';
 import List_boardgame from './List_boardgameContainer';
 import Likes from './Likes';

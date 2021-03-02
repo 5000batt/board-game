@@ -4213,7 +4213,7 @@
   "ranking":[
     {
       "id": 85,
-      "title": "테라포밍 마스",
+      "title": "1위: 테라포밍 마스",
       "genre": "sf",
       "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep/img/IwUOQfhP5c0KcRJBY4X_hi3LpsY=/fit-in/246x300/filters:strip_icc()/pic3536616.jpg",
       "tableData": [
@@ -4230,7 +4230,7 @@
     },
     {
       "id": 31,
-      "title": "글룸헤이븐",
+      "title": "2위: 글룸헤이븐",
       "genre": "fantasyhorror",
       "image": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__itemrep/img/0IdBRA_G-ZdrNaxI4Z1LPQMZD0I=/fit-in/246x300/filters:strip_icc()/pic2437871.jpg",
       "tableData": [
@@ -4247,7 +4247,7 @@
     },
     {
       "id": 40,
-      "title": "메이지 나이트",
+      "title": "3위: 메이지 나이트",
       "genre": "fantasyhorror",
       "image": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__itemrep/img/6OmGo3bidk3ma7U1v-oq_2pEJZI=/fit-in/246x300/filters:strip_icc()/pic1083380.jpg",
       "tableData": [
@@ -4264,7 +4264,7 @@
     },
     {
       "id": 181,
-      "title": "쓰루 디 에이지스",
+      "title": "4위: 쓰루 디 에이지스",
       "genre": "civilization",
       "image": "https://cf.geekdo-images.com/3piN3YX4WmBRuIvbEG2Ygg__itemrep/img/DKZbeW87bMXJoELGFrPjWj73V_o=/fit-in/246x300/filters:strip_icc()/pic236169.jpg",
       "tableData": [
@@ -4281,7 +4281,7 @@
     },
     {
       "id": 75,
-      "title": "가이아 프로젝트",
+      "title": "5위: 가이아 프로젝트",
       "genre": "sf",
       "image": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__itemrep/img/MNyaVUlEsVQmbv3nObPl0SEd_TI=/fit-in/246x300/filters:strip_icc()/pic5375625.png",
       "tableData": [
@@ -4298,7 +4298,7 @@
     },
     {
       "id": 86,
-      "title": "황혼의 투쟁",
+      "title": "6위: 황혼의 투쟁",
       "genre": "politics",
       "image": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__itemrep/img/WMsXl-Wa8q2n9_lJH536Mhi2COc=/fit-in/246x300/filters:strip_icc()/pic3530661.jpg",
       "tableData": [
@@ -4315,7 +4315,7 @@
     },
     {
       "id": 141,
-      "title": "푸에르토 리코",
+      "title": "7위: 푸에르토 리코",
       "genre": "economic",
       "image": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep/img/YDEozo5DfKYdDp8xi2mAfoV2qWk=/fit-in/246x300/filters:strip_icc()/pic158548.jpg",
       "tableData": [
@@ -4332,7 +4332,7 @@
     },
     {
       "id": 245,
-      "title": "팬데믹",
+      "title": "8위: 팬데믹",
       "genre": "etc",
       "image": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep/img/wAMLbgihOl7dJDHnvqt7OXKEV-4=/fit-in/246x300/filters:strip_icc()/pic1534148.jpg",
       "tableData": [
@@ -4349,7 +4349,7 @@
     },
     {
       "id": 171,
-      "title": "7 원더스: 듀얼",
+      "title": "9위: 7 원더스: 듀얼",
       "genre": "civilization",
       "image": "https://cf.geekdo-images.com/WzNs1mA_o22ZWTR8fkLP2g__itemrep/img/sDjIG76VOwrlySbj_5rdnAaWO_0=/fit-in/246x300/filters:strip_icc()/pic3376065.jpg",  
       "tableData": [
@@ -4366,7 +4366,7 @@
     },
     {
       "id": 129,
-      "title": "아그리콜라",
+      "title": "10위: 아그리콜라",
       "genre": "economic",
       "image": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__itemrep/img/DzC9cA0TNmWUO7WLdl4-uFHfO_k=/fit-in/246x300/filters:strip_icc()/pic831744.jpg",
       "tableData": [
@@ -4380,6 +4380,38 @@
           ["테마", "동물, 경제, 농사"],
           ["시스템", "일꾼 배치, 지역 봉쇄, 카드 드래프트, 핸드 관리"]
       ]
+    }
+  ],
+  "Cafe": [
+    {
+      "id": 1,
+      "title": "뽀드카페 보드게임카페",
+      "address": "경기도 의정부시 의정부동 태평로73번길 36",
+      "image": "https://redbutton.co.kr/wp-content/uploads/2019/04/M_0202_icon02-1.png",
+      "time": "오후 12:00~오전 12:00",
+      "contact_adress": "070-8780-1218",
+      "latitude": 37.739311,
+      "longitude": 127.049559
+    },
+    {
+      "id": 2,
+      "title": "명보드게임장 2호점",
+      "address": "경기도 의정부시 의정부동 태평로73번길 48",
+      "image": "https://redbutton.co.kr/wp-content/uploads/2019/04/M_0202_icon02-1.png",
+      "time": "",
+      "contact_adress": "070-7757-2060",
+      "latitude": 37.739277,
+      "longitude": 127.048964
+    },
+    {
+      "id": 3,
+      "title": "명보드게임장",
+      "address": "경기도 의정부시 의정부동 181-15번지 3층",
+      "image": "https://redbutton.co.kr/wp-content/uploads/2019/04/M_0202_icon02-1.png",
+      "time": "",
+      "contact_adress": "070-7723-2060",
+      "latitude": 37.741033,
+      "longitude": 127.049136
     }
   ]
 }
