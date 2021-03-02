@@ -1,6 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
 import Map from './Map'
-import Cafe from './Cafe'
 
 import api from '../api/list'
 
@@ -28,10 +27,7 @@ const ListContainer = ({ navigation, route }) => {
   }, [navigation])
 
   return (
-    <React.Fragment>
       <Map navigation={navigation} cafe={cafe} route={route}></Map>
-      <Cafe navigation={navigation} cafe={cafe} route={route}></Cafe>
-    </React.Fragment>
   )
 }
 

@@ -45,7 +45,7 @@ const Home = ({ navigation, ranking }) => {
               source={{uri: item.image}}
               onPress={()=>{navigation.navigate("Details", {id: item.id, title: item.title})}}
             />  
-            <Text style={styles.itemName}>{item.title}</Text>
+            <Text style={styles.itemName}>{item.rank}위: {item.title}</Text>
           </View>
         )}
       />
