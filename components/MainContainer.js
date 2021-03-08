@@ -12,6 +12,7 @@ import List_genre from './List_genreContainer';
 import List_boardgame from './List_boardgameContainer';
 import Likes from './Likes';
 import Details from './Details';
+import HWTest from './HWTest';
 
 // https://ionicons.com/
 import Ionicons from 'react-native-vector-icons/Ionicons';
@@ -122,6 +123,11 @@ const screenOptions = ({ route }) => ({
           ? 'thumbs-up'
           : 'thumbs-up-outline'; 
         break;
+      case 'HWTest':
+        iconName = focused
+          ? 'hardware-chip'
+          : 'hardware-chip-outline'; 
+        break;   
     }
 
     // You can return any component that you like here!
@@ -160,6 +166,7 @@ export default function Main() {
           <Tab.Screen name="List" component={ListStackScreen}/>
           <Tab.Screen name="Map" component={MapStackScreen}/>
           <Tab.Screen name="Likes" component={LikesStackScreen}/>
+          <Tab.Screen name="HWTest" component={HWTest}/>
         </Tab.Navigator>
       </NavigationContainer>
     </SafeAreaProvider>
