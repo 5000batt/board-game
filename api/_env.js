@@ -1,2 +1,2 @@
-export const baseUrl 
-  = "http://ec2-3-34-97-143.ap-northeast-2.compute.amazonaws.com:3000";
+export const baseUrl
+  = "http://ec2-13-124-171-67.ap-northeast-2.compute.amazonaws.com:3000";
